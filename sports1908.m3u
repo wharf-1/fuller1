@@ -1,0 +1,452 @@
+﻿#EXTM3U
+#EXTINF:-1,BEIN Sport 1
+http://62.210.245.19:8000/live/testapp/testapp/81.ts
+#EXTINF:-1,BEIN Sport 2
+http://62.210.245.19:8000/live/testapp/testapp/82.ts
+#EXTINF:-1,BEIN Sport 3
+http://62.210.245.19:8000/live/testapp/testapp/83.ts
+#EXTINF:-1,SFR SPORT 1 HD
+http://62.210.245.19:8000/live/testapp/testapp/84.ts
+#EXTINF:-1,SFR SPORT 2 HD
+http://62.210.245.19:8000/live/testapp/testapp/85.ts
+#EXTINF:-1,SFR SPORT 3 HD
+http://62.210.245.19:8000/live/testapp/testapp/86.ts
+#EXTINF:-1,Eurosport 1
+http://62.210.245.19:8000/live/testapp/testapp/89.ts
+#EXTINF:-1,Eurosport 2
+http://62.210.245.19:8000/live/testapp/testapp/90.ts
+#EXTINF:-1,Equipe 21
+http://62.210.245.19:8000/live/testapp/testapp/87.ts
+#EXTINF:-1,BEINSPORT 1 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7753.ts
+#EXTINF:-1,BEINSPORT 2 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7754.ts
+#EXTINF:-1,BEINSPORT 3 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7755.ts
+#EXTINF:-1,BEINSPORT FR MAX 4
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7766.ts
+#EXTINF:-1,BEINSPORT FR MAX 5
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7767.ts
+#EXTINF:-1,BEINSPORT FR MAX 6
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7768.ts
+#EXTINF:-1,BEINSPORT FR MAX 7
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7769.ts
+#EXTINF:-1,SFR SPORT 1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5366.ts
+#EXTINF:-1,SFR SPORT 1
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6872.ts
+#EXTINF:-1,SFR SPORT 2 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5365.ts
+#EXTINF:-1,SFR SPORT 2
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6873.ts
+#EXTINF:-1,SFR SPORT 3 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9216.ts
+#EXTINF:-1,SFR SPORT 3
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9218.ts
+#EXTINF:-1,SFR SPORT 5 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9217.ts
+#EXTINF:-1,SFR SPORT 5
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9219.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5371.ts
+#EXTINF:-1,EUROSPORT 1 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6878.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5370.ts
+#EXTINF:-1,EUROSPORT  2 FR
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6879.ts
+#EXTINF:-1,INFOSPORT HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5487.ts
+#EXTINF:-1,INFOSPORT
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6892.ts
+#EXTINF:-1,L'EQUIPE 21 HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3579.ts
+#EXTINF:-1,L'EQUIPE 21
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7790.ts
+#EXTINF:-1,GOLF+ HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5469.ts
+#EXTINF:-1,GOLF+
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6906.ts
+#EXTINF:-1,GOLF CHANNEL HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5396.ts
+#EXTINF:-1,GOLF CHANNEL
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6907.ts
+#EXTINF:-1,MOTORSPORT.TV HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9280.ts
+#EXTINF:-1,MOTORSPORT.TV
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9281.ts
+#EXTINF:-1,EXTREME SPORTS
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5490.ts
+#EXTINF:-1,EQUIDIA LIFE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5466.ts
+#EXTINF:-1,EQUIDIA LIFE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6908.ts
+#EXTINF:-1,EQUIDIA LIVE HD
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5465.ts
+#EXTINF:-1,EQUIDIA LIVE
+http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6909.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS News
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/682.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS Global
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/683.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS 1HD
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/684.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS 2HD
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/685.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS 3HD
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/686.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS 4HD
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/687.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS 5HD
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/688.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS 6HD
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/689.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS 7HD
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/690.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS 8HD
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/691.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS 9HD
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/692.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS 10HD
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/693.ts
+#EXTINF:-1,iptv4sat-BeINSPORTS 11HD
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/694.ts
+#EXTINF:-1,iptv4sat-beINSPORTS 12HD
+#EXTVLCOPT:http-user-agent=RmdTV LibVLC/3.0.0-git
+http://rmd.primatv.club:8899/live/tvprima103/primaiptv113/695.ts
+#EXTINF:-1,bein 1
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+#EXTINF:-1,bein 2
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
+#EXTINF:-1,bein 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+#EXTINF:-1,bein 4
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
+#EXTINF:-1,bein 5
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
+#EXTINF:-1,bein 6
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
+#EXTINF:-1,bein 7
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
+#EXTINF:-1,bein 8
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
+#EXTINF:-1,bein 9
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
+#EXTINF:-1,bein 10
+http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS News 
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/756.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS Global
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/755.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 1 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/754.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 1 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/753.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 2 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/752.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 2 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/751.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 3 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/750.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 3 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/749.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 4 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/748.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 4 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/747.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 5 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/746.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 5 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/745.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 6 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/744.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 6 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/743.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 7 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/742.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 7 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/741.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 8 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/740.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 8 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/739.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 9HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/738.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 9 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/737.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 10 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/736.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 10 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/735.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 11 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/734.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-beINSPORTS 12 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/733.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-AD Sports 1HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/717.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-AD Sports 2HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/718.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-AD Sports 3HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/719.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-AD Sports 4HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/720.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-AD Sports 5HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/721.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-AD Sports 6HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/722.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 1HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/704.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 2HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/705.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINSPORTS 3HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/706.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINMAX 04HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/707.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINMAX 05HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/708.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINMAX 06HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/709.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINMAX 07HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/710.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINMAX 08HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/711.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINMAX 09HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/712.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-BeINMAX 10HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/713.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-SFR Sport 1HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/714.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-SFR Sport 2HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/715.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1,iptv4sat.com-SFR Sport 3HD Fr
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/716.ts
+#EXTINF:-1,(TR)_LIGTV1-YEDEK
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/2.ts
+#EXTINF:-1,(TR)_LIGTV2
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/3.ts
+#EXTINF:-1,(TR)_LIGTV3
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/4.ts
+#EXTINF:-1,(TR)_LIGTV4
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/178.ts
+#EXTINF:-1,(TR)_KANAL91
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/531.ts
+#EXTINF:-1,(TR)_SARAN_SPORT
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/612.ts
+#EXTINF:-1,(TR)_TIVIBU1
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/7.ts
+#EXTINF:-1,(TR)_TIVIBU2
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/433.ts
+#EXTINF:-1,(TR)_SMARTSPOR1
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/273.ts
+#EXTINF:-1,(TR)_SMARTSPOR2
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/434.ts
+#EXTINF:-1,(TR)_FIGHTBOX
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/535.ts
+#EXTINF:-1,(TR)_NTVSPOR
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/6.ts
+#EXTINF:-1,(TR)_TRTSPOR
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/180.ts
+#EXTINF:-1,(DE)_SKY_SPORT_1
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/61.ts
+#EXTINF:-1,(DE)_SKY_SPORT_2
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/62.ts
+#EXTINF:-1,(DE)_SKY_BUNDESLIGA
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/60.ts
+#EXTINF:-1,(UK)_SKY_SPORT_F1
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/451.ts
+#EXTINF:-1,(UK)_SKYSPORT1
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/438.ts
+#EXTINF:-1,(UK)_SKYSPORT2
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/439.ts
+#EXTINF:-1,(UK)_SKYSPORT3
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/440.ts
+#EXTINF:-1,(UK)_SKY_SPORTS_4_HD
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/450.ts
+#EXTINF:-1,(UK)_SKY_SPORTS_5_HD
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/449.ts
+#EXTINF:-1,(UK)SKY_SPORT_PREMIER_LEAGUE
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/824.ts
+#EXTINF:-1,(UK)SKY_SPORT_NEWS
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/825.ts
+#EXTINF:-1,(UK)SKY_SPORT_GOLF
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/826.ts
+#EXTINF:-1,(UK)SKY_SPORT_CRICKET
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/827.ts
+#EXTINF:-1,(UK)SKY_SPORT_ACTION
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/828.ts
+#EXTINF:-1,(UK)_BTSPORT1
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/441.ts
+#EXTINF:-1,(UK)_BTSPORT2
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/442.ts
+#EXTINF:-1,(UK)MUTV
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/834.ts
+#EXTINF:-1,(UK)LFCTV
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/835.ts
+#EXTINF:-1,(UK)CHELSEATV
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/841.ts
+#EXTINF:-1,(UK)EUROSPORT1
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/838.ts
+#EXTINF:-1,(UK)EUROSPORT2
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/837.ts
+#EXTINF:-1,(UK)EIR_SPORT_1
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/823.ts
+#EXTINF:-1,(FR)_BEIN_SPORT1_FR
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/466.ts
+#EXTINF:-1,(FR)_BEIN_SPORT2_FR
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/467.ts
+#EXTINF:-1,(FR)_BEIN_SPORT3_FR
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/468.ts
+#EXTINF:-1,(NL)_SPORT_EXTRA_VOLEYBOL_NL
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/476.ts
+#EXTINF:-1,(NL)_SPORT_EXTRA_GOLF_NL
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/475.ts
+#EXTINF:-1,(NL)_SPORT_EXTRA2_NL
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/474.ts
+#EXTINF:-1,(NL)_SPORT_EXTRA1_NL
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/473.ts
+#EXTINF:-1,(NL)_SPORT1SELECTHD
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/147.ts
+#EXTINF:-1,(NL)_SPORT1RACING
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/148.ts
+#EXTINF:-1,(NL)_FOX_SPORT6
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/150.ts
+#EXTINF:-1,(NL)_FOX_SPORT5
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/151.ts
+#EXTINF:-1,(NL)_FOX_SPORT4
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/152.ts
+#EXTINF:-1,(NL)_FOX_SPORT3
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/153.ts
+#EXTINF:-1,(NL)_FOX_SPORT2
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/154.ts
+#EXTINF:-1,(NL)_FOX_SPORT1
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/155.ts
+#EXTINF:-1,(NL)_EDGESPORT
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/156.ts
+#EXTINF:-1,(AR)_BEIN_SPORT1
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/114.ts
+#EXTINF:-1,(AR)_BEIN_SPORT2
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/115.ts
+#EXTINF:-1,(AR)_BEIN_SPORT3
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/116.ts
+#EXTINF:-1,(AR)_BEIN_SPORT4
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/157.ts
+#EXTINF:-1,(AR)_BEIN_SPORT5
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/158.ts
+#EXTINF:-1,(AR)_BEIN_SPORT6
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/443.ts
+#EXTINF:-1,(AR)_BEIN_SPORT7
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/444.ts
+#EXTINF:-1,(AR)_BEIN_SPORT8
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/445.ts
+#EXTINF:-1,(AR)_BEIN_SPORT9
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/446.ts
+#EXTINF:-1,(AR)_BEIN_SPORT10
+http://x1.viptv.pw:8000/live/UveWTMgzcn/mNEmX1U2Og/447.ts
+#EXTINF:-1,SPORT TV 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/867.ts
+#EXTINF:-1,Sport TV 1 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1396.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/858.ts
+#EXTINF:-1,SPORT TV 2
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/879.ts
+#EXTINF:-1,SPORT TV 2 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1439.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1069.ts
+#EXTINF:-1,SPORT TV 3
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/876.ts
+#EXTINF:-1,SPORT TV 3 Mobile
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1441.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1070.ts
+#EXTINF:-1,SPORT TV 4
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/874.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1145.ts
+#EXTINF:-1,SPORT TV 5
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/861.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1523.ts
+#EXTINF:-1,SPORT TV + HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1520.ts
+#EXTINF:-1,PORTO CANAL
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/888.ts
+#EXTINF:-1,SPORTING TV
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/859.ts
+#EXTINF:-1,KOMBAT SPORT
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1528.ts
+#EXTINF:-1,MOTORVISION HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1521.ts
+#EXTINF:-1,EUROSPORT 1
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1133.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://iptvsbh.ddns.net:8003/live/armindo/armindo/1290.ts
+#EXTINF:-1,AR:BEIN_SPORTS_1HD 
+http://176.31.226.149:25461/live/testest/testest/339.ts
+#EXTINF:-1,AR:BEIN_SPORTS_2HD 
+http://176.31.226.149:25461/live/testest/testest/338.ts
+#EXTINF:-1,AR:BEIN_SPORTS_3HD 
+http://176.31.226.149:25461/live/testest/testest/337.ts
+#EXTINF:-1,AR:BEIN_SPORTS_4HD 
+http://176.31.226.149:25461/live/testest/testest/336.ts
+#EXTINF:-1,bein6hd
+http://176.31.226.149:25461/live/testest/testest/334.ts
+#EXTINF:-1,bein7HD
+http://176.31.226.149:25461/live/testest/testest/342.ts
