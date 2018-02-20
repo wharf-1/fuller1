@@ -1,0 +1,801 @@
+#EXTM3U
+#EXTINF:-1,001 - BBC1 HD
+http://93.190.142.128:80/live/user2/user2/28118.ts
+#EXTINF:-1,002 - BBC2 HD
+http://93.190.142.128:80/live/user2/user2/28117.ts
+#EXTINF:-1,003 - ITV HD
+http://93.190.142.128:80/live/user2/user2/28116.ts
+#EXTINF:-1,004 - CHANNEL 4 HD
+http://93.190.142.128:80/live/user2/user2/28115.ts
+#EXTINF:-1,005 - CHANNEL 5 HD
+http://93.190.142.128:80/live/user2/user2/28114.ts
+#EXTINF:-1,006 - SLY1 HD
+http://93.190.142.128:80/live/user2/user2/28113.ts
+#EXTINF:-1,007 - SLY ATLANTIC HD
+http://93.190.142.128:80/live/user2/user2/28112.ts
+#EXTINF:-1,008 - SLY LIVING HD
+http://93.190.142.128:80/live/user2/user2/28111.ts
+#EXTINF:-1,009 - BBC 1
+http://93.190.142.128:80/live/user2/user2/28110.ts
+#EXTINF:-1,010 - BBC 2
+http://93.190.142.128:80/live/user2/user2/28109.ts
+#EXTINF:-1,011 - BBC 1 (NI)
+http://93.190.142.128:80/live/user2/user2/28108.ts
+#EXTINF:-1,012 - BBC 1 (SCT)
+http://93.190.142.128:80/live/user2/user2/28107.ts
+#EXTINF:-1,013 - BBC 2 (SCT)
+http://93.190.142.128:80/live/user2/user2/28106.ts
+#EXTINF:-1,014 - BBC 2 (WLS)
+http://93.190.142.128:80/live/user2/user2/28105.ts
+#EXTINF:-1,015 - ITV
+http://93.190.142.128:80/live/user2/user2/28104.ts
+#EXTINF:-1,016 - ITV PLUS 1 (offline)
+http://93.190.142.128:80/live/user2/user2/28103.ts
+#EXTINF:-1,017 - ITV2
+http://93.190.142.128:80/live/user2/user2/28102.ts
+#EXTINF:-1,018 - ITV3
+http://93.190.142.128:80/live/user2/user2/28101.ts
+#EXTINF:-1,019 - ITV4
+http://93.190.142.128:80/live/user2/user2/28100.ts
+#EXTINF:-1,020 - ITVBe
+http://93.190.142.128:80/live/user2/user2/28099.ts
+#EXTINF:-1,021 - CHANNEL 4
+http://93.190.142.128:80/live/user2/user2/28098.ts
+#EXTINF:-1,022 - CHANNEL 4 PLUS 1 (offline)
+http://93.190.142.128:80/live/user2/user2/28097.ts
+#EXTINF:-1,023 - 4SEVEN
+http://93.190.142.128:80/live/user2/user2/28096.ts
+#EXTINF:-1,024 - E4
+http://93.190.142.128:80/live/user2/user2/28095.ts
+#EXTINF:-1,025 - MORE4
+http://93.190.142.128:80/live/user2/user2/28094.ts
+#EXTINF:-1,026 - CHANNEL 5
+http://93.190.142.128:80/live/user2/user2/28093.ts
+#EXTINF:-1,027 - CHANNEL 5 PLUS 1 (offline)
+http://93.190.142.128:80/live/user2/user2/28092.ts
+#EXTINF:-1,028 - MY5
+http://93.190.142.128:80/live/user2/user2/28091.ts
+#EXTINF:-1,029 - 5 USA
+http://93.190.142.128:80/live/user2/user2/28090.ts
+#EXTINF:-1,030 - 5STAR
+http://93.190.142.128:80/live/user2/user2/28089.ts
+#EXTINF:-1,031 - SLY 1
+http://93.190.142.128:80/live/user2/user2/28088.ts
+#EXTINF:-1,032 - SLY 2
+http://93.190.142.128:80/live/user2/user2/28087.ts
+#EXTINF:-1,033 - SLY ATLANTIC
+http://93.190.142.128:80/live/user2/user2/28086.ts
+#EXTINF:-1,034 - SLY ARTS
+http://93.190.142.128:80/live/user2/user2/28085.ts
+#EXTINF:-1,035 - DAVE
+http://93.190.142.128:80/live/user2/user2/28084.ts
+#EXTINF:-1,036 - DAVE JA VU
+http://93.190.142.128:80/live/user2/user2/28083.ts
+#EXTINF:-1,037 - COMEDY CENTRAL
+http://93.190.142.128:80/live/user2/user2/28082.ts
+#EXTINF:-1,038 - COMEDY XTRA
+http://93.190.142.128:80/live/user2/user2/28081.ts
+#EXTINF:-1,039 - ALIBI
+http://93.190.142.128:80/live/user2/user2/28080.ts
+#EXTINF:-1,040 - AMC UK
+http://93.190.142.128:80/live/user2/user2/28079.ts
+#EXTINF:-1,041 - DMAX
+http://93.190.142.128:80/live/user2/user2/28078.ts
+#EXTINF:-1,042 - DRAMA
+http://93.190.142.128:80/live/user2/user2/28077.ts
+#EXTINF:-1,043 - E!
+http://93.190.142.128:80/live/user2/user2/28076.ts
+#EXTINF:-1,044 - EDEN
+http://93.190.142.128:80/live/user2/user2/28075.ts
+#EXTINF:-1,045 - FOOD NETWORK
+http://93.190.142.128:80/live/user2/user2/28074.ts
+#EXTINF:-1,046 - GOOD FOOD
+http://93.190.142.128:80/live/user2/user2/28073.ts
+#EXTINF:-1,047 - FOX
+http://93.190.142.128:80/live/user2/user2/28072.ts
+#EXTINF:-1,048 - GOLD
+http://93.190.142.128:80/live/user2/user2/28071.ts
+#EXTINF:-1,049 - HOME
+http://93.190.142.128:80/live/user2/user2/28070.ts
+#EXTINF:-1,050 - HORROR CHANNEL
+http://93.190.142.128:80/live/user2/user2/28069.ts
+#EXTINF:-1,051 - LIFETIME
+http://93.190.142.128:80/live/user2/user2/28068.ts
+#EXTINF:-1,052 - PICK
+http://93.190.142.128:80/live/user2/user2/28067.ts
+#EXTINF:-1,053 - QUEST
+http://93.190.142.128:80/live/user2/user2/28066.ts
+#EXTINF:-1,054 - REALLY
+http://93.190.142.128:80/live/user2/user2/28065.ts
+#EXTINF:-1,055 - SYFY
+http://93.190.142.128:80/live/user2/user2/28064.ts
+#EXTINF:-1,056 - TLC
+http://93.190.142.128:80/live/user2/user2/28063.ts
+#EXTINF:-1,057 - UNIVERSAL
+http://93.190.142.128:80/live/user2/user2/28062.ts
+#EXTINF:-1,058 - W
+http://93.190.142.128:80/live/user2/user2/28061.ts
+#EXTINF:-1,059 - YESTERDAY
+http://93.190.142.128:80/live/user2/user2/28060.ts
+#EXTINF:-1,060 - RTE 1
+http://93.190.142.128:80/live/user2/user2/28059.ts
+#EXTINF:-1,061 - RTE 2
+http://93.190.142.128:80/live/user2/user2/28058.ts
+#EXTINF:-1,062 - 3E
+http://93.190.142.128:80/live/user2/user2/28057.ts
+#EXTINF:-1,063 - TV3
+http://93.190.142.128:80/live/user2/user2/28056.ts
+#EXTINF:-1,064 - TG4
+http://93.190.142.128:80/live/user2/user2/28055.ts
+#EXTINF:-1,070 - SLY NEWS
+http://93.190.142.128:80/live/user2/user2/28054.ts
+#EXTINF:-1,071 - FOX NEWS
+http://93.190.142.128:80/live/user2/user2/28053.ts
+#EXTINF:-1,072 - CNN NEWS
+http://93.190.142.128:80/live/user2/user2/28052.ts
+#EXTINF:-1,073 - BBC NEWS
+http://93.190.142.128:80/live/user2/user2/28051.ts
+#EXTINF:-1,074 - CBBC
+http://93.190.142.128:80/live/user2/user2/28050.ts
+#EXTINF:-1,075 - CBEEBIES
+http://93.190.142.128:80/live/user2/user2/28049.ts
+#EXTINF:-1,076 - DISNEY CHANNEL
+http://93.190.142.128:80/live/user2/user2/28048.ts
+#EXTINF:-1,077 - DISNEY XD
+http://93.190.142.128:80/live/user2/user2/28047.ts
+#EXTINF:-1,078 - DISNEY Jr
+http://93.190.142.128:80/live/user2/user2/28046.ts
+#EXTINF:-1,079 - CARTOON NETWORK
+http://93.190.142.128:80/live/user2/user2/28045.ts
+#EXTINF:-1,080 - BOOMERANG
+http://93.190.142.128:80/live/user2/user2/28044.ts
+#EXTINF:-1,081 - NICKELODEON
+http://93.190.142.128:80/live/user2/user2/28043.ts
+#EXTINF:-1,082 - NICK TOONS
+http://93.190.142.128:80/live/user2/user2/28042.ts
+#EXTINF:-1,083 - NICK JNR
+http://93.190.142.128:80/live/user2/user2/28041.ts
+#EXTINF:-1,084 - NICK JNR TOO
+http://93.190.142.128:80/live/user2/user2/28040.ts
+#EXTINF:-1,085 - BABY TV
+http://93.190.142.128:80/live/user2/user2/28039.ts
+#EXTINF:-1,086 - NAT GEO WILD HD
+http://93.190.142.128:80/live/user2/user2/28038.ts
+#EXTINF:-1,087 - NAT GEO HD
+http://93.190.142.128:80/live/user2/user2/28036.ts
+#EXTINF:-1,088 - CRIME AND INVESTIGATION HD
+http://93.190.142.128:80/live/user2/user2/28034.ts
+#EXTINF:-1,089 - ANIMAL PLANET HD
+http://93.190.142.128:80/live/user2/user2/28032.ts
+#EXTINF:-1,090 - ANIMAL PLANET
+http://93.190.142.128:80/live/user2/user2/28031.ts
+#EXTINF:-1,091 - H2 HD
+http://93.190.142.128:80/live/user2/user2/28030.ts
+#EXTINF:-1,092 - HISTORY HD
+http://93.190.142.128:80/live/user2/user2/28028.ts
+#EXTINF:-1,093 - DICOVERY HISTORY HD
+http://93.190.142.128:80/live/user2/user2/28026.ts
+#EXTINF:-1,094 - DICOVERY HISTORY
+http://93.190.142.128:80/live/user2/user2/28025.ts
+#EXTINF:-1,095 - DICOVERY SCIENCE HD
+http://93.190.142.128:80/live/user2/user2/28024.ts
+#EXTINF:-1,096 - DICOVERY SCIENCE
+http://93.190.142.128:80/live/user2/user2/28023.ts
+#EXTINF:-1,097 - DICOVERY TURBO HD
+http://93.190.142.128:80/live/user2/user2/28022.ts
+#EXTINF:-1,098 - DICOVERY TURBO
+http://93.190.142.128:80/live/user2/user2/28021.ts
+#EXTINF:-1,099 - DICOVERY HD
+http://93.190.142.128:80/live/user2/user2/28020.ts
+#EXTINF:-1,100 - DICOVERY
+http://93.190.142.128:80/live/user2/user2/28019.ts
+#EXTINF:-1,101 - DICOVERY SHED HD
+http://93.190.142.128:80/live/user2/user2/28018.ts
+#EXTINF:-1,102 - DICOVERY SHED
+http://93.190.142.128:80/live/user2/user2/28017.ts
+#EXTINF:-1,103 - ID HD
+http://93.190.142.128:80/live/user2/user2/28016.ts
+#EXTINF:-1,104 - ID
+http://93.190.142.128:80/live/user2/user2/28015.ts
+#EXTINF:-1,Animal Planet HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2378.ts
+#EXTINF:-1,Animal Planet
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1047.ts
+#EXTINF:-1,Animal Planet +1
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1038.ts
+#EXTINF:-1,ID HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/975.ts
+#EXTINF:-1,ID
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2148.ts
+#EXTINF:-1,National Geographic HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2045.ts
+#EXTINF:-1,National Geographic
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/100.ts
+#EXTINF:-1,National Geographic Wild UK HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2406.ts
+#EXTINF:-1,National Geographic Wild
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/122.ts
+#EXTINF:-1,Yesterday HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2407.ts
+#EXTINF:-1,Yesterday
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/969.ts
+#EXTINF:-1,H2 UK
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2408.ts
+#EXTINF:-1,H2 HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/128.ts
+#EXTINF:-1,Discovery HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/982.ts
+#EXTINF:-1,Discovery uk
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2409.ts
+#EXTINF:-1,Discovery History HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2374.ts
+#EXTINF:-1,Discovery History
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1050.ts
+#EXTINF:-1,History UK
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2410.ts
+#EXTINF:-1,History
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/232.ts
+#EXTINF:-1,Discovery Shed HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2376.ts
+#EXTINF:-1,Discovery Shed
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/980.ts
+#EXTINF:-1,Discovery Turbo HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2377.ts
+#EXTINF:-1,Discovery Turbo
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/206.ts
+#EXTINF:-1,Discovery Science HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2375.ts
+#EXTINF:-1,Discovery Science
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1049.ts
+#EXTINF:-1,Crime & Investigation uk
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2411.ts
+#EXTINF:-1,Crime and Investigation
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1692.ts
+#EXTINF:-1,DMAX
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1408.ts
+#EXTINF:-1,EDen
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1412.ts
+#EXTINF:-1,Quest
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/610.ts
+#EXTINF:-1,E !
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/456.ts
+#EXTINF:-1,Good Food
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/978.ts
+#EXTINF:-1,Cartoon network
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1411.ts
+#EXTINF:-1,CBeebies HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1691.ts
+#EXTINF:-1,Nick Junior
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1190.ts
+#EXTINF:-1,Nickelodeon
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1189.ts
+#EXTINF:-1,Nicktoons
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1188.ts
+#EXTINF:-1,BOOMERANG
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/75.ts
+#EXTINF:-1,Disney Channel
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/133.ts
+#EXTINF:-1,Disney Junior
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/185.ts
+#EXTINF:-1,Disney XD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/124.ts
+#EXTINF:-1,CBBC HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2066.ts
+#EXTINF:-1,Baby TV
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/815.ts
+#EXTINF:-1,NICK JR 2
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/158.ts
+#EXTINF:-1,BBC One
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2237.ts
+#EXTINF:-1,BBC One Northern Ireland HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2235.ts
+#EXTINF:-1,BBC Two HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2239.ts
+#EXTINF:-1,BBC Two Northern ireland
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2243.ts
+#EXTINF:-1,BBC Parliament
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2238.ts
+#EXTINF:-1,BBC Four HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2258.ts
+#EXTINF:-1,BBC Alba
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/459.ts
+#EXTINF:-1,BBC News HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2257.ts
+#EXTINF:-1,ITV
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2357.ts
+#EXTINF:-1,ITV2
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2358.ts
+#EXTINF:-1,ITV3
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2359.ts
+#EXTINF:-1,ITV4
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2360.ts
+#EXTINF:-1,ITVBe
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2361.ts
+#EXTINF:-1,channel 4 HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1395.ts
+#EXTINF:-1,Channel 5
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1389.ts
+#EXTINF:-1,Sky one HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2204.ts
+#EXTINF:-1,SKY2 HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1435.ts
+#EXTINF:-1,Alibi
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/118.ts
+#EXTINF:-1,Sky living
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2205.ts
+#EXTINF:-1,Sky Atlantic HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1191.ts
+#EXTINF:-1,Comedy Central HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/156.ts
+#EXTINF:-1,Syfy HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2051.ts
+#EXTINF:-1,Gold
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2207.ts
+#EXTINF:-1,Sky Arts
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/945.ts
+#EXTINF:-1,E4 UK
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2415.ts
+#EXTINF:-1,E4
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2201.ts
+#EXTINF:-1,UK: Universal Channel
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1400.ts
+#EXTINF:-1,CBS Action HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2052.ts
+#EXTINF:-1,CBS Drama
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1029.ts
+#EXTINF:-1,CBS REALITY
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1028.ts
+#EXTINF:-1,W
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2053.ts
+#EXTINF:-1,Pick TV
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/207.ts
+#EXTINF:-1,UK | TLC
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2413.ts
+#EXTINF:-1,ITV Encore
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/955.ts
+#EXTINF:-1,RTE One
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/929.ts
+#EXTINF:-1,RTE Two
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/928.ts
+#EXTINF:-1,TG4
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/927.ts
+#EXTINF:-1,Rte Jr
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/931.ts
+#EXTINF:-1,BLAZE
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/941.ts
+#EXTINF:-1,Dave
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/937.ts
+#EXTINF:-1,5 usa
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1393.ts
+#EXTINF:-1,5 star
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1394.ts
+#EXTINF:-1,Fox
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/968.ts
+#EXTINF:-1,Sky News HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2025.ts
+#EXTINF:-1,CNN HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2037.ts
+#EXTINF:-1,MTV
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2006.ts
+#EXTINF:-1,MTV ROCKS
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/827.ts
+#EXTINF:-1,MTV MUSIC
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/829.ts
+#EXTINF:-1,MTV Classic
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/831.ts
+#EXTINF:-1,MTV Base
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2056.ts
+#EXTINF:-1,MTV Dance
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/830.ts
+#EXTINF:-1,VIVA
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/823.ts
+#EXTINF:-1,Heart TV
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/826.ts
+#EXTINF:-1,Box Hits
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2065.ts
+#EXTINF:-1,MAGIC
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2203.ts
+#EXTINF:-1,KISS
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/950.ts
+#EXTINF:-1,Keep It Country
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1228.ts
+#EXTINF:-1,VH1
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2063.ts
+#EXTINF:-1,Scuzz
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2064.ts
+#EXTINF:-1,UK:Hum Europe
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/843.ts
+#EXTINF:-1,UKR:Nollywood
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/834.ts
+#EXTINF:-1,UK:Sony Channel
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/838.ts
+#EXTINF:-1,UKR:Sony SAB
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/836.ts
+#EXTINF:-1,UKR:SONY TV
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/835.ts
+#EXTINF:-1,UK::Star Gold
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1183.ts
+#EXTINF:-1,UK::Star Plus
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1182.ts
+#EXTINF:-1,UK:Star Gold
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/850.ts
+#EXTINF:-1,UK: Motors UK
+http://iptv4access.net:8080/live/alpay20/alpay20/286.ts
+#EXTINF:-1,UK: ESPN HD
+http://iptv4access.net:8080/live/alpay20/alpay20/293.ts
+#EXTINF:-1,UK: Box Nation
+http://iptv4access.net:8080/live/alpay20/alpay20/300.ts
+#EXTINF:-1,UK: MTV
+http://iptv4access.net:8080/live/alpay20/alpay20/285.ts
+#EXTINF:-1,UK: MTV BASE
+http://iptv4access.net:8080/live/alpay20/alpay20/3922.ts
+#EXTINF:-1,UK: MTV DANCE
+http://iptv4access.net:8080/live/alpay20/alpay20/3923.ts
+#EXTINF:-1,UK: MTV EUROPE
+http://iptv4access.net:8080/live/alpay20/alpay20/3924.ts
+#EXTINF:-1,UK: MTV HITS
+http://iptv4access.net:8080/live/alpay20/alpay20/3925.ts
+#EXTINF:-1,UK: MTV LIVE
+http://iptv4access.net:8080/live/alpay20/alpay20/3926.ts
+#EXTINF:-1,UK: MTV MUSIC
+http://iptv4access.net:8080/live/alpay20/alpay20/3927.ts
+#EXTINF:-1,UK: MTV ROCKS
+http://iptv4access.net:8080/live/alpay20/alpay20/3928.ts
+#EXTINF:-1,UK: Sky One HD
+http://iptv4access.net:8080/live/alpay20/alpay20/274.ts
+#EXTINF:-1,UK: ANIMAL-PLANET
+http://iptv4access.net:8080/live/alpay20/alpay20/305.ts
+#EXTINF:-1,UK: Discovery
+http://iptv4access.net:8080/live/alpay20/alpay20/296.ts
+#EXTINF:-1,UK: Nat Geo Wild UK
+http://iptv4access.net:8080/live/alpay20/alpay20/284.ts
+#EXTINF:-1,UK: National Geographic UK
+http://iptv4access.net:8080/live/alpay20/alpay20/283.ts
+#EXTINF:-1,UK: Discovery History
+http://iptv4access.net:8080/live/alpay20/alpay20/295.ts
+#EXTINF:-1,UK: Disney Channel
+http://iptv4access.net:8080/live/alpay20/alpay20/294.ts
+#EXTINF:-1,USA: A
+http://iptv4access.net:8080/live/alpay20/alpay20/3264.ts
+#EXTINF:-1,USA: ABC
+http://iptv4access.net:8080/live/alpay20/alpay20/3263.ts
+#EXTINF:-1,UK: CBS ACTION
+http://iptv4access.net:8080/live/alpay20/alpay20/3929.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://iptv4access.net:8080/live/alpay20/alpay20/3930.ts
+#EXTINF:-1,UK: CBS REALITY
+http://iptv4access.net:8080/live/alpay20/alpay20/3931.ts
+#EXTINF:-1,CNN HD
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/73717.ts
+#EXTINF:-1,A&E (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79754.ts
+#EXTINF:-1,ABC EAST (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79729.ts
+#EXTINF:-1,AMC (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79730.ts
+#EXTINF:-1,BBC America (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79741.ts
+#EXTINF:-1,BET (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79705.ts
+#EXTINF:-1,BLOOMBERG (US) Directs
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79801.ts
+#EXTINF:-1,BRAVO (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79753.ts
+#EXTINF:-1,CARTOON NETWORK (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79768.ts
+#EXTINF:-1,CBS EAST
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79835.ts
+#EXTINF:-1,CBS Sports Network (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79860.ts
+#EXTINF:-1,Comedy Central (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79726.ts
+#EXTINF:-1,COOKING CHANNEL (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79747.ts
+#EXTINF:-1,CW NETWORK HD(US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79732.ts
+#EXTINF:-1,DISNEY CHANNEL (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79763.ts
+#EXTINF:-1,DISNEY JR (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79765.ts
+#EXTINF:-1,DISNEY XD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79764.ts
+#EXTINF:-1,DogTV (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79737.ts
+#EXTINF:-1,E! HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79745.ts
+#EXTINF:-1,American Hero Channel (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/85074.ts
+#EXTINF:-1,GET TV (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/85072.ts
+#EXTINF:-1,Grit TV (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/85073.ts
+#EXTINF:-1,EL REY (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79743.ts
+#EXTINF:-1,Food Network HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79746.ts
+#EXTINF:-1,FOX BUSINESS HD
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79831.ts
+#EXTINF:-1,FOX HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79728.ts
+#EXTINF:-1,FOX NEWS 25 Directs
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79799.ts
+#EXTINF:-1,FOX NEWS HD
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79832.ts
+#EXTINF:-1,FREEFORM HD
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79708.ts
+#EXTINF:-1,FUSE HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79734.ts
+#EXTINF:-1,FX HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79714.ts
+#EXTINF:-1,FXX HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79711.ts
+#EXTINF:-1,GSN (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79742.ts
+#EXTINF:-1,Hallmark Movies & Mysteries HD
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79771.ts
+#EXTINF:-1,HGTV HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/80324.ts
+#EXTINF:-1,HBO 2 East (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79778.ts
+#EXTINF:-1,ION TV
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79756.ts
+#EXTINF:-1,LIFETIME HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79748.ts
+#EXTINF:-1,LIFETIME MOVIE NETWORK HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79770.ts
+#EXTINF:-1,MAV TV (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79750.ts
+#EXTINF:-1,MSNBC
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79830.ts
+#EXTINF:-1,NBC HD EAST
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79834.ts
+#EXTINF:-1,NBCSN
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79845.ts
+#EXTINF:-1,NICK Jr (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79766.ts
+#EXTINF:-1,NICKELODEN (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79767.ts
+#EXTINF:-1,OWN Directs
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79707.ts
+#EXTINF:-1,Oxygen HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79749.ts
+#EXTINF:-1,SHOWTIME HD
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79776.ts
+#EXTINF:-1,SHOWTIME 2
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79775.ts
+#EXTINF:-1,Paramount network (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79717.ts
+#EXTINF:-1,STARZ EAST
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79773.ts
+#EXTINF:-1,HBO Comedy HD East (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/84808.ts
+#EXTINF:-1,CINEMAX ACTION MAX (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/84811.ts
+#EXTINF:-1,CINEMAX HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/84814.ts
+#EXTINF:-1,Cinemax MoreMax HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/84813.ts
+#EXTINF:-1,CINEMAX OUTER MAX (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/84810.ts
+#EXTINF:-1,Cinemax Thriller Max HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/84812.ts
+#EXTINF:-1,HBO Comedy HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/84805.ts
+#EXTINF:-1,HBO Family HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/84804.ts
+#EXTINF:-1,HBO HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/84807.ts
+#EXTINF:-1,HBO HD 2 (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/84801.ts
+#EXTINF:-1,HBO Signature HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/84803.ts
+#EXTINF:-1,HBO Zone HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/84806.ts
+#EXTINF:-1,SUNDANCE TV
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79759.ts
+#EXTINF:-1,SYFY HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79751.ts
+#EXTINF:-1,TBS HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79760.ts
+#EXTINF:-1,Hallmark HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79870.ts
+#EXTINF:-1,ANIMAL PLANET (US) (Direct)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79883.ts
+#EXTINF:-1,Destination America (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79881.ts
+#EXTINF:-1,Discovery Channel HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79880.ts
+#EXTINF:-1,DISCOVERY SCIENCE CHANNEL HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79879.ts
+#EXTINF:-1,DIY NETWORK (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79872.ts
+#EXTINF:-1,History (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79873.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79884.ts
+#EXTINF:-1,NAT GEO WILD HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79875.ts
+#EXTINF:-1,National Geographic Channel(US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79877.ts
+#EXTINF:-1,Discovery Velocity HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79874.ts
+#EXTINF:-1,TCM (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79761.ts
+#EXTINF:-1,The Weather Channel HD
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79807.ts
+#EXTINF:-1,TLC (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79715.ts
+#EXTINF:-1,TNT HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79757.ts
+#EXTINF:-1,TruTV HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79758.ts
+#EXTINF:-1,TV Land HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79723.ts
+#EXTINF:-1,TV ONE (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79752.ts
+#EXTINF:-1,UFC Fight Pass
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79833.ts
+#EXTINF:-1,USA NETWORK HD
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79755.ts
+#EXTINF:-1,VH1 HD (US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79719.ts
+#EXTINF:-1,VICELAND HD(US)
+http://fhdiptv3.ddns.net:8080/live/Butch/Butch/79744.ts
+#EXTINF:-1,CAN:Sportsnet_World_HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1060.ts
+#EXTINF:-1,USA : MSNBC
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2087.ts
+#EXTINF:-1,USA ESPN USA
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/159.ts
+#EXTINF:-1,USA FOX NEWS USA
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/160.ts
+#EXTINF:-1,USA HISTORY USA
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/157.ts
+#EXTINF:-1,USA: Comedy Central HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1621.ts
+#EXTINF:-1,USA: CSPAN 1HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1620.ts
+#EXTINF:-1,USA: CSPAN 2HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1619.ts
+#EXTINF:-1,USA: CSPAN 3HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1618.ts
+#EXTINF:-1,USA: Discovery Channel HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1615.ts
+#EXTINF:-1,TSN 1 HD (3pm kick offs)
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/617.ts
+#EXTINF:-1,USA: ABC HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1642.ts
+#EXTINF:-1,USA: SYFY
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1640.ts
+#EXTINF:-1,USA: ABC News HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1639.ts
+#EXTINF:-1,TSN 2 HD (3pm kick offs)
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/616.ts
+#EXTINF:-1,USA | National Geographic
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/155.ts
+#EXTINF:-1,USA: ESPN HD US
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1613.ts
+#EXTINF:-1,TSN 4 HD (3pm kick offs)
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/614.ts
+#EXTINF:-1,TSN 3 HD (3pm kick offs)
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/615.ts
+#EXTINF:-1,CAN:SPORTSNET East HD.
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2412.ts
+#EXTINF:-1,USA | Sportsnet pacific
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/2404.ts
+#EXTINF:-1,TSN 5 HD (3pm kick offs)
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/613.ts
+#EXTINF:-1,USA: TLC HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1573.ts
+#EXTINF:-1,USA:INVESTIGATION DISCVERY US
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1641.ts
+#EXTINF:-1,usa Sportsnet Ontario
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1405.ts
+#EXTINF:-1,USA:CA | Sportsnet 360 HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1069.ts
+#EXTINF:-1,US: SPORTSNET ONE HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1293.ts
+#EXTINF:-1,US: SPORTSNET WORLD HD
+http://fastptv.altrashare.net:8000/live/gurt321/8svWBq97sO/1292.ts
+#EXTINF:-1,USA: CBS HD
+http://iptv4access.net:8080/live/alpay20/alpay20/3265.ts
+#EXTINF:-1,USA: CBSN HD
+http://iptv4access.net:8080/live/alpay20/alpay20/3839.ts
+#EXTINF:-1,USA: FOX HD
+http://iptv4access.net:8080/live/alpay20/alpay20/3272.ts
+#EXTINF:-1,USA: FX HD
+http://iptv4access.net:8080/live/alpay20/alpay20/2995.ts
+#EXTINF:-1,USA: FX
+http://iptv4access.net:8080/live/alpay20/alpay20/3273.ts
+#EXTINF:-1,USA: HBO
+http://iptv4access.net:8080/live/alpay20/alpay20/3266.ts
+#EXTINF:-1,USA: HBO COMEDY
+http://iptv4access.net:8080/live/alpay20/alpay20/3267.ts
+#EXTINF:-1,USA: HBO SIGNATURE
+http://iptv4access.net:8080/live/alpay20/alpay20/3269.ts
+#EXTINF:-1,USA: HBO ZONE
+http://iptv4access.net:8080/live/alpay20/alpay20/3268.ts
+#EXTINF:-1,USA: HALLMARK
+http://iptv4access.net:8080/live/alpay20/alpay20/3837.ts
+#EXTINF:-1,USA: STARZ HD
+http://iptv4access.net:8080/live/alpay20/alpay20/3275.ts
+#EXTINF:-1,USA: SYFY HD
+http://iptv4access.net:8080/live/alpay20/alpay20/3274.ts
+#EXTINF:-1,USA: NBC HD
+http://iptv4access.net:8080/live/alpay20/alpay20/3271.ts
+#EXTINF:-1,USA: CINEMAX HD
+http://iptv4access.net:8080/live/alpay20/alpay20/3270.ts
+#EXTINF:-1,USA: Cinemax ActionMax
+http://iptv4access.net:8080/live/alpay20/alpay20/2991.ts
+#EXTINF:-1,USA: CNN
+http://iptv4access.net:8080/live/alpay20/alpay20/3838.ts
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://iptv4access.net:8080/live/alpay20/alpay20/2992.ts
+#EXTINF:-1,USA: NAT GEO HD
+http://iptv4access.net:8080/live/alpay20/alpay20/2997.ts
+#EXTINF:-1,USA: Tsn-Sport 1 HD
+http://iptv4access.net:8080/live/alpay20/alpay20/2985.ts
+#EXTINF:-1,USA: Tsn-Sport 2 HD
+http://iptv4access.net:8080/live/alpay20/alpay20/2986.ts
+#EXTINF:-1,USA: Tsn-Sport 3 HD
+http://iptv4access.net:8080/live/alpay20/alpay20/2987.ts
+#EXTINF:-1,USA: Tsn-Sport 4 HD
+http://iptv4access.net:8080/live/alpay20/alpay20/2988.ts
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://iptv4access.net:8080/live/alpay20/alpay20/2989.ts
+#EXTINF:-1,USA: AFN Sports HD
+http://iptv4access.net:8080/live/alpay20/alpay20/2990.ts
+#EXTINF:-1,USA: SPORTS NET 360 HD
+http://iptv4access.net:8080/live/alpay20/alpay20/3276.ts
+#EXTINF:-1,USA: SPORTS NET ONE HD
+http://iptv4access.net:8080/live/alpay20/alpay20/3277.ts
+#EXTINF:-1,USA: SPORTS NET ONTARIO HD
+http://iptv4access.net:8080/live/alpay20/alpay20/3278.ts
+#EXTINF:-1,USA: Fight Sport 1
+http://iptv4access.net:8080/live/alpay20/alpay20/2994.ts
+#EXTINF:-1,USA: BEIN SPORT USA
+http://iptv4access.net:8080/live/alpay20/alpay20/2993.ts
+#EXTINF:-1,USA: NFL Network HD
+http://iptv4access.net:8080/live/alpay20/alpay20/2998.ts
+#EXTINF:-1,USA: SportsNet One HD
+http://iptv4access.net:8080/live/alpay20/alpay20/2996.ts
+#EXTINF:-1,US:ABC
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/934.ts
+#EXTINF:-1,US:HBO HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/935.ts
+#EXTINF:-1,US:ABC NEWS
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1997.ts
+#EXTINF:-1,US:BLOOMBERG TV
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1996.ts
+#EXTINF:-1,US:SPORTSNET ONE HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1995.ts
+#EXTINF:-1,US:SPORTS NET WORD HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1994.ts
+#EXTINF:-1,US:NBC SPORT HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1993.ts
+#EXTINF:-1,US:HALLMARK HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1992.ts
+#EXTINF:-1,US:TSN SPORT 1
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1998.ts
+#EXTINF:-1,US:TSN SPORT 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1999.ts
+#EXTINF:-1,US:TSN SPORT 3
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2000.ts
+#EXTINF:-1,US:TSN SPORT 4
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2001.ts
+#EXTINF:-1,US:NBC
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2312.ts
+#EXTINF:-1,US:TBS
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2313.ts
+#EXTINF:-1,US:AFN PRIME ATLANTIC
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1984.ts
+#EXTINF:-1,US:CBS
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1985.ts
+#EXTINF:-1,US:CNBC
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1986.ts
+#EXTINF:-1,US:ESPN 2
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1987.ts
+#EXTINF:-1,US:USA NETWORK HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1988.ts
+#EXTINF:-1,US:NFL NETWORK HD
+http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1969.ts
