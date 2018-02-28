@@ -1,1469 +1,452 @@
  #EXTM3U
-#EXTINF:-1,UK | 4 SEVEN
-http://p4.giffy.be:8080/live/test12345/test12345/30513.ts
-#EXTINF:-1,UK | 5 STAR
-http://p4.giffy.be:8080/live/test12345/test12345/30512.ts
-#EXTINF:-1,UK | 5 USA
-http://p4.giffy.be:8080/live/test12345/test12345/30514.ts
-#EXTINF:-1,UK | ANIMAL PLANET
-http://p4.giffy.be:8080/live/test12345/test12345/30530.ts
-#EXTINF:-1,UK | BBC ALBA
-http://p4.giffy.be:8080/live/test12345/test12345/30543.ts
-#EXTINF:-1,UK | BBC ONE SCOTLAND
-http://p4.giffy.be:8080/live/test12345/test12345/30547.ts
-#EXTINF:-1,UK | BBC ONE WALES
-http://p4.giffy.be:8080/live/test12345/test12345/30548.ts
-#EXTINF:-1,UK | BBC PARLIEMNT
-http://p4.giffy.be:8080/live/test12345/test12345/30542.ts
-#EXTINF:-1,UK | BBC TWO NORTHERN IRELAND
-http://p4.giffy.be:8080/live/test12345/test12345/30544.ts
-#EXTINF:-1,UK | BBC TWO SCOTLAND
-http://p4.giffy.be:8080/live/test12345/test12345/30545.ts
-#EXTINF:-1,UK | BBC TWO WALES
-http://p4.giffy.be:8080/live/test12345/test12345/30546.ts
 #EXTINF:-1,UK | BBC1
-http://p4.giffy.be:8080/live/test12345/test12345/30549.ts
+http://pro.prox7.com:8080/live/firat1/firat1234/7857.ts
 #EXTINF:-1,UK | BBC2
-http://p4.giffy.be:8080/live/test12345/test12345/30550.ts
+http://pro.prox7.com:8080/live/firat1/firat1234/7858.ts
 #EXTINF:-1,UK | BBC3
-http://p4.giffy.be:8080/live/test12345/test12345/30551.ts
-#EXTINF:-1,UK | BBC4
-http://p4.giffy.be:8080/live/test12345/test12345/30552.ts
-#EXTINF:-1,UK | CBS ACTION
-http://p4.giffy.be:8080/live/test12345/test12345/30526.ts
-#EXTINF:-1,UK | CBS DRAMA
-http://p4.giffy.be:8080/live/test12345/test12345/30525.ts
-#EXTINF:-1,UK | CBS REALITY
-http://p4.giffy.be:8080/live/test12345/test12345/30524.ts
-#EXTINF:-1,UK | CHANNEL 14
-http://p4.giffy.be:8080/live/test12345/test12345/30554.ts
-#EXTINF:-1,UK | CRIME INVESTIGATION
-http://p4.giffy.be:8080/live/test12345/test12345/30504.ts
-#EXTINF:-1,UK | DAVE
-http://p4.giffy.be:8080/live/test12345/test12345/30511.ts
-#EXTINF:-1,UK | DAVE HD
-http://p4.giffy.be:8080/live/test12345/test12345/30560.ts
-#EXTINF:-1,UK | DISCOVERY CH
-http://p4.giffy.be:8080/live/test12345/test12345/30539.ts
-#EXTINF:-1,UK | DISCOVERY HISTORY
-http://p4.giffy.be:8080/live/test12345/test12345/30538.ts
-#EXTINF:-1,UK | DISCOVERY HOME & HEALTH
-http://p4.giffy.be:8080/live/test12345/test12345/30537.ts
-#EXTINF:-1,UK | DISCOVERY SCIENCE
-http://p4.giffy.be:8080/live/test12345/test12345/30536.ts
-#EXTINF:-1,UK | DISCOVERY SHED
-http://p4.giffy.be:8080/live/test12345/test12345/30535.ts
-#EXTINF:-1,UK | DISCOVERY TURBO
-http://p4.giffy.be:8080/live/test12345/test12345/30534.ts
-#EXTINF:-1,UK | E4
-http://p4.giffy.be:8080/live/test12345/test12345/30522.ts
-#EXTINF:-1,UK | FOOD NETWORK
-http://p4.giffy.be:8080/live/test12345/test12345/30521.ts
-#EXTINF:-1,UK | FOX VOD
-http://p4.giffy.be:8080/live/test12345/test12345/30520.ts
-#EXTINF:-1,UK | HISTORY
-http://p4.giffy.be:8080/live/test12345/test12345/30528.ts
-#EXTINF:-1,UK | HISTORY 1
-http://p4.giffy.be:8080/live/test12345/test12345/30523.ts
-#EXTINF:-1,UK | HOME
-http://p4.giffy.be:8080/live/test12345/test12345/30527.ts
-#EXTINF:-1,UK | INVESTIGATION DISCOVERY
-http://p4.giffy.be:8080/live/test12345/test12345/30533.ts
-#EXTINF:-1,UK | ITV BE
-http://p4.giffy.be:8080/live/test12345/test12345/30519.ts
-#EXTINF:-1,UK | ITV ENCORE
-http://p4.giffy.be:8080/live/test12345/test12345/30555.ts
-#EXTINF:-1,UK | ITV LONDON
-http://p4.giffy.be:8080/live/test12345/test12345/30518.ts
+http://pro.prox7.com:8080/live/firat1/firat1234/7859.ts
+#EXTINF:-1,UK | BTSport1
+http://pro.prox7.com:8080/live/firat1/firat1234/7901.ts
+#EXTINF:-1,UK | BTSport2
+http://pro.prox7.com:8080/live/firat1/firat1234/7902.ts
+#EXTINF:-1,UK | BTSportESPN
+http://pro.prox7.com:8080/live/firat1/firat1234/7903.ts
+#EXTINF:-1,UK | BTSportEurope
+http://pro.prox7.com:8080/live/firat1/firat1234/7900.ts
+#EXTINF:-1,UK | CBSAction
+http://pro.prox7.com:8080/live/firat1/firat1234/7862.ts
+#EXTINF:-1,UK | CBSDrama
+http://pro.prox7.com:8080/live/firat1/firat1234/7861.ts
+#EXTINF:-1,UK | CBSReality
+http://pro.prox7.com:8080/live/firat1/firat1234/7860.ts
+#EXTINF:-1,UK | Channel4
+http://pro.prox7.com:8080/live/firat1/firat1234/7863.ts
+#EXTINF:-1,UK | Channel5
+http://pro.prox7.com:8080/live/firat1/firat1234/7864.ts
+#EXTINF:-1,UK | ComedyCentral
+http://pro.prox7.com:8080/live/firat1/firat1234/7865.ts
+#EXTINF:-1,UK | Discovery Science HD
+http://pro.prox7.com:8080/live/firat1/firat1234/7870.ts
+#EXTINF:-1,UK | Discovery Turbo HD
+http://pro.prox7.com:8080/live/firat1/firat1234/7871.ts
+#EXTINF:-1,UK | DiscoveryChannelHD
+http://pro.prox7.com:8080/live/firat1/firat1234/7868.ts
+#EXTINF:-1,UK | DiscoveryShed
+http://pro.prox7.com:8080/live/firat1/firat1234/7869.ts
+#EXTINF:-1,UK | DisneyChannel
+http://pro.prox7.com:8080/live/firat1/firat1234/7867.ts
+#EXTINF:-1,UK | DisneyJunior
+http://pro.prox7.com:8080/live/firat1/firat1234/7866.ts
+#EXTINF:-1,UK | Dmax.
+http://pro.prox7.com:8080/live/firat1/firat1234/7889.ts
+#EXTINF:-1,UK | EUROSPORT1
+http://pro.prox7.com:8080/live/firat1/firat1234/7890.ts
+#EXTINF:-1,UK | EUROSPORT2
+http://pro.prox7.com:8080/live/firat1/firat1234/7891.ts
 #EXTINF:-1,UK | ITV1
-http://p4.giffy.be:8080/live/test12345/test12345/30556.ts
+http://pro.prox7.com:8080/live/firat1/firat1234/7853.ts
 #EXTINF:-1,UK | ITV2
-http://p4.giffy.be:8080/live/test12345/test12345/30557.ts
+http://pro.prox7.com:8080/live/firat1/firat1234/7854.ts
 #EXTINF:-1,UK | ITV3
-http://p4.giffy.be:8080/live/test12345/test12345/30558.ts
+http://pro.prox7.com:8080/live/firat1/firat1234/7855.ts
 #EXTINF:-1,UK | ITV4
-http://p4.giffy.be:8080/live/test12345/test12345/30559.ts
-#EXTINF:-1,UK | KIX ENG
-http://p4.giffy.be:8080/live/test12345/test12345/30505.ts
-#EXTINF:-1,UK | LIFETIME
-http://p4.giffy.be:8080/live/test12345/test12345/30506.ts
-#EXTINF:-1,UK | MTV DANCE
-http://p4.giffy.be:8080/live/test12345/test12345/30563.ts
-#EXTINF:-1,UK | MTV HITS
-http://p4.giffy.be:8080/live/test12345/test12345/30562.ts
-#EXTINF:-1,UK | MTV MUSIC
-http://p4.giffy.be:8080/live/test12345/test12345/30561.ts
-#EXTINF:-1,UK | NAT GEO
-http://p4.giffy.be:8080/live/test12345/test12345/30531.ts
-#EXTINF:-1,UK | NAT GEO WILD
-http://p4.giffy.be:8080/live/test12345/test12345/30532.ts
-#EXTINF:-1,UK | NATGEO
-http://p4.giffy.be:8080/live/test12345/test12345/30540.ts
-#EXTINF:-1,UK | PICK
-http://p4.giffy.be:8080/live/test12345/test12345/30517.ts
-#EXTINF:-1,UK | QUEST
-http://p4.giffy.be:8080/live/test12345/test12345/30507.ts
-#EXTINF:-1,UK | RTE
-http://p4.giffy.be:8080/live/test12345/test12345/30516.ts
-#EXTINF:-1,UK | S4C
-http://p4.giffy.be:8080/live/test12345/test12345/30541.ts
+http://pro.prox7.com:8080/live/firat1/firat1234/7856.ts
+#EXTINF:-1,UK | Movies 4Men
+http://pro.prox7.com:8080/live/firat1/firat1234/7879.ts
+#EXTINF:-1,UK | NationalGeographic
+http://pro.prox7.com:8080/live/firat1/firat1234/7872.ts
+#EXTINF:-1,UK | PremierSport
+http://pro.prox7.com:8080/live/firat1/firat1234/7904.ts
+#EXTINF:-1,UK | Racing
+http://pro.prox7.com:8080/live/firat1/firat1234/7876.ts
+#EXTINF:-1,UK | RTE One
+http://pro.prox7.com:8080/live/firat1/firat1234/7887.ts
+#EXTINF:-1,UK | Rte Two
+http://pro.prox7.com:8080/live/firat1/firat1234/7886.ts
+#EXTINF:-1,UK | True Movies1 HD
+http://pro.prox7.com:8080/live/firat1/firat1234/7877.ts
+#EXTINF:-1,UK | Yesterday
+http://pro.prox7.com:8080/live/firat1/firat1234/7888.ts
+#EXTINF:-1,UK | BBC One HD
+http://ezhosting.xyz:80/live/carl/carl1234/14334.ts
+#EXTINF:-1,UK | BBC One Scotland HD
+http://ezhosting.xyz:80/live/carl/carl1234/14332.ts
+#EXTINF:-1,UK | BBC One Northern Ireland HD
+http://ezhosting.xyz:80/live/carl/carl1234/14333.ts
+#EXTINF:-1,UK| BBC One Wales
+http://ezhosting.xyz:80/live/carl/carl1234/34505.ts
+#EXTINF:-1,UK | BBC One London
+http://ezhosting.xyz:80/live/carl/carl1234/14330.ts
+#EXTINF:-1,UK | BBC Two HD
+http://ezhosting.xyz:80/live/carl/carl1234/14328.ts
+#EXTINF:-1,UK | BBC Two
+http://ezhosting.xyz:80/live/carl/carl1234/14326.ts
+#EXTINF:-1,UK | BBC Two Wales
+http://ezhosting.xyz:80/live/carl/carl1234/18853.ts
+#EXTINF:-1,UK| BBC Two Northern Ireland
+http://ezhosting.xyz:80/live/carl/carl1234/34502.ts
+#EXTINF:-1,UK | ITV HD
+http://ezhosting.xyz:80/live/carl/carl1234/14324.ts
+#EXTINF:-1,UK | ITV
+http://ezhosting.xyz:80/live/carl/carl1234/14320.ts
+#EXTINF:-1,UK | STV HD
+http://ezhosting.xyz:80/live/carl/carl1234/14322.ts
+#EXTINF:-1,UK|StvCentralEast
+http://ezhosting.xyz:80/live/carl/carl1234/34494.ts
+#EXTINF:-1,UK|StvCentralWest
+http://ezhosting.xyz:80/live/carl/carl1234/34493.ts
+#EXTINF:-1,UK|StvNorth
+http://ezhosting.xyz:80/live/carl/carl1234/34492.ts
+#EXTINF:-1,UK | Channel 4 HD
+http://ezhosting.xyz:80/live/carl/carl1234/14316.ts
+#EXTINF:-1,UK | Channel 4
+http://ezhosting.xyz:80/live/carl/carl1234/14315.ts
+#EXTINF:-1,UK | Channel 5 HD
+http://ezhosting.xyz:80/live/carl/carl1234/14313.ts
+#EXTINF:-1,UK | Channel 5
+http://ezhosting.xyz:80/live/carl/carl1234/14312.ts
+#EXTINF:-1,UK | 1 HD
+http://ezhosting.xyz:80/live/carl/carl1234/14311.ts
+#EXTINF:-1,UK | 1
+http://ezhosting.xyz:80/live/carl/carl1234/14310.ts
+#EXTINF:-1,UK | Living HD
+http://ezhosting.xyz:80/live/carl/carl1234/14307.ts
+#EXTINF:-1,UK | Living
+http://ezhosting.xyz:80/live/carl/carl1234/14306.ts
+#EXTINF:-1,UK | Atlantic HD
+http://ezhosting.xyz:80/live/carl/carl1234/14309.ts
+#EXTINF:-1,UK | Atlantic
+http://ezhosting.xyz:80/live/carl/carl1234/14308.ts
+#EXTINF:-1,UK | W HD
+http://ezhosting.xyz:80/live/carl/carl1234/14239.ts
+#EXTINF:-1,UK | W
+http://ezhosting.xyz:80/live/carl/carl1234/18857.ts
+#EXTINF:-1,UK | Gold
+http://ezhosting.xyz:80/live/carl/carl1234/14256.ts
+#EXTINF:-1,UK | Dave HD
+http://ezhosting.xyz:80/live/carl/carl1234/14269.ts
+#EXTINF:-1,UK | Dave
+http://ezhosting.xyz:80/live/carl/carl1234/14268.ts
+#EXTINF:-1,UK | Comedy Central HD
+http://ezhosting.xyz:80/live/carl/carl1234/14272.ts
+#EXTINF:-1,UK | Comedy Central
+http://ezhosting.xyz:80/live/carl/carl1234/14271.ts
+#EXTINF:-1,UK | Universal HD
+http://ezhosting.xyz:80/live/carl/carl1234/14240.ts
+#EXTINF:-1,UK| Universal
+http://ezhosting.xyz:80/live/carl/carl1234/46834.ts
+#EXTINF:-1,UK|BBC HD 4
+http://ezhosting.xyz:80/live/carl/carl1234/36272.ts
+#EXTINF:-1,UK | ITV 2 HD
+http://ezhosting.xyz:80/live/carl/carl1234/14300.ts
+#EXTINF:-1,UK | ITV 2
+http://ezhosting.xyz:80/live/carl/carl1234/14299.ts
+#EXTINF:-1,UK | ITV 3 HD
+http://ezhosting.xyz:80/live/carl/carl1234/14297.ts
+#EXTINF:-1,UK | ITV 3
+http://ezhosting.xyz:80/live/carl/carl1234/14296.ts
+#EXTINF:-1,UK | ITV 4 HD
+http://ezhosting.xyz:80/live/carl/carl1234/14294.ts
+#EXTINF:-1,UK | ITV 4
+http://ezhosting.xyz:80/live/carl/carl1234/14293.ts
+#EXTINF:-1,UK | Arts HD
+http://ezhosting.xyz:80/live/carl/carl1234/14305.ts
+#EXTINF:-1,UK | Arts
+http://ezhosting.xyz:80/live/carl/carl1234/18858.ts
+#EXTINF:-1,UK | Alibi HD
+http://ezhosting.xyz:80/live/carl/carl1234/18845.ts
+#EXTINF:-1,UK | ITV Encore HD
+http://ezhosting.xyz:80/live/carl/carl1234/14289.ts
+#EXTINF:-1,UK | Fox HD
+http://ezhosting.xyz:80/live/carl/carl1234/14259.ts
+#EXTINF:-1,UK | Fox
+http://ezhosting.xyz:80/live/carl/carl1234/14258.ts
+#EXTINF:-1,UK | Tru TV
+http://ezhosting.xyz:80/live/carl/carl1234/33461.ts
+#EXTINF:-1,UK | TLC HD
+http://ezhosting.xyz:80/live/carl/carl1234/31562.ts
 #EXTINF:-1,UK | TLC
-http://p4.giffy.be:8080/live/test12345/test12345/30510.ts
+http://ezhosting.xyz:80/live/carl/carl1234/14251.ts
+#EXTINF:-1,UK |VICE LAND
+http://ezhosting.xyz:80/live/carl/carl1234/37413.ts
+#EXTINF:-1,UK | Comedy Extra
+http://ezhosting.xyz:80/live/carl/carl1234/14270.ts
+#EXTINF:-1,UK | 2
+http://ezhosting.xyz:80/live/carl/carl1234/14304.ts
+#EXTINF:-1,UK | Good Food
+http://ezhosting.xyz:80/live/carl/carl1234/14257.ts
+#EXTINF:-1,UK | E4 HD
+http://ezhosting.xyz:80/live/carl/carl1234/14265.ts
+#EXTINF:-1,UK | E4
+http://ezhosting.xyz:80/live/carl/carl1234/14264.ts
+#EXTINF:-1,UK | More 4 HD
+http://ezhosting.xyz:80/live/carl/carl1234/14250.ts
+#EXTINF:-1,UK | 4Seven.
+http://ezhosting.xyz:80/live/carl/carl1234/14260.ts
+#EXTINF:-1,UK | PBS
+http://ezhosting.xyz:80/live/carl/carl1234/18854.ts
+#EXTINF:-1,UK | Quest
+http://ezhosting.xyz:80/live/carl/carl1234/18856.ts
+#EXTINF:-1,UK | Challenge
+http://ezhosting.xyz:80/live/carl/carl1234/14273.ts
+#EXTINF:-1,UK | CBS Reality
+http://ezhosting.xyz:80/live/carl/carl1234/14274.ts
+#EXTINF:-1,UK | CBS Action
+http://ezhosting.xyz:80/live/carl/carl1234/14276.ts
+#EXTINF:-1,UK | CBS Drama
+http://ezhosting.xyz:80/live/carl/carl1234/14275.ts
+#EXTINF:-1,UK | E! Entertainment
+http://ezhosting.xyz:80/live/carl/carl1234/14263.ts
+#EXTINF:-1,UK | Pick.
+http://ezhosting.xyz:80/live/carl/carl1234/14249.ts
+#EXTINF:-1,UK | Really
+http://ezhosting.xyz:80/live/carl/carl1234/14248.ts
+#EXTINF:-1,UK | Spike UK
+http://ezhosting.xyz:80/live/carl/carl1234/14246.ts
+#EXTINF:-1,UK | My5
+http://ezhosting.xyz:80/live/carl/carl1234/33463.ts
+#EXTINF:-1,UK | 5Star
+http://ezhosting.xyz:80/live/carl/carl1234/18852.ts
+#EXTINF:-1,UK | 5 USA
+http://ezhosting.xyz:80/live/carl/carl1234/14280.ts
+#EXTINF:-1,UK | ITV Be HD
+http://ezhosting.xyz:80/live/carl/carl1234/14291.ts
+#EXTINF:-1,UK | ITV Be
+http://ezhosting.xyz:80/live/carl/carl1234/14290.ts
+#EXTINF:-1,UK | True Entertainment
+http://ezhosting.xyz:80/live/carl/carl1234/14243.ts
+#EXTINF:-1,UK | True Crime.
+http://ezhosting.xyz:80/live/carl/carl1234/14242.ts
+#EXTINF:-1,UK | AMC
+http://ezhosting.xyz:80/live/carl/carl1234/14277.ts
+#EXTINF:-1,UK | Home
+http://ezhosting.xyz:80/live/carl/carl1234/14254.ts
+#EXTINF:-1,UK | SYFY HD
+http://ezhosting.xyz:80/live/carl/carl1234/31560.ts
+#EXTINF:-1,UK | SYFY
+http://ezhosting.xyz:80/live/carl/carl1234/14244.ts
+#EXTINF:-1,UK | Food Network
+http://ezhosting.xyz:80/live/carl/carl1234/14261.ts
+#EXTINF:-1,UK | Yesterday
+http://ezhosting.xyz:80/live/carl/carl1234/14238.ts
+#EXTINF:-1,UK | LIFETIME HD
+http://ezhosting.xyz:80/live/carl/carl1234/31559.ts
+#EXTINF:-1,UK | 4 SEVEN
+http://p5.giffy.be:8080/live/Abdi/1234/30513.ts
+#EXTINF:-1,UK | 5 STAR
+http://p5.giffy.be:8080/live/Abdi/1234/30512.ts
+#EXTINF:-1,UK | 5 USA
+http://p5.giffy.be:8080/live/Abdi/1234/30514.ts
+#EXTINF:-1,UK | ANIMAL PLANET
+http://p5.giffy.be:8080/live/Abdi/1234/30530.ts
+#EXTINF:-1,UK | BBC ALBA
+http://p5.giffy.be:8080/live/Abdi/1234/30543.ts
+#EXTINF:-1,UK | BBC ONE SCOTLAND
+http://p5.giffy.be:8080/live/Abdi/1234/30547.ts
+#EXTINF:-1,UK | BBC ONE WALES
+http://p5.giffy.be:8080/live/Abdi/1234/30548.ts
+#EXTINF:-1,UK | BBC PARLIEMNT
+http://p5.giffy.be:8080/live/Abdi/1234/30542.ts
+#EXTINF:-1,UK | BBC TWO NORTHERN IRELAND
+http://p5.giffy.be:8080/live/Abdi/1234/30544.ts
+#EXTINF:-1,UK | BBC TWO SCOTLAND
+http://p5.giffy.be:8080/live/Abdi/1234/30545.ts
+#EXTINF:-1,UK | BBC TWO WALES
+http://p5.giffy.be:8080/live/Abdi/1234/30546.ts
+#EXTINF:-1,UK | BBC1
+http://p5.giffy.be:8080/live/Abdi/1234/30549.ts
+#EXTINF:-1,UK | BBC2
+http://p5.giffy.be:8080/live/Abdi/1234/30550.ts
+#EXTINF:-1,UK | BBC3
+http://p5.giffy.be:8080/live/Abdi/1234/30551.ts
+#EXTINF:-1,UK | BBC4
+http://p5.giffy.be:8080/live/Abdi/1234/30552.ts
+#EXTINF:-1,UK | CBS ACTION
+http://p5.giffy.be:8080/live/Abdi/1234/30526.ts
+#EXTINF:-1,UK | CBS DRAMA
+http://p5.giffy.be:8080/live/Abdi/1234/30525.ts
+#EXTINF:-1,UK | CBS REALITY
+http://p5.giffy.be:8080/live/Abdi/1234/30524.ts
+#EXTINF:-1,UK | CHANNEL 14
+http://p5.giffy.be:8080/live/Abdi/1234/30554.ts
+#EXTINF:-1,UK | CRIME INVESTIGATION
+http://p5.giffy.be:8080/live/Abdi/1234/30504.ts
+#EXTINF:-1,UK | DAVE
+http://p5.giffy.be:8080/live/Abdi/1234/30511.ts
+#EXTINF:-1,UK | DAVE HD
+http://p5.giffy.be:8080/live/Abdi/1234/30560.ts
+#EXTINF:-1,UK | DISCOVERY CH
+http://p5.giffy.be:8080/live/Abdi/1234/30539.ts
+#EXTINF:-1,UK | DISCOVERY HISTORY
+http://p5.giffy.be:8080/live/Abdi/1234/30538.ts
+#EXTINF:-1,UK | DISCOVERY HOME & HEALTH
+http://p5.giffy.be:8080/live/Abdi/1234/30537.ts
+#EXTINF:-1,UK | DISCOVERY SCIENCE
+http://p5.giffy.be:8080/live/Abdi/1234/30536.ts
+#EXTINF:-1,UK | DISCOVERY SHED
+http://p5.giffy.be:8080/live/Abdi/1234/30535.ts
+#EXTINF:-1,UK | DISCOVERY TURBO
+http://p5.giffy.be:8080/live/Abdi/1234/30534.ts
+#EXTINF:-1,UK | E4
+http://p5.giffy.be:8080/live/Abdi/1234/30522.ts
+#EXTINF:-1,UK | FOOD NETWORK
+http://p5.giffy.be:8080/live/Abdi/1234/30521.ts
+#EXTINF:-1,UK | FOX VOD
+http://p5.giffy.be:8080/live/Abdi/1234/30520.ts
+#EXTINF:-1,UK | HISTORY
+http://p5.giffy.be:8080/live/Abdi/1234/30528.ts
+#EXTINF:-1,UK | HISTORY 1
+http://p5.giffy.be:8080/live/Abdi/1234/30523.ts
+#EXTINF:-1,UK | HOME
+http://p5.giffy.be:8080/live/Abdi/1234/30527.ts
+#EXTINF:-1,UK | INVESTIGATION DISCOVERY
+http://p5.giffy.be:8080/live/Abdi/1234/30533.ts
+#EXTINF:-1,UK | ITV BE
+http://p5.giffy.be:8080/live/Abdi/1234/30519.ts
+#EXTINF:-1,UK | ITV ENCORE
+http://p5.giffy.be:8080/live/Abdi/1234/30555.ts
+#EXTINF:-1,UK | ITV LONDON
+http://p5.giffy.be:8080/live/Abdi/1234/30518.ts
+#EXTINF:-1,UK | ITV1
+http://p5.giffy.be:8080/live/Abdi/1234/30556.ts
+#EXTINF:-1,UK | ITV2
+http://p5.giffy.be:8080/live/Abdi/1234/30557.ts
+#EXTINF:-1,UK | ITV3
+http://p5.giffy.be:8080/live/Abdi/1234/30558.ts
+#EXTINF:-1,UK | ITV4
+http://p5.giffy.be:8080/live/Abdi/1234/30559.ts
+#EXTINF:-1,UK | KIX ENG
+http://p5.giffy.be:8080/live/Abdi/1234/30505.ts
+#EXTINF:-1,UK | LIFETIME
+http://p5.giffy.be:8080/live/Abdi/1234/30506.ts
+#EXTINF:-1,UK | MTV DANCE
+http://p5.giffy.be:8080/live/Abdi/1234/30563.ts
+#EXTINF:-1,UK | MTV HITS
+http://p5.giffy.be:8080/live/Abdi/1234/30562.ts
+#EXTINF:-1,UK | MTV MUSIC
+http://p5.giffy.be:8080/live/Abdi/1234/30561.ts
+#EXTINF:-1,UK | NAT GEO
+http://p5.giffy.be:8080/live/Abdi/1234/30531.ts
+#EXTINF:-1,UK | NAT GEO WILD
+http://p5.giffy.be:8080/live/Abdi/1234/30532.ts
+#EXTINF:-1,UK | NATGEO
+http://p5.giffy.be:8080/live/Abdi/1234/30540.ts
+#EXTINF:-1,UK | PICK
+http://p5.giffy.be:8080/live/Abdi/1234/30517.ts
+#EXTINF:-1,UK | QUEST
+http://p5.giffy.be:8080/live/Abdi/1234/30507.ts
+#EXTINF:-1,UK | RTE
+http://p5.giffy.be:8080/live/Abdi/1234/30516.ts
+#EXTINF:-1,UK | S4C
+http://p5.giffy.be:8080/live/Abdi/1234/30541.ts
+#EXTINF:-1,UK | TLC
+http://p5.giffy.be:8080/live/Abdi/1234/30510.ts
 #EXTINF:-1,UK | TRAVEL
-http://p4.giffy.be:8080/live/test12345/test12345/30529.ts
+http://p5.giffy.be:8080/live/Abdi/1234/30529.ts
 #EXTINF:-1,UK | TRAVEL CH HD
-http://p4.giffy.be:8080/live/test12345/test12345/30553.ts
+http://p5.giffy.be:8080/live/Abdi/1234/30553.ts
 #EXTINF:-1,UK | TV5
-http://p4.giffy.be:8080/live/test12345/test12345/30508.ts
+http://p5.giffy.be:8080/live/Abdi/1234/30508.ts
 #EXTINF:-1,UK | UNIVERSAL
-http://p4.giffy.be:8080/live/test12345/test12345/30564.ts
+http://p5.giffy.be:8080/live/Abdi/1234/30564.ts
 #EXTINF:-1,UK | VIVA
-http://p4.giffy.be:8080/live/test12345/test12345/30509.ts
-#EXTINF:-1,UK :3e UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22832.ts
-#EXTINF:-1,UK :4Music UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22831.ts
-#EXTINF:-1,UK :4Seven UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22830.ts
-#EXTINF:-1,UK :5Star UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22829.ts
-#EXTINF:-1,UK :5USA UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22828.ts
-#EXTINF:-1,UK :Alibi UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22825.ts
-#EXTINF:-1,UK :AMC From BT UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22827.ts
-#EXTINF:-1,UK :Animal Planet 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22824.ts
-#EXTINF:-1,UK :Animal Planet UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22823.ts
-#EXTINF:-1,UK :AT THE RACES UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22826.ts
-#EXTINF:-1,UK :Baby TV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22791.ts
-#EXTINF:-1,UK :BBC Four HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22822.ts
-#EXTINF:-1,UK :BBC Four UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22821.ts
-#EXTINF:-1,UK :BBC News HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22820.ts
-#EXTINF:-1,UK :BBC One Channel Islands UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22819.ts
-#EXTINF:-1,UK :BBC One HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22818.ts
-#EXTINF:-1,UK :BBC One Northern Ireland UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22817.ts
-#EXTINF:-1,UK :BBC One Oxford UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22816.ts
-#EXTINF:-1,UK :BBC One Scotland UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22815.ts
-#EXTINF:-1,UK :BBC One UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22814.ts
-#EXTINF:-1,UK :BBC One Wales UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22813.ts
-#EXTINF:-1,UK :BBC One Yorks UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22812.ts
-#EXTINF:-1,UK :BBC Parliament UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22811.ts
-#EXTINF:-1,UK :BBC Two HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22810.ts
-#EXTINF:-1,UK :BBC Two Scotland UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22809.ts
-#EXTINF:-1,UK :BBC Two UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22808.ts
-#EXTINF:-1,UK :BBC World News UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22807.ts
-#EXTINF:-1,UK :Bike Channel UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22790.ts
-#EXTINF:-1,UK :Blaze UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22789.ts
-#EXTINF:-1,UK :Bloomberg TV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22788.ts
-#EXTINF:-1,UK :Boomerang 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22787.ts
-#EXTINF:-1,UK :Boomerang UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22786.ts
-#EXTINF:-1,UK :Box Hits UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22785.ts
-#EXTINF:-1,UK :BoxNation HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22783.ts
-#EXTINF:-1,UK :BoxNation UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22782.ts
-#EXTINF:-1,UK :CAPITAL TV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22781.ts
-#EXTINF:-1,UK :Cartoon Network UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22772.ts
-#EXTINF:-1,UK :Cartoonito UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22771.ts
-#EXTINF:-1,UK :CBBC HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22780.ts
-#EXTINF:-1,UK :CBBC UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22779.ts
-#EXTINF:-1,UK :CBeebies HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22775.ts
-#EXTINF:-1,UK :CBS Action UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22778.ts
-#EXTINF:-1,UK :CBS Drama UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22777.ts
-#EXTINF:-1,UK :CBS Reality UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22776.ts
-#EXTINF:-1,UK :Challenge 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22770.ts
-#EXTINF:-1,UK :Challenge UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22769.ts
-#EXTINF:-1,UK :Channel 4 HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22768.ts
-#EXTINF:-1,UK :Channel 4 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22767.ts
-#EXTINF:-1,UK :Channel 5 HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22766.ts
-#EXTINF:-1,UK :Channel 5 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22765.ts
-#EXTINF:-1,UK :Channel AKA UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22764.ts
-#EXTINF:-1,UK :Chart Show Hits UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22763.ts
-#EXTINF:-1,UK :Chart Show TV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22762.ts
-#EXTINF:-1,UK :Chelsea TV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22761.ts
-#EXTINF:-1,UK :CITV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22774.ts
-#EXTINF:-1,UK :CNN UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22773.ts
-#EXTINF:-1,UK :Comedy Central Extra 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22760.ts
-#EXTINF:-1,UK :Comedy Central Extra UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22759.ts
-#EXTINF:-1,UK :Comedy Central UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22758.ts
-#EXTINF:-1,UK :Crime Investigation 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22757.ts
-#EXTINF:-1,UK :Dave ja vu UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22753.ts
-#EXTINF:-1,UK :Dave UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22754.ts
-#EXTINF:-1,UK :Discovery Channel 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22752.ts
-#EXTINF:-1,UK :Discovery Channel UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22751.ts
-#EXTINF:-1,UK :Discovery History 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22750.ts
-#EXTINF:-1,UK :Discovery History UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22749.ts
-#EXTINF:-1,UK :Discovery Home & Health 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22748.ts
-#EXTINF:-1,UK :Discovery Home & Health UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22747.ts
-#EXTINF:-1,UK :Discovery Science 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22746.ts
-#EXTINF:-1,UK :Discovery Science UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22745.ts
-#EXTINF:-1,UK :Discovery Shed UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22744.ts
-#EXTINF:-1,UK :Discovery Turbo UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22743.ts
-#EXTINF:-1,UK :Disney Channel 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22742.ts
-#EXTINF:-1,UK :Disney Channel UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22741.ts
-#EXTINF:-1,UK :Disney Junior 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22740.ts
-#EXTINF:-1,UK :Disney Junior UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22739.ts
-#EXTINF:-1,UK :Disney XD 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22738.ts
-#EXTINF:-1,UK :Disney XD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22737.ts
-#EXTINF:-1,UK :DMAX 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22756.ts
-#EXTINF:-1,UK :DMAX UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22755.ts
-#EXTINF:-1,UK :Drama UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22736.ts
-#EXTINF:-1,UK :E! 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22735.ts
-#EXTINF:-1,UK :E! UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22734.ts
-#EXTINF:-1,UK :E4 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22733.ts
-#EXTINF:-1,UK :E4 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22732.ts
-#EXTINF:-1,UK :Eden 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22731.ts
-#EXTINF:-1,UK :Eden UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22730.ts
-#EXTINF:-1,UK :Film4 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22724.ts
-#EXTINF:-1,UK :Fjorton Music TV FHD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22655.ts
-#EXTINF:-1,UK :Flava UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22723.ts
-#EXTINF:-1,UK :Food Network 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22722.ts
-#EXTINF:-1,UK :Food Network UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22721.ts
-#EXTINF:-1,UK :FOX UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22725.ts
-#EXTINF:-1,UK :FOX News UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22727.ts
-#EXTINF:-1,UK :FOX UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22726.ts
-#EXTINF:-1,UK :Geo News PK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22717.ts
-#EXTINF:-1,UK :GINX eSports TV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22720.ts
-#EXTINF:-1,UK :GOLD 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22719.ts
-#EXTINF:-1,UK :GOLD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22718.ts
-#EXTINF:-1,UK :Good Food UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22716.ts
-#EXTINF:-1,UK :H2 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22715.ts
-#EXTINF:-1,UK :Hillsong Channel UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22714.ts
-#EXTINF:-1,UK :Hip Hop & R & B Music TV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22784.ts
-#EXTINF:-1,UK :History 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22713.ts
-#EXTINF:-1,UK :History UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22712.ts
-#EXTINF:-1,UK :Home 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22711.ts
-#EXTINF:-1,UK :Home UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22710.ts
-#EXTINF:-1,UK :Horror Channel 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22709.ts
-#EXTINF:-1,UK :Horror Channel UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22708.ts
-#EXTINF:-1,UK :Investigation Discovery 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22695.ts
-#EXTINF:-1,UK :Investigation Discovery UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22694.ts
-#EXTINF:-1,UK :ITV 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22707.ts
-#EXTINF:-1,UK :ITV 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22704.ts
-#EXTINF:-1,UK :ITV Encore 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22706.ts
-#EXTINF:-1,UK :ITV Encore UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22705.ts
-#EXTINF:-1,UK :ITV2 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22703.ts
-#EXTINF:-1,UK :ITV2 HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22702.ts
-#EXTINF:-1,UK :ITV2 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22701.ts
-#EXTINF:-1,UK :ITV3 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22700.ts
-#EXTINF:-1,UK :ITV3 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22699.ts
-#EXTINF:-1,UK :ITV4 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22698.ts
-#EXTINF:-1,UK :ITV4 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22697.ts
-#EXTINF:-1,UK :ITVBe 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22696.ts
-#EXTINF:-1,UK :Kerrang! TV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22690.ts
-#EXTINF:-1,UK :KISS UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22693.ts
-#EXTINF:-1,UK :KIX 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22692.ts
-#EXTINF:-1,UK :KIX UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22691.ts
-#EXTINF:-1,UK :Latino Pop Music TV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22641.ts
-#EXTINF:-1,UK :LFC TV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22689.ts
-#EXTINF:-1,UK :Made In Bristol UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22677.ts
-#EXTINF:-1,UK :More4 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22676.ts
-#EXTINF:-1,UK :Motors TV HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22675.ts
-#EXTINF:-1,UK :Movies 24 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22674.ts
-#EXTINF:-1,UK :Movies4Men 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22673.ts
-#EXTINF:-1,UK :Movies4Men UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22672.ts
-#EXTINF:-1,UK :MTV 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22688.ts
-#EXTINF:-1,UK :MTV Base UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22686.ts
-#EXTINF:-1,UK :MTV Classic UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22685.ts
-#EXTINF:-1,UK :MTV Dance UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22684.ts
-#EXTINF:-1,UK :MTV Hits UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22683.ts
-#EXTINF:-1,UK :MTV Music UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22682.ts
-#EXTINF:-1,UK :MTV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22681.ts
-#EXTINF:-1,UK :MU TV HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22680.ts
-#EXTINF:-1,UK :MUTV HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22679.ts
-#EXTINF:-1,UK :MUTV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22678.ts
-#EXTINF:-1,UK :My5 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22671.ts
-#EXTINF:-1,UK :Nat Geo Wild UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22670.ts
-#EXTINF:-1,UK :Nick Jr. 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22669.ts
-#EXTINF:-1,UK :Nick Jr. Peppa UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22668.ts
-#EXTINF:-1,UK :Nick Jr. Too UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22667.ts
-#EXTINF:-1,UK :Nick Jr. UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22666.ts
-#EXTINF:-1,UK :Nickelodeon 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22664.ts
-#EXTINF:-1,UK :Nickelodeon UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22663.ts
-#EXTINF:-1,UK :NickToons UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22665.ts
-#EXTINF:-1,UK :PBS America UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22662.ts
-#EXTINF:-1,UK :Pick 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22659.ts
-#EXTINF:-1,UK :Pick UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22658.ts
-#EXTINF:-1,UK :POP 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22661.ts
-#EXTINF:-1,UK :POP UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22660.ts
-#EXTINF:-1,UK :Premier Sports HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22657.ts
-#EXTINF:-1,UK :Premier Sports UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22656.ts
-#EXTINF:-1,UK :QUEST RED 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22654.ts
-#EXTINF:-1,UK :QUEST RED UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22653.ts
-#EXTINF:-1,UK :QUEST UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22652.ts
-#EXTINF:-1,UK :Racing UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22645.ts
-#EXTINF:-1,UK :Rap 2K Music TV UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22687.ts
-#EXTINF:-1,UK :Real Lives 1 UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22644.ts
-#EXTINF:-1,UK :Real Lives UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22643.ts
-#EXTINF:-1,UK :Really UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22642.ts
-#EXTINF:-1,UK :RTÉ Jr UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22651.ts
-#EXTINF:-1,UK :RTÉ News Now UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22650.ts
-#EXTINF:-1,UK :RTÉ One HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22649.ts
-#EXTINF:-1,UK :RTÉ One UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22648.ts
-#EXTINF:-1,UK :RTÉ Two HD UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22647.ts
-#EXTINF:-1,UK :RTÉ Two UK
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/22646.ts
-#EXTINF:-1,(UK) Syfy HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3325.ts
-#EXTINF:-1,(UK) Sky Sports F1 HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3328.ts
-#EXTINF:-1,(UK) Sky Movies Greats HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3334.ts
-#EXTINF:-1,(UK) Sky Atlantic HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3342.ts
-#EXTINF:-1,(UK) Sky Sports News HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3329.ts
-#EXTINF:-1,(UK) Premier Sports HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3330.ts
-#EXTINF:-1,(UK) Premier Sports
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3331.ts
-#EXTINF:-1,(UK) Sport 2 HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3332.ts
-#EXTINF:-1,(UK) Sport 1 HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3333.ts
-#EXTINF:-1,(UK) Fox 25 Bosten
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3335.ts
-#EXTINF:-1,(UK) National Geographic HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3343.ts
-#EXTINF:-1,(UK) Bloomberg TV Europe
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3326.ts
-#EXTINF:-1,(UK) Itv 4 HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3344.ts
-#EXTINF:-1,(UK) Itv 3 HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3345.ts
-#EXTINF:-1,(UK) Itv 2 HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3346.ts
-#EXTINF:-1,(UK) Itv 1 HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3347.ts
-#EXTINF:-1,(UK) Sony Movies
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3348.ts
-#EXTINF:-1,(UK) Discovery History
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3351.ts
-#EXTINF:-1,(UK) Discovery Channel
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3352.ts
-#EXTINF:-1,(UK) Discovery Science
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3349.ts
-#EXTINF:-1,(UK) Discovery Turbo
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3350.ts
-#EXTINF:-1,(UK) Cbs Reality
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3324.ts
-#EXTINF:-1,(UK) True Movies 2
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3353.ts
-#EXTINF:-1,(UK) Bbc Two
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3354.ts
-#EXTINF:-1,(UK) Food Network
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3355.ts
-#EXTINF:-1,(UK) True Movies 1
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/3356.ts
-#EXTINF:-1,(UK) RTE 2
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/2891.ts
-#EXTINF:-1,(UK) Rte One
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/2893.ts
-#EXTINF:-1,(UK) Bbc One
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/1465.ts
-#EXTINF:-1,(UK) Bbc Two Wales
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/1468.ts
-#EXTINF:-1,(UK) Bbc 4 HD
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/1466.ts
-#EXTINF:-1,(UK) Bbc Two Scotland
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/621.ts
-#EXTINF:-1,(UK) Select
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/1842.ts
-#EXTINF:-1,(UK) Catholic TV
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/623.ts
-#EXTINF:-1,(UK) Sky Movies Family
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/618.ts
-#EXTINF:-1,(UK) Sky Movies Comedy
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/616.ts
-#EXTINF:-1,(UK) Travel Channel
-http://hbox.cdnss.me:80/live/ex91ysi2/qpt82qer/1843.ts
-#EXTINF:-1,UK - BBC One HD
-http://myipcam.ddns.net:80/live/ben/ben1/1313.ts
-#EXTINF:-1,UK - BBC Two HD
-http://myipcam.ddns.net:80/live/ben/ben1/1312.ts
-#EXTINF:-1,UK - ITV HD
-http://myipcam.ddns.net:80/live/ben/ben1/1246.ts
-#EXTINF:-1,UK - Channel 4 HD
-http://myipcam.ddns.net:80/live/ben/ben1/1293.ts
-#EXTINF:-1,UK - Channel 5 HD
-http://myipcam.ddns.net:80/live/ben/ben1/1291.ts
-#EXTINF:-1,UK - Sky ONE
-http://myipcam.ddns.net:80/live/ben/ben1/1211.ts
-#EXTINF:-1,UK - Sky Atlantic
-http://myipcam.ddns.net:80/live/ben/ben1/1207.ts
-#EXTINF:-1,UK - Sky 2
-http://myipcam.ddns.net:80/live/ben/ben1/1210.ts
-#EXTINF:-1,UK - Sky Arts
-http://myipcam.ddns.net:80/live/ben/ben1/1208.ts
-#EXTINF:-1,UK - Dave
-http://myipcam.ddns.net:80/live/ben/ben1/1279.ts
-#EXTINF:-1,UK - GOLD
-http://myipcam.ddns.net:80/live/ben/ben1/1255.ts
-#EXTINF:-1,UK - Comedy Central
-http://myipcam.ddns.net:80/live/ben/ben1/1283.ts
-#EXTINF:-1,UK - Syfy HD
-http://myipcam.ddns.net:80/live/ben/ben1/1188.ts
-#EXTINF:-1,UK - BBC 4 HD
-http://myipcam.ddns.net:80/live/ben/ben1/1314.ts
-#EXTINF:-1,UK - ITV 2
-http://myipcam.ddns.net:80/live/ben/ben1/1248.ts
-#EXTINF:-1,UK - ITV 3 HD
-http://myipcam.ddns.net:80/live/ben/ben1/1405.ts
-#EXTINF:-1,UK - ITV4
-http://myipcam.ddns.net:80/live/ben/ben1/1244.ts
-#EXTINF:-1,UK - ITV Encore
-http://myipcam.ddns.net:80/live/ben/ben1/1247.ts
-#EXTINF:-1,UK - TLC
-http://myipcam.ddns.net:80/live/ben/ben1/1184.ts
-#EXTINF:-1,UK - MTV
-http://myipcam.ddns.net:80/live/ben/ben1/1237.ts
-#EXTINF:-1,UK - Comedy Xtra
-http://myipcam.ddns.net:80/live/ben/ben1/1282.ts
-#EXTINF:-1,UK - Alibi
-http://myipcam.ddns.net:80/live/ben/ben1/15646.ts
-#EXTINF:-1,UK - S4C
-http://myipcam.ddns.net:80/live/ben/ben1/1213.ts
-#EXTINF:-1,UK - E4
-http://myipcam.ddns.net:80/live/ben/ben1/1266.ts
-#EXTINF:-1,UK - More4 HD
-http://myipcam.ddns.net:80/live/ben/ben1/1239.ts
-#EXTINF:-1,UK - 4seven
-http://myipcam.ddns.net:80/live/ben/ben1/1317.ts
-#EXTINF:-1,UK - QUEST
-http://myipcam.ddns.net:80/live/ben/ben1/1220.ts
-#EXTINF:-1,UK - Challenge TV
-http://myipcam.ddns.net:80/live/ben/ben1/12737.ts
-#EXTINF:-1,UK - CBS Reality
-http://myipcam.ddns.net:80/live/ben/ben1/1296.ts
-#EXTINF:-1,UK - CBS Action
-http://myipcam.ddns.net:80/live/ben/ben1/1298.ts
-#EXTINF:-1,UK - ITVBe
-http://myipcam.ddns.net:80/live/ben/ben1/1243.ts
-#EXTINF:-1,UK - E!
-http://myipcam.ddns.net:80/live/ben/ben1/1267.ts
-#EXTINF:-1,UK - Pick TV
-http://myipcam.ddns.net:80/live/ben/ben1/1344.ts
-#EXTINF:-1,UK - Really
-http://myipcam.ddns.net:80/live/ben/ben1/1340.ts
-#EXTINF:-1,UK - Sony Channel
-http://myipcam.ddns.net:80/live/ben/ben1/1159.ts
-#EXTINF:-1,UK - Drama
-http://myipcam.ddns.net:80/live/ben/ben1/1268.ts
-#EXTINF:-1,UK - Spike
-http://myipcam.ddns.net:80/live/ben/ben1/1190.ts
-#EXTINF:-1,UK - Discovery Shed
-http://myipcam.ddns.net:80/live/ben/ben1/1273.ts
-#EXTINF:-1,UK - Home Health
-http://myipcam.ddns.net:80/live/ben/ben1/1252.ts
-#EXTINF:-1,UK - Zee Punjabi
-http://myipcam.ddns.net:80/live/ben/ben1/1149.ts
-#EXTINF:-1,UK - 3E
-http://myipcam.ddns.net:80/live/ben/ben1/1319.ts
-#EXTINF:-1,UK - 4Music
-http://myipcam.ddns.net:80/live/ben/ben1/1318.ts
-#EXTINF:-1,UK - Animal Planet HD
-http://myipcam.ddns.net:80/live/ben/ben1/1316.ts
-#EXTINF:-1,UK - At The Races SD
-http://myipcam.ddns.net:80/live/ben/ben1/1388.ts
-#EXTINF:-1,UK - Baby TV
-http://myipcam.ddns.net:80/live/ben/ben1/1315.ts
-#EXTINF:-1,UK - BBC3
-http://myipcam.ddns.net:80/live/ben/ben1/1171.ts
-#EXTINF:-1,UK - BET
-http://myipcam.ddns.net:80/live/ben/ben1/1311.ts
-#EXTINF:-1,UK - Bike
-http://myipcam.ddns.net:80/live/ben/ben1/1310.ts
-#EXTINF:-1,UK - Blaze
-http://myipcam.ddns.net:80/live/ben/ben1/1309.ts
-#EXTINF:-1,UK - Bloomberg
-http://myipcam.ddns.net:80/live/ben/ben1/1170.ts
-#EXTINF:-1,UK - Boomerang
-http://myipcam.ddns.net:80/live/ben/ben1/1308.ts
-#EXTINF:-1,UK - Box Nation HD
-http://myipcam.ddns.net:80/live/ben/ben1/1385.ts
-#EXTINF:-1,UK - Cbeebies HD
-http://myipcam.ddns.net:80/live/ben/ben1/1406.ts
-#EXTINF:-1,UK - CBS Drama
-http://myipcam.ddns.net:80/live/ben/ben1/1297.ts
-#EXTINF:-1,UK - Celtic TV
-http://myipcam.ddns.net:80/live/ben/ben1/1375.ts
-#EXTINF:-1,UK - Chelsea TV
-http://myipcam.ddns.net:80/live/ben/ben1/1288.ts
-#EXTINF:-1,UK - Movies 24
-http://myipcam.ddns.net:80/live/ben/ben1/1287.ts
-#EXTINF:-1,UK - Cinemax
-http://myipcam.ddns.net:80/live/ben/ben1/1373.ts
-#EXTINF:-1,UK - CITV
-http://myipcam.ddns.net:80/live/ben/ben1/1286.ts
-#EXTINF:-1,UK - CNBC News
-http://myipcam.ddns.net:80/live/ben/ben1/1285.ts
-#EXTINF:-1,UK - CNN International
-http://myipcam.ddns.net:80/live/ben/ben1/1284.ts
-#EXTINF:-1,UK - Community
-http://myipcam.ddns.net:80/live/ben/ben1/1281.ts
-#EXTINF:-1,UK - Crime Investigation
-http://myipcam.ddns.net:80/live/ben/ben1/1280.ts
-#EXTINF:-1,UK - Discovery History
-http://myipcam.ddns.net:80/live/ben/ben1/1277.ts
-#EXTINF:-1,UK - Discovery Science
-http://myipcam.ddns.net:80/live/ben/ben1/1276.ts
-#EXTINF:-1,UK - Discovery Turbo
-http://myipcam.ddns.net:80/live/ben/ben1/1275.ts
-#EXTINF:-1,UK - Discovery
-http://myipcam.ddns.net:80/live/ben/ben1/1274.ts
-#EXTINF:-1,UK - Discovery Science US
-http://myipcam.ddns.net:80/live/ben/ben1/1368.ts
-#EXTINF:-1,UK - Disney Channel
-http://myipcam.ddns.net:80/live/ben/ben1/1272.ts
-#EXTINF:-1,UK - Disney Junior
-http://myipcam.ddns.net:80/live/ben/ben1/1271.ts
-#EXTINF:-1,UK - Disney XD
-http://myipcam.ddns.net:80/live/ben/ben1/1270.ts
-#EXTINF:-1,UK - DMAX
-http://myipcam.ddns.net:80/live/ben/ben1/1269.ts
-#EXTINF:-1,UK - eir Sport 1
-http://myipcam.ddns.net:80/live/ben/ben1/1265.ts
-#EXTINF:-1,UK - eirSport 2
-http://myipcam.ddns.net:80/live/ben/ben1/1264.ts
-#EXTINF:-1,UK - Film 4
-http://myipcam.ddns.net:80/live/ben/ben1/1263.ts
-#EXTINF:-1,UK - FLAVA
-http://myipcam.ddns.net:80/live/ben/ben1/1262.ts
-#EXTINF:-1,UK - Food Network
-http://myipcam.ddns.net:80/live/ben/ben1/1261.ts
-#EXTINF:-1,UK - FOX HD
-http://myipcam.ddns.net:80/live/ben/ben1/1259.ts
-#EXTINF:-1,UK - FOX News
-http://myipcam.ddns.net:80/live/ben/ben1/1258.ts
-#EXTINF:-1,UK - H2 HD
-http://myipcam.ddns.net:80/live/ben/ben1/1364.ts
-#EXTINF:-1,UK - History
-http://myipcam.ddns.net:80/live/ben/ben1/1253.ts
-#EXTINF:-1,UK - Horror Channel
-http://myipcam.ddns.net:80/live/ben/ben1/1357.ts
-#EXTINF:-1,UK - Horse & Country
-http://myipcam.ddns.net:80/live/ben/ben1/1251.ts
-#EXTINF:-1,UK - Hum Europe
-http://myipcam.ddns.net:80/live/ben/ben1/1167.ts
-#EXTINF:-1,UK - ID US
-http://myipcam.ddns.net:80/live/ben/ben1/1361.ts
-#EXTINF:-1,UK - ID
-http://myipcam.ddns.net:80/live/ben/ben1/1250.ts
-#EXTINF:-1,UK - Irish Tv
-http://myipcam.ddns.net:80/live/ben/ben1/1356.ts
-#EXTINF:-1,UK - Kix
-http://myipcam.ddns.net:80/live/ben/ben1/1242.ts
-#EXTINF:-1,UK - LFC TV
-http://myipcam.ddns.net:80/live/ben/ben1/1241.ts
-#EXTINF:-1,UK - London Live
-http://myipcam.ddns.net:80/live/ben/ben1/1240.ts
-#EXTINF:-1,UK - Motorsport TV
-http://myipcam.ddns.net:80/live/ben/ben1/1352.ts
-#EXTINF:-1,UK - Movies4men
-http://myipcam.ddns.net:80/live/ben/ben1/1238.ts
-#EXTINF:-1,UK - MTV BASE
-http://myipcam.ddns.net:80/live/ben/ben1/1236.ts
-#EXTINF:-1,UK - MTV CLASSIC
-http://myipcam.ddns.net:80/live/ben/ben1/1235.ts
-#EXTINF:-1,UK - MTV DANCE
-http://myipcam.ddns.net:80/live/ben/ben1/1234.ts
-#EXTINF:-1,UK - MTV HITS
-http://myipcam.ddns.net:80/live/ben/ben1/1348.ts
-#EXTINF:-1,UK - MTV MUSIC
-http://myipcam.ddns.net:80/live/ben/ben1/1233.ts
-#EXTINF:-1,UK - MTV ROCKS
-http://myipcam.ddns.net:80/live/ben/ben1/1232.ts
-#EXTINF:-1,UK - MUTV
-http://myipcam.ddns.net:80/live/ben/ben1/1231.ts
-#EXTINF:-1,UK - MUTV HD
-http://myipcam.ddns.net:80/live/ben/ben1/1230.ts
-#EXTINF:-1,UK - My 5
-http://myipcam.ddns.net:80/live/ben/ben1/1346.ts
-#EXTINF:-1,UK - Nat Geo
-http://myipcam.ddns.net:80/live/ben/ben1/1229.ts
-#EXTINF:-1,UK - Nat Geo Wild
-http://myipcam.ddns.net:80/live/ben/ben1/1228.ts
-#EXTINF:-1,UK - NBC USA
-http://myipcam.ddns.net:80/live/ben/ben1/1055.ts
-#EXTINF:-1,UK - Nick Jnr Too
-http://myipcam.ddns.net:80/live/ben/ben1/1355.ts
-#EXTINF:-1,UK - Nick Jr
-http://myipcam.ddns.net:80/live/ben/ben1/1227.ts
-#EXTINF:-1,UK - Nickelodeon
-http://myipcam.ddns.net:80/live/ben/ben1/1226.ts
-#EXTINF:-1,UK - Nicktoons
-http://myipcam.ddns.net:80/live/ben/ben1/1225.ts
-#EXTINF:-1,UK - PBS America
-http://myipcam.ddns.net:80/live/ben/ben1/1224.ts
-#EXTINF:-1,UK - POP
-http://myipcam.ddns.net:80/live/ben/ben1/1223.ts
-#EXTINF:-1,UK - POP MAX
-http://myipcam.ddns.net:80/live/ben/ben1/1222.ts
-#EXTINF:-1,UK - Racing UK HD
-http://myipcam.ddns.net:80/live/ben/ben1/1343.ts
-#EXTINF:-1,UK - Rangers TV
-http://myipcam.ddns.net:80/live/ben/ben1/1342.ts
-#EXTINF:-1,UK - Real Lives
-http://myipcam.ddns.net:80/live/ben/ben1/1218.ts
-#EXTINF:-1,UK - Rishtey
-http://myipcam.ddns.net:80/live/ben/ben1/1165.ts
-#EXTINF:-1,UK - RTE jr
-http://myipcam.ddns.net:80/live/ben/ben1/1216.ts
-#EXTINF:-1,UK - RT News Now
-http://myipcam.ddns.net:80/live/ben/ben1/1215.ts
-#EXTINF:-1,UK - RTE 1 HD
-http://myipcam.ddns.net:80/live/ben/ben1/1339.ts
-#EXTINF:-1,UK - RTE 2 HD
-http://myipcam.ddns.net:80/live/ben/ben1/1389.ts
-#EXTINF:-1,UK - Sony Max
-http://myipcam.ddns.net:80/live/ben/ben1/1160.ts
-#EXTINF:-1,UK - Sony SAB
-http://myipcam.ddns.net:80/live/ben/ben1/1191.ts
-#EXTINF:-1,UK - Star Gold
-http://myipcam.ddns.net:80/live/ben/ben1/1158.ts
-#EXTINF:-1,UK - STAR LIFE OK
-http://myipcam.ddns.net:80/live/ben/ben1/1394.ts
-#EXTINF:-1,UK - STAR PLUS
-http://myipcam.ddns.net:80/live/ben/ben1/1393.ts
-#EXTINF:-1,UK - STV HD
-http://myipcam.ddns.net:80/live/ben/ben1/1326.ts
-#EXTINF:-1,UK - TG4
-http://myipcam.ddns.net:80/live/ben/ben1/1187.ts
-#EXTINF:-1,UK - The Vault
-http://myipcam.ddns.net:80/live/ben/ben1/1186.ts
-#EXTINF:-1,UK - Tiny Pop
-http://myipcam.ddns.net:80/live/ben/ben1/1185.ts
-#EXTINF:-1,UK - Travel Channel
-http://myipcam.ddns.net:80/live/ben/ben1/1183.ts
-#EXTINF:-1,UK - True Crime
-http://myipcam.ddns.net:80/live/ben/ben1/1182.ts
-#EXTINF:-1,UK - True Entertainment
-http://myipcam.ddns.net:80/live/ben/ben1/1181.ts
-#EXTINF:-1,UK - True Movies 1
-http://myipcam.ddns.net:80/live/ben/ben1/1156.ts
-#EXTINF:-1,UK - True TV
-http://myipcam.ddns.net:80/live/ben/ben1/1180.ts
-#EXTINF:-1,UK - TSN 1 USA
-http://myipcam.ddns.net:80/live/ben/ben1/1054.ts
-#EXTINF:-1,UK - TSN 2 USA
-http://myipcam.ddns.net:80/live/ben/ben1/1053.ts
-#EXTINF:-1,UK - TSN 3 USA
-http://myipcam.ddns.net:80/live/ben/ben1/1052.ts
-#EXTINF:-1,UK - TSN 4 USA
-http://myipcam.ddns.net:80/live/ben/ben1/1051.ts
-#EXTINF:-1,UK - TSN 5 USA
-http://myipcam.ddns.net:80/live/ben/ben1/1050.ts
-#EXTINF:-1,UK - Universal
-http://myipcam.ddns.net:80/live/ben/ben1/1178.ts
-#EXTINF:-1,UK - ESPN 2 HD USA
-http://myipcam.ddns.net:80/live/ben/ben1/1048.ts
-#EXTINF:-1,UK - ESPN HD USA
-http://myipcam.ddns.net:80/live/ben/ben1/1047.ts
-#EXTINF:-1,UK - FOX Sports 1 HD USA
-http://myipcam.ddns.net:80/live/ben/ben1/1046.ts
-#EXTINF:-1,UK - NBA TV USA
-http://myipcam.ddns.net:80/live/ben/ben1/1044.ts
-#EXTINF:-1,UK - NBC Golf USA
-http://myipcam.ddns.net:80/live/ben/ben1/1043.ts
-#EXTINF:-1,UK - UTV Movies
-http://myipcam.ddns.net:80/live/ben/ben1/1177.ts
-#EXTINF:-1,UK - UTV Ireland SD
-http://myipcam.ddns.net:80/live/ben/ben1/1398.ts
-#EXTINF:-1,UK - VH1
-http://myipcam.ddns.net:80/live/ben/ben1/1322.ts
-#EXTINF:-1,UK - Viceland
-http://myipcam.ddns.net:80/live/ben/ben1/1176.ts
-#EXTINF:-1,UK - Watch HD
-http://myipcam.ddns.net:80/live/ben/ben1/1173.ts
-#EXTINF:-1,UK - Yesterday
-http://myipcam.ddns.net:80/live/ben/ben1/1320.ts
-#EXTINF:-1,UK - Bein Sports 1 HD
-http://myipcam.ddns.net:80/live/ben/ben1/1147.ts
-#EXTINF:-1,UK - Bein Sports USA HD
-http://myipcam.ddns.net:80/live/ben/ben1/1141.ts
-#EXTINF:-1,UK - NBCSN
-http://myipcam.ddns.net:80/live/ben/ben1/1142.ts
-#EXTINF:-1,UK - EUROSPORT 1 HD
-http://myipcam.ddns.net:80/live/ben/ben1/3157.ts
-#EXTINF:-1,UK - EUROSPORT 2 HD
-http://myipcam.ddns.net:80/live/ben/ben1/3156.ts
-#EXTINF:-1,UK - BBC News
-http://myipcam.ddns.net:80/live/ben/ben1/5449.ts
-#EXTINF:-1,UK - Cartoon Network
-http://myipcam.ddns.net:80/live/ben/ben1/5366.ts
-#EXTINF:-1,UK - Cartoonito
-http://myipcam.ddns.net:80/live/ben/ben1/5365.ts
-#EXTINF:-1,UK - CBBC HD
-http://myipcam.ddns.net:80/live/ben/ben1/5363.ts
-#EXTINF:-1,USA :A&E HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23560.ts
-#EXTINF:-1,USA :A&E TV HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23559.ts
-#EXTINF:-1,USA :ABC FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23558.ts
-#EXTINF:-1,USA :ABC HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23557.ts
-#EXTINF:-1,USA :ABC News HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23556.ts
-#EXTINF:-1,USA :AFN Spectrum HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23555.ts
-#EXTINF:-1,USA :AFN Sport 1 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23554.ts
-#EXTINF:-1,USA :AFN Sport 2 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23553.ts
-#EXTINF:-1,USA :Amazing Discoveries HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23550.ts
-#EXTINF:-1,USA :AMC HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23552.ts
-#EXTINF:-1,USA :AMC US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23551.ts
-#EXTINF:-1,USA :Animal Planet HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23549.ts
-#EXTINF:-1,USA :Animal Planet US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23548.ts
-#EXTINF:-1,USA :beINSports HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23381.ts
-#EXTINF:-1,USA :Bloomberg Europe US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23545.ts
-#EXTINF:-1,USA :Bloomberg TV 1080P HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23544.ts
-#EXTINF:-1,USA :Boomerang US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23543.ts
-#EXTINF:-1,USA :Bravo HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23542.ts
-#EXTINF:-1,USA :Bravo US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23541.ts
-#EXTINF:-1,USA :BYU TV US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23546.ts
-#EXTINF:-1,USA :C-Span 1 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23540.ts
-#EXTINF:-1,USA :C-Span 2 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23539.ts
-#EXTINF:-1,USA :C-Span 3 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23538.ts
-#EXTINF:-1,USA :CA Sportsnet 360 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23537.ts
-#EXTINF:-1,USA :Cable News Network HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23529.ts
-#EXTINF:-1,USA :Cartoon Network US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23528.ts
-#EXTINF:-1,USA :CBS US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23536.ts
-#EXTINF:-1,USA :CBSN HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23535.ts
-#EXTINF:-1,USA :Chiller HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23527.ts
-#EXTINF:-1,USA :CineMax 5 StarMax US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23526.ts
-#EXTINF:-1,USA :CineMax Action HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23525.ts
-#EXTINF:-1,USA :Cinemax Action US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23521.ts
-#EXTINF:-1,USA :CineMax ActionMax East US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23524.ts
-#EXTINF:-1,USA :CineMax East US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23523.ts
-#EXTINF:-1,USA :Cinemax More HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23520.ts
-#EXTINF:-1,USA :CineMax MoreMax US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23522.ts
-#EXTINF:-1,USA :CNBC US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23534.ts
-#EXTINF:-1,USA :CNN HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23533.ts
-#EXTINF:-1,USA :Comedy Central FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23519.ts
-#EXTINF:-1,USA :Comedy Central US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23518.ts
-#EXTINF:-1,USA :CW HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23532.ts
-#EXTINF:-1,USA :CW US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23531.ts
-#EXTINF:-1,USA :CW11 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23530.ts
-#EXTINF:-1,USA :Discovery Channel CA FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23514.ts
-#EXTINF:-1,USA :Discovery Channel HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23513.ts
-#EXTINF:-1,USA :Discovery HD Showcase US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23512.ts
-#EXTINF:-1,USA :Discovery HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23511.ts
-#EXTINF:-1,USA :Discovery Science HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23510.ts
-#EXTINF:-1,USA :Discovery Velocity US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23509.ts
-#EXTINF:-1,USA :Disney Channel HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23508.ts
-#EXTINF:-1,USA :Disney XD HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23507.ts
-#EXTINF:-1,USA :DIY Network HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23517.ts
-#EXTINF:-1,USA :DIY Network US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23516.ts
-#EXTINF:-1,USA :DW US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23515.ts
-#EXTINF:-1,USA :E! Entertainment HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23506.ts
-#EXTINF:-1,USA :El Rey Network HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23500.ts
-#EXTINF:-1,USA :ESPN 1 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23505.ts
-#EXTINF:-1,USA :ESPN 1 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23504.ts
-#EXTINF:-1,USA :ESPN 2 FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23503.ts
-#EXTINF:-1,USA :ESPN 2 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23502.ts
-#EXTINF:-1,USA :ESPN HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23501.ts
-#EXTINF:-1,USA :Fashion One HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23495.ts
-#EXTINF:-1,USA :Fight HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23494.ts
-#EXTINF:-1,USA :Fight Sport US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23493.ts
-#EXTINF:-1,USA :Fine Living US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23492.ts
-#EXTINF:-1,USA :Food Network HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23491.ts
-#EXTINF:-1,USA :Food Network US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23490.ts
-#EXTINF:-1,USA :FOX 43 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23499.ts
-#EXTINF:-1,USA :Fox HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23489.ts
-#EXTINF:-1,USA :Fox News HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23488.ts
-#EXTINF:-1,USA :Fox Soccer Plus HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23487.ts
-#EXTINF:-1,USA :Fox Soccer Plus US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23486.ts
-#EXTINF:-1,USA :Fox Sports 1 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23485.ts
-#EXTINF:-1,USA :Fox Sports 1 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23484.ts
-#EXTINF:-1,USA :Fox Sports 2 FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23483.ts
-#EXTINF:-1,USA :Fox Sports 2 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23482.ts
-#EXTINF:-1,USA :Fox Sports 506 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23481.ts
-#EXTINF:-1,USA :Fox Sports College Central HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23480.ts
-#EXTINF:-1,USA :Fox Sports HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23479.ts
-#EXTINF:-1,USA :Fox Sports North HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23478.ts
-#EXTINF:-1,USA :Free Form HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23477.ts
-#EXTINF:-1,USA :FreeForm HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23476.ts
-#EXTINF:-1,USA :FS1 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23498.ts
-#EXTINF:-1,USA :Fuel HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23475.ts
-#EXTINF:-1,USA :FX HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23497.ts
-#EXTINF:-1,USA :FX US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23496.ts
-#EXTINF:-1,USA :GSN HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23474.ts
-#EXTINF:-1,USA :H2 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23473.ts
-#EXTINF:-1,USA :Hallmark Channel HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23460.ts
-#EXTINF:-1,USA :Hallmark US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23459.ts
-#EXTINF:-1,USA :HBO Comedy HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23472.ts
-#EXTINF:-1,USA :HBO East US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23471.ts
-#EXTINF:-1,USA :HBO Family HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23470.ts
-#EXTINF:-1,USA :HBO HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23469.ts
-#EXTINF:-1,USA :HBO Signature HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23468.ts
-#EXTINF:-1,USA :HBO Signature US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23467.ts
-#EXTINF:-1,USA :HBO US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23466.ts
-#EXTINF:-1,USA :HBO Zone US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23465.ts
-#EXTINF:-1,USA :HGTV HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23464.ts
-#EXTINF:-1,USA :HGTV US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23463.ts
-#EXTINF:-1,USA :HIFI US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23462.ts
-#EXTINF:-1,USA :History HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23458.ts
-#EXTINF:-1,USA :History US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23457.ts
-#EXTINF:-1,USA :HSN YT LIVE FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23461.ts
-#EXTINF:-1,USA :IFC HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23456.ts
-#EXTINF:-1,USA :Investigation Discovery HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23455.ts
-#EXTINF:-1,USA :Lifetime HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23454.ts
-#EXTINF:-1,USA :MLB HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23453.ts
-#EXTINF:-1,USA :MLB Network HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23452.ts
-#EXTINF:-1,USA :MLB Network US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23451.ts
-#EXTINF:-1,USA :MSNBC HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23450.ts
-#EXTINF:-1,USA :MTV Base HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23449.ts
-#EXTINF:-1,USA :MTV Rocks US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23448.ts
-#EXTINF:-1,USA :Nat Geo Wild HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23432.ts
-#EXTINF:-1,USA :Nat Geographic HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23431.ts
-#EXTINF:-1,USA :National Geographic US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23430.ts
-#EXTINF:-1,USA :NBA HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23447.ts
-#EXTINF:-1,USA :NBA Live 1 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23379.ts
-#EXTINF:-1,USA :NBA Live 2 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23378.ts
-#EXTINF:-1,USA :NBA Live 3 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23377.ts
-#EXTINF:-1,USA :NBA Live 4 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23376.ts
-#EXTINF:-1,USA :NBA Live 5 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23375.ts
-#EXTINF:-1,USA :NBA Live 6 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23374.ts
-#EXTINF:-1,USA :NBA Live 7 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23373.ts
-#EXTINF:-1,USA :NBA Live 8 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23372.ts
-#EXTINF:-1,USA :NBC Golf Channel FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23446.ts
-#EXTINF:-1,USA :NBC Golf Channel HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23445.ts
-#EXTINF:-1,USA :NBC Golf HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23444.ts
-#EXTINF:-1,USA :NBC News HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23443.ts
-#EXTINF:-1,USA :NBC SN HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23442.ts
-#EXTINF:-1,USA :NBC US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23441.ts
-#EXTINF:-1,USA :NBCSN HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23440.ts
-#EXTINF:-1,USA :NFL Network 1 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23439.ts
-#EXTINF:-1,USA :NFL Network 1080i US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23438.ts
-#EXTINF:-1,USA :NFL Network HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23437.ts
-#EXTINF:-1,USA :NFL Network US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23436.ts
-#EXTINF:-1,USA :NFL Now HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23435.ts
-#EXTINF:-1,USA :NFL Redzone HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23434.ts
-#EXTINF:-1,USA :NHL Network US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23433.ts
-#EXTINF:-1,USA :Oprah Winfrey Network HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23429.ts
-#EXTINF:-1,USA :Outdoor Channel HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23428.ts
-#EXTINF:-1,USA :PAC-12 Arizona US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23427.ts
-#EXTINF:-1,USA :PAC-12 Bay Area US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23426.ts
-#EXTINF:-1,USA :PAC-12 Los Angeles FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23425.ts
-#EXTINF:-1,USA :PAC-12 Oregon FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23424.ts
-#EXTINF:-1,USA :PAC-12 Washington FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23423.ts
-#EXTINF:-1,USA :Reelz HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23422.ts
-#EXTINF:-1,USA :Science HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23420.ts
-#EXTINF:-1,USA :SEC Network HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23421.ts
-#EXTINF:-1,USA :Showtime 2 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23419.ts
-#EXTINF:-1,USA :Showtime 2 US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23418.ts
-#EXTINF:-1,USA :Showtime East HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23417.ts
-#EXTINF:-1,USA :Showtime FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23416.ts
-#EXTINF:-1,USA :Showtime Showcase HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23415.ts
-#EXTINF:-1,USA :Showtime West US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23414.ts
-#EXTINF:-1,USA :Smile Of A Child US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23413.ts
-#EXTINF:-1,USA :Spike HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23412.ts
-#EXTINF:-1,USA :Spike TV HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23411.ts
-#EXTINF:-1,USA :Sportsnet East HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23410.ts
-#EXTINF:-1,USA :Sportsnet Ontario HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23409.ts
-#EXTINF:-1,USA :Sportsnet West HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23408.ts
-#EXTINF:-1,USA :Starz Cinema US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23407.ts
-#EXTINF:-1,USA :Starz Comedy US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23406.ts
-#EXTINF:-1,USA :Starz Edge HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23405.ts
-#EXTINF:-1,USA :Starz Edge US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23404.ts
-#EXTINF:-1,USA :Starz Encore HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23403.ts
-#EXTINF:-1,USA :Starz Encore US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23402.ts
-#EXTINF:-1,USA :SyFy HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23401.ts
-#EXTINF:-1,USA :SyFy US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23400.ts
-#EXTINF:-1,USA :TBS HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23399.ts
-#EXTINF:-1,USA :TLC HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23398.ts
-#EXTINF:-1,USA :TNT HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23397.ts
-#EXTINF:-1,USA :Travel Channel HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23391.ts
-#EXTINF:-1,USA :truTV HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23380.ts
-#EXTINF:-1,USA :TSN 1 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23396.ts
-#EXTINF:-1,USA :TSN 2 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23395.ts
-#EXTINF:-1,USA :TSN 3 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23394.ts
-#EXTINF:-1,USA :TSN 4 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23393.ts
-#EXTINF:-1,USA :TSN 5 HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23392.ts
-#EXTINF:-1,USA :UFC Fight Pass US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23390.ts
-#EXTINF:-1,USA :Univision HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23386.ts
-#EXTINF:-1,USA :US Network HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23389.ts
-#EXTINF:-1,USA :USA HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23388.ts
-#EXTINF:-1,USA :USA Network HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23387.ts
-#EXTINF:-1,USA :VH1 Classic US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23385.ts
-#EXTINF:-1,USA :WWE HD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23384.ts
-#EXTINF:-1,USA :WWE Network FHD US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23383.ts
-#EXTINF:-1,USA :WWE US
-http://supervip.mine.nu:80/live/SandroSmartsamsung/r7pV6u5ziy/23382.ts
-#EXTINF:-1,US | ESPN U HD
-http://myipcam.ddns.net:80/live/ben/ben1/15949.ts
-#EXTINF:-1,US | Fight Network
-http://myipcam.ddns.net:80/live/ben/ben1/15901.ts
-#EXTINF:-1,US | Fox Sports 1 HD
-http://myipcam.ddns.net:80/live/ben/ben1/15948.ts
-#EXTINF:-1,US | Fox Sports 2 HD
-http://myipcam.ddns.net:80/live/ben/ben1/15947.ts
-#EXTINF:-1,US | NBC Sports Network HD
-http://myipcam.ddns.net:80/live/ben/ben1/15942.ts
-#EXTINF:-1,US | NBCSN
-http://myipcam.ddns.net:80/live/ben/ben1/10054.ts
-#EXTINF:-1,US | Sports Net 360 HD
-http://myipcam.ddns.net:80/live/ben/ben1/15938.ts
-#EXTINF:-1,US | Sports Net One HD
-http://myipcam.ddns.net:80/live/ben/ben1/15930.ts
-#EXTINF:-1,US | Sports Net Ontario HD
-http://myipcam.ddns.net:80/live/ben/ben1/15937.ts
-#EXTINF:-1,US | Sports Net West HD
-http://myipcam.ddns.net:80/live/ben/ben1/15903.ts
-#EXTINF:-1,US | Sports Net World HD
-http://myipcam.ddns.net:80/live/ben/ben1/15936.ts
-#EXTINF:-1,US | TSN 1 HD
-http://myipcam.ddns.net:80/live/ben/ben1/15929.ts
-#EXTINF:-1,US | TSN 2 HD
-http://myipcam.ddns.net:80/live/ben/ben1/15928.ts
-#EXTINF:-1,US | TSN 3 HD
-http://myipcam.ddns.net:80/live/ben/ben1/15927.ts
-#EXTINF:-1,US | TSN 4 HD
-http://myipcam.ddns.net:80/live/ben/ben1/15926.ts
-#EXTINF:-1,US | TSN 5 HD
-http://myipcam.ddns.net:80/live/ben/ben1/15925.ts
-#EXTINF:-1,US | Willow Cricket HD
-http://myipcam.ddns.net:80/live/ben/ben1/15965.ts
-#EXTINF:-1,US | WWE Network HD
-http://myipcam.ddns.net:80/live/ben/ben1/15939.ts
-#EXTINF:-1,US | Velocity HD
-http://myipcam.ddns.net:80/live/ben/ben1/16059.ts
-#EXTINF:-1,US | ESPN 2 HD
-http://myipcam.ddns.net:80/live/ben/ben1/15950.ts
-#EXTINF:-1,US | ESPN HD
-http://myipcam.ddns.net:80/live/ben/ben1/15951.ts
-#EXTINF:-1,US | Golf HD
-http://myipcam.ddns.net:80/live/ben/ben1/15943.ts
-#EXTINF:-1,US | NFL Channel HD
-http://myipcam.ddns.net:80/live/ben/ben1/15945.ts
-#EXTINF:-1,US | NHL Network HD
-http://myipcam.ddns.net:80/live/ben/ben1/15941.ts
-#EXTINF:-1,US | PAC-12 Arizona HD
-http://myipcam.ddns.net:80/live/ben/ben1/15978.ts
-#EXTINF:-1,US | PAC-12 Bay Area HD
-http://myipcam.ddns.net:80/live/ben/ben1/15977.ts
-#EXTINF:-1,US | PAC-12 Los Angeles HD
-http://myipcam.ddns.net:80/live/ben/ben1/15976.ts
-#EXTINF:-1,US | PAC-12 Mountain HD
-http://myipcam.ddns.net:80/live/ben/ben1/15975.ts
-#EXTINF:-1,US | PAC-12 Oregon HD
-http://myipcam.ddns.net:80/live/ben/ben1/15974.ts
-#EXTINF:-1,US | PAC-12 Washington HD
-http://myipcam.ddns.net:80/live/ben/ben1/15973.ts
-#EXTINF:-1,US | NBC HD EAST
-http://p4.giffy.be:8080/live/test12345/test12345/20985.ts
-#EXTINF:-1,US | ABC EAST
-http://p4.giffy.be:8080/live/test12345/test12345/20986.ts
-#EXTINF:-1,US | FOX EAST.
-http://p4.giffy.be:8080/live/test12345/test12345/28642.ts
-#EXTINF:-1,US | NBC WEST
-http://p4.giffy.be:8080/live/test12345/test12345/26563.ts
-#EXTINF:-1,US | FOX HD WEST
-http://p4.giffy.be:8080/live/test12345/test12345/26562.ts
-#EXTINF:-1,US | ABC HD WEST
-http://p4.giffy.be:8080/live/test12345/test12345/26561.ts
-#EXTINF:-1,US | CBS WEST
-http://p4.giffy.be:8080/live/test12345/test12345/26560.ts
-#EXTINF:-1,US | CNBC WORLD
-http://p4.giffy.be:8080/live/test12345/test12345/20711.ts
-#EXTINF:-1,US | FOX NEWS
-http://p4.giffy.be:8080/live/test12345/test12345/20706.ts
-#EXTINF:-1,US | A&E HD
-http://p4.giffy.be:8080/live/test12345/test12345/20911.ts
-#EXTINF:-1,US | BRAVO HD
-http://p4.giffy.be:8080/live/test12345/test12345/20902.ts
-#EXTINF:-1,US | CARTOON NETWORK HD
-http://p4.giffy.be:8080/live/test12345/test12345/20988.ts
-#EXTINF:-1,US | CRIMINAL INVESTIGATION HD
-http://p4.giffy.be:8080/live/test12345/test12345/20973.ts
-#EXTINF:-1,US | FOX BUSINESS NETWORK HD
-http://p4.giffy.be:8080/live/test12345/test12345/20983.ts
-#EXTINF:-1,US | MTV LIVE HD
-http://p4.giffy.be:8080/live/test12345/test12345/20954.ts
-#EXTINF:-1,US | SUNDANCE HD
-http://p4.giffy.be:8080/live/test12345/test12345/20956.ts
-#EXTINF:-1,US | TRU TV HD
-http://p4.giffy.be:8080/live/test12345/test12345/20952.ts
-#EXTINF:-1,US | WE TV HD
-http://p4.giffy.be:8080/live/test12345/test12345/20955.ts
-#EXTINF:-1,US | C-SPAN 1
-http://p4.giffy.be:8080/live/test12345/test12345/21170.ts
-#EXTINF:-1,US | C-SPAN 2
-http://p4.giffy.be:8080/live/test12345/test12345/21171.ts
-#EXTINF:-1,US | C-SPAN 3
-http://p4.giffy.be:8080/live/test12345/test12345/21172.ts
-#EXTINF:-1,US | TNT HD
-http://p4.giffy.be:8080/live/test12345/test12345/21459.ts
-#EXTINF:-1,US | ID HD
-http://p4.giffy.be:8080/live/test12345/test12345/21997.ts
-#EXTINF:-1,US | GSN HD
-http://p4.giffy.be:8080/live/test12345/test12345/23305.ts
-#EXTINF:-1,US | AL JAZEERA ENGLISH
-http://p4.giffy.be:8080/live/test12345/test12345/18803.ts
-#EXTINF:-1,US | CINEMAX HD
-http://p4.giffy.be:8080/live/test12345/test12345/20976.ts
-#EXTINF:-1,US | CINEMAX MOREMAX HD
-http://p4.giffy.be:8080/live/test12345/test12345/20975.ts
-#EXTINF:-1,US | CINEMAX THRILLERMAX HD
-http://p4.giffy.be:8080/live/test12345/test12345/20974.ts
-#EXTINF:-1,US | EL RAY HD
-http://p4.giffy.be:8080/live/test12345/test12345/20970.ts
-#EXTINF:-1,US | EPIX 2 HD
-http://p4.giffy.be:8080/live/test12345/test12345/20968.ts
-#EXTINF:-1,US | HBO COMEDY HD
-http://p4.giffy.be:8080/live/test12345/test12345/20964.ts
-#EXTINF:-1,US | HBO SIGNATURE HD
-http://p4.giffy.be:8080/live/test12345/test12345/20962.ts
-#EXTINF:-1,US | HBO ZONE HD
-http://p4.giffy.be:8080/live/test12345/test12345/20961.ts
-#EXTINF:-1,US | EPIX HD
-http://p4.giffy.be:8080/live/test12345/test12345/20969.ts
-#EXTINF:-1,US | HGTV HD
-http://p4.giffy.be:8080/live/test12345/test12345/25232.ts
-#EXTINF:-1,US | MSNBC HD
-http://p4.giffy.be:8080/live/test12345/test12345/26075.ts
-#EXTINF:-1,US | ANIMAL PLANET HD
-http://p4.giffy.be:8080/live/test12345/test12345/20989.ts
-#EXTINF:-1,US | BBC AMERICA HD
-http://p4.giffy.be:8080/live/test12345/test12345/20977.ts
-#EXTINF:-1,US | BET HD
-http://p4.giffy.be:8080/live/test12345/test12345/20651.ts
-#EXTINF:-1,US | COMEDY CENTRAL HD
-http://p4.giffy.be:8080/live/test12345/test12345/20904.ts
-#EXTINF:-1,US | CW11
-http://p4.giffy.be:8080/live/test12345/test12345/20984.ts
-#EXTINF:-1,US | DESTINATION AMERICA HD
-http://p4.giffy.be:8080/live/test12345/test12345/26546.ts
-#EXTINF:-1,US | DISCOVERY SCIENCE HD
-http://p4.giffy.be:8080/live/test12345/test12345/20935.ts
-#EXTINF:-1,US | E! HD
-http://p4.giffy.be:8080/live/test12345/test12345/20704.ts
-#EXTINF:-1,US | FOOD NETWORK HD
-http://p4.giffy.be:8080/live/test12345/test12345/21142.ts
-#EXTINF:-1,US | HALLMARK HD
-http://p4.giffy.be:8080/live/test12345/test12345/29987.ts
-#EXTINF:-1,US | HALLMARK MOVIES HD
-http://p4.giffy.be:8080/live/test12345/test12345/20966.ts
-#EXTINF:-1,US | IFC HD
-http://p4.giffy.be:8080/live/test12345/test12345/20960.ts
-#EXTINF:-1,US | LIFETIME MOVIES HD
-http://p4.giffy.be:8080/live/test12345/test12345/20914.ts
-#EXTINF:-1,US | NAT GEO HD
-http://p4.giffy.be:8080/live/test12345/test12345/20982.ts
-#EXTINF:-1,US | NAT GEO WILD HD
-http://p4.giffy.be:8080/live/test12345/test12345/20981.ts
-#EXTINF:-1,US | OWN HD
-http://p4.giffy.be:8080/live/test12345/test12345/20979.ts
-#EXTINF:-1,US | PBS EAST
-http://p4.giffy.be:8080/live/test12345/test12345/26548.ts
-#EXTINF:-1,US | SPIKE HD
-http://p4.giffy.be:8080/live/test12345/test12345/20943.ts
-#EXTINF:-1,US | SYFY HD
-http://p4.giffy.be:8080/live/test12345/test12345/20909.ts
-#EXTINF:-1,US | TBS HD
-http://p4.giffy.be:8080/live/test12345/test12345/20987.ts
-#EXTINF:-1,US | TLC
-http://p4.giffy.be:8080/live/test12345/test12345/26543.ts
-#EXTINF:-1,US | TRAVEL HD
-http://p4.giffy.be:8080/live/test12345/test12345/26545.ts
-#EXTINF:-1,US | USA NETWORK HD
-http://p4.giffy.be:8080/live/test12345/test12345/20944.ts
-#EXTINF:-1,US | WEATHER HD
-http://p4.giffy.be:8080/live/test12345/test12345/23193.ts
-#EXTINF:-1,US | STARZ CINEMA HD
-http://p4.giffy.be:8080/live/test12345/test12345/21460.ts
-#EXTINF:-1,US | CNN HD
-http://p4.giffy.be:8080/live/test12345/test12345/29026.ts
-#EXTINF:-1,US | CBSN NEWS
-http://p4.giffy.be:8080/live/test12345/test12345/27539.ts
-#EXTINF:-1,US | BLOOMBERG
-http://p4.giffy.be:8080/live/test12345/test12345/27538.ts
-#EXTINF:-1,US | CNBC HD
-http://p4.giffy.be:8080/live/test12345/test12345/28303.ts
-#EXTINF:-1,US:ABC
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/934.ts
-#EXTINF:-1,US:HBO HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/935.ts
-#EXTINF:-1,US:ABC NEWS
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1997.ts
-#EXTINF:-1,US:BLOOMBERG TV
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1996.ts
-#EXTINF:-1,US:SPORTSNET ONE HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1995.ts
-#EXTINF:-1,US:SPORTS NET WORD HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1994.ts
-#EXTINF:-1,US:NBC SPORT HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1993.ts
-#EXTINF:-1,US:HALLMARK HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1992.ts
-#EXTINF:-1,US:TSN SPORT 1
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1998.ts
-#EXTINF:-1,US:TSN SPORT 2
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1999.ts
-#EXTINF:-1,US:TSN SPORT 3
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2000.ts
-#EXTINF:-1,US:TSN SPORT 4
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2001.ts
-#EXTINF:-1,US:NBC
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2312.ts
-#EXTINF:-1,US:TBS
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/2313.ts
-#EXTINF:-1,US:AFN PRIME ATLANTIC
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1984.ts
-#EXTINF:-1,US:CBS
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1985.ts
-#EXTINF:-1,US:CNBC
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1986.ts
-#EXTINF:-1,US:ESPN 2
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1987.ts
-#EXTINF:-1,US:USA NETWORK HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1988.ts
-#EXTINF:-1,US:NFL NETWORK HD
-http://vizyon.pw:8000/live/yurekli877@gmail.com/8TZY29G4/1969.ts
+http://p5.giffy.be:8080/live/Abdi/1234/30509.ts
+#EXTINF:-1,UK | AMC
+http://veoplay.online:8000/live/manuel817171/67781/3879.ts
+#EXTINF:-1,UK | Animal Planet
+http://veoplay.online:8000/live/manuel817171/67781/3878.ts
+#EXTINF:-1,UK | B0xn4t1on
+http://veoplay.online:8000/live/manuel817171/67781/3874.ts
+#EXTINF:-1,UK | Baby TV
+http://veoplay.online:8000/live/manuel817171/67781/3877.ts
+#EXTINF:-1,UK | BBC 1
+http://veoplay.online:8000/live/manuel817171/67781/3876.ts
+#EXTINF:-1,UK | BBC 2
+http://veoplay.online:8000/live/manuel817171/67781/3875.ts
+#EXTINF:-1,UK | Cartoon Network
+http://veoplay.online:8000/live/manuel817171/67781/3863.ts
+#EXTINF:-1,UK | Cbeebies
+http://veoplay.online:8000/live/manuel817171/67781/3862.ts
+#EXTINF:-1,UK | CBS Action
+http://veoplay.online:8000/live/manuel817171/67781/3861.ts
+#EXTINF:-1,UK | Chelsea FC
+http://veoplay.online:8000/live/manuel817171/67781/3860.ts
+#EXTINF:-1,UK | Comedy Central
+http://veoplay.online:8000/live/manuel817171/67781/3859.ts
+#EXTINF:-1,UK | Discovery Channel
+http://veoplay.online:8000/live/manuel817171/67781/3858.ts
+#EXTINF:-1,UK | Discovery History
+http://veoplay.online:8000/live/manuel817171/67781/3857.ts
+#EXTINF:-1,UK | Discovery Science
+http://veoplay.online:8000/live/manuel817171/67781/3856.ts
+#EXTINF:-1,UK | Discovery Turbo
+http://veoplay.online:8000/live/manuel817171/67781/3855.ts
+#EXTINF:-1,UK | Disney Channel
+http://veoplay.online:8000/live/manuel817171/67781/3854.ts
+#EXTINF:-1,UK | Disney Junior
+http://veoplay.online:8000/live/manuel817171/67781/3853.ts
+#EXTINF:-1,UK | Disney Movies
+http://veoplay.online:8000/live/manuel817171/67781/3851.ts
+#EXTINF:-1,UK | Disney XD
+http://veoplay.online:8000/live/manuel817171/67781/3852.ts
+#EXTINF:-1,UK | Eir Sport 1
+http://veoplay.online:8000/live/manuel817171/67781/3850.ts
+#EXTINF:-1,UK | Eir Sport 2
+http://veoplay.online:8000/live/manuel817171/67781/3849.ts
+#EXTINF:-1,UK | ESPN
+http://veoplay.online:8000/live/manuel817171/67781/3848.ts
+#EXTINF:-1,UK | Eur0zport 1
+http://veoplay.online:8000/live/manuel817171/67781/3847.ts
+#EXTINF:-1,UK | Eurosport 2
+http://veoplay.online:8000/live/manuel817171/67781/3846.ts
+#EXTINF:-1,UK | Food Network
+http://veoplay.online:8000/live/manuel817171/67781/3842.ts
+#EXTINF:-1,UK | FOX
+http://veoplay.online:8000/live/manuel817171/67781/3845.ts
+#EXTINF:-1,UK | FOX News
+http://veoplay.online:8000/live/manuel817171/67781/3843.ts
+#EXTINF:-1,UK | H2
+http://veoplay.online:8000/live/manuel817171/67781/3840.ts
+#EXTINF:-1,UK | History Channel
+http://veoplay.online:8000/live/manuel817171/67781/3841.ts
+#EXTINF:-1,UK | Home
+http://veoplay.online:8000/live/manuel817171/67781/3839.ts
+#EXTINF:-1,UK | Home and Health
+http://veoplay.online:8000/live/manuel817171/67781/3838.ts
+#EXTINF:-1,UK | ITV 1
+http://veoplay.online:8000/live/manuel817171/67781/3837.ts
+#EXTINF:-1,UK | ITV 2
+http://veoplay.online:8000/live/manuel817171/67781/3836.ts
+#EXTINF:-1,UK | ITV 3
+http://veoplay.online:8000/live/manuel817171/67781/3835.ts
+#EXTINF:-1,UK | ITV 4
+http://veoplay.online:8000/live/manuel817171/67781/3834.ts
+#EXTINF:-1,UK | ITV Encore
+http://veoplay.online:8000/live/manuel817171/67781/3833.ts
+#EXTINF:-1,UK | Liverpool FC
+http://veoplay.online:8000/live/manuel817171/67781/3832.ts
+#EXTINF:-1,UK | Manchester United FC
+http://veoplay.online:8000/live/manuel817171/67781/3831.ts
+#EXTINF:-1,UK | Motors TV
+http://veoplay.online:8000/live/manuel817171/67781/3830.ts
+#EXTINF:-1,UK | MTV
+http://veoplay.online:8000/live/manuel817171/67781/3829.ts
+#EXTINF:-1,UK | National Geographic
+http://veoplay.online:8000/live/manuel817171/67781/3828.ts
+#EXTINF:-1,UK | Nick Junior
+http://veoplay.online:8000/live/manuel817171/67781/3826.ts
+#EXTINF:-1,UK | Nickelodeon
+http://veoplay.online:8000/live/manuel817171/67781/3827.ts
+#EXTINF:-1,UK | Nicktoons
+http://veoplay.online:8000/live/manuel817171/67781/3825.ts
+#EXTINF:-1,UK | Premier League
+http://veoplay.online:8000/live/manuel817171/67781/3788.ts
+#EXTINF:-1,UK | Premier Sports
+http://veoplay.online:8000/live/manuel817171/67781/3824.ts
+#EXTINF:-1,UK | Racing UK
+http://veoplay.online:8000/live/manuel817171/67781/3823.ts
+#EXTINF:-1,UK | Sony Movies
+http://veoplay.online:8000/live/manuel817171/67781/3787.ts
+#EXTINF:-1,UK | SyFy
+http://veoplay.online:8000/live/manuel817171/67781/3786.ts
+
