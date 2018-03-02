@@ -1,72 +1,1029 @@
  #EXTM3U
-#EXTINF:-1,UK | BBC1
-http://pro.prox7.com:8080/live/firat1/firat1234/7857.ts
-#EXTINF:-1,UK | BBC2
-http://pro.prox7.com:8080/live/firat1/firat1234/7858.ts
-#EXTINF:-1,UK | BBC3
-http://pro.prox7.com:8080/live/firat1/firat1234/7859.ts
-#EXTINF:-1,UK | BTSport1
-http://pro.prox7.com:8080/live/firat1/firat1234/7901.ts
-#EXTINF:-1,UK | BTSport2
-http://pro.prox7.com:8080/live/firat1/firat1234/7902.ts
-#EXTINF:-1,UK | BTSportESPN
-http://pro.prox7.com:8080/live/firat1/firat1234/7903.ts
-#EXTINF:-1,UK | BTSportEurope
-http://pro.prox7.com:8080/live/firat1/firat1234/7900.ts
-#EXTINF:-1,UK | CBSAction
-http://pro.prox7.com:8080/live/firat1/firat1234/7862.ts
-#EXTINF:-1,UK | CBSDrama
-http://pro.prox7.com:8080/live/firat1/firat1234/7861.ts
-#EXTINF:-1,UK | CBSReality
-http://pro.prox7.com:8080/live/firat1/firat1234/7860.ts
-#EXTINF:-1,UK | Channel4
-http://pro.prox7.com:8080/live/firat1/firat1234/7863.ts
-#EXTINF:-1,UK | Channel5
-http://pro.prox7.com:8080/live/firat1/firat1234/7864.ts
-#EXTINF:-1,UK | ComedyCentral
-http://pro.prox7.com:8080/live/firat1/firat1234/7865.ts
-#EXTINF:-1,UK | Discovery Science HD
-http://pro.prox7.com:8080/live/firat1/firat1234/7870.ts
-#EXTINF:-1,UK | Discovery Turbo HD
-http://pro.prox7.com:8080/live/firat1/firat1234/7871.ts
-#EXTINF:-1,UK | DiscoveryChannelHD
-http://pro.prox7.com:8080/live/firat1/firat1234/7868.ts
-#EXTINF:-1,UK | DiscoveryShed
-http://pro.prox7.com:8080/live/firat1/firat1234/7869.ts
-#EXTINF:-1,UK | DisneyChannel
-http://pro.prox7.com:8080/live/firat1/firat1234/7867.ts
-#EXTINF:-1,UK | DisneyJunior
-http://pro.prox7.com:8080/live/firat1/firat1234/7866.ts
-#EXTINF:-1,UK | Dmax.
-http://pro.prox7.com:8080/live/firat1/firat1234/7889.ts
-#EXTINF:-1,UK | EUROSPORT1
-http://pro.prox7.com:8080/live/firat1/firat1234/7890.ts
-#EXTINF:-1,UK | EUROSPORT2
-http://pro.prox7.com:8080/live/firat1/firat1234/7891.ts
-#EXTINF:-1,UK | ITV1
-http://pro.prox7.com:8080/live/firat1/firat1234/7853.ts
-#EXTINF:-1,UK | ITV2
-http://pro.prox7.com:8080/live/firat1/firat1234/7854.ts
-#EXTINF:-1,UK | ITV3
-http://pro.prox7.com:8080/live/firat1/firat1234/7855.ts
-#EXTINF:-1,UK | ITV4
-http://pro.prox7.com:8080/live/firat1/firat1234/7856.ts
-#EXTINF:-1,UK | Movies 4Men
-http://pro.prox7.com:8080/live/firat1/firat1234/7879.ts
-#EXTINF:-1,UK | NationalGeographic
-http://pro.prox7.com:8080/live/firat1/firat1234/7872.ts
-#EXTINF:-1,UK | PremierSport
-http://pro.prox7.com:8080/live/firat1/firat1234/7904.ts
-#EXTINF:-1,UK | Racing
-http://pro.prox7.com:8080/live/firat1/firat1234/7876.ts
-#EXTINF:-1,UK | RTE One
-http://pro.prox7.com:8080/live/firat1/firat1234/7887.ts
-#EXTINF:-1,UK | Rte Two
-http://pro.prox7.com:8080/live/firat1/firat1234/7886.ts
-#EXTINF:-1,UK | True Movies1 HD
-http://pro.prox7.com:8080/live/firat1/firat1234/7877.ts
-#EXTINF:-1,UK | Yesterday
-http://pro.prox7.com:8080/live/firat1/firat1234/7888.ts
+#EXTM3U
+#EXTINF:-1,BBC ONE UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20206.ts
+#EXTINF:-1,BBC ONE UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/20784.ts
+#EXTINF:-1,BBC TWO UK
+http://mlsh.co:2086/live/Terry1/Terry1/20207.ts
+#EXTINF:-1,BBC TWO UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/20785.ts
+#EXTINF:-1,ITV 1 UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20208.ts
+#EXTINF:-1,ITV1 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/20788.ts
+#EXTINF:-1,ITV PLUS 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/26017.ts
+#EXTINF:-1,CHANNEL 4 UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20209.ts
+#EXTINF:-1,Channel 4 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/20787.ts
+#EXTINF:-1,CHANNEL 4 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25854.ts
+#EXTINF:-1,CHANNEL 5 UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20210.ts
+#EXTINF:-1,CHANNEL 5 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/20786.ts
+#EXTINF:-1,CHANNEL 5 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25855.ts
+#EXTINF:-1,SKY ONE UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20211.ts
+#EXTINF:-1,SKY ONE UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26671.ts
+#EXTINF:-1,SKY LIVING UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20214.ts
+#EXTINF:-1,SKY LIVING UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26672.ts
+#EXTINF:-1,SKY ATLANTIC UK
+http://mlsh.co:2086/live/Terry1/Terry1/20216.ts
+#EXTINF:-1,SKY TWO UK
+http://mlsh.co:2086/live/Terry1/Terry1/20212.ts
+#EXTINF:-1,SKY ARTS UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26670.ts
+#EXTINF:-1,SKY ARTS UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20218.ts
+#EXTINF:-1,SYFY UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26669.ts
+#EXTINF:-1,TLC UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26668.ts
+#EXTINF:-1,ALIBI UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26680.ts
+#EXTINF:-1,ALIBI UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20241.ts
+#EXTINF:-1,AMC UK
+http://mlsh.co:2086/live/Terry1/Terry1/21062.ts
+#EXTINF:-1,CBS REALITY UK
+http://mlsh.co:2086/live/Terry1/Terry1/20245.ts
+#EXTINF:-1,CBS ACTION UK
+http://mlsh.co:2086/live/Terry1/Terry1/20243.ts
+#EXTINF:-1,CBS DRAMA UK
+http://mlsh.co:2086/live/Terry1/Terry1/20244.ts
+#EXTINF:-1,CHALLENGE UK
+http://mlsh.co:2086/live/Terry1/Terry1/20227.ts
+#EXTINF:-1,COMEDY CENTRAL UK
+http://mlsh.co:2086/live/Terry1/Terry1/20228.ts
+#EXTINF:-1,COMEDY CENTRAL EXTRA UK
+http://mlsh.co:2086/live/Terry1/Terry1/21074.ts
+#EXTINF:-1,DAVE UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/20234.ts
+#EXTINF:-1,DAVE UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/26679.ts
+#EXTINF:-1,DAVE JA VU UK
+http://mlsh.co:2086/live/Terry1/Terry1/25850.ts
+#EXTINF:-1,DMAX UK
+http://mlsh.co:2086/live/Terry1/Terry1/20230.ts
+#EXTINF:-1,DRAMA UK
+http://mlsh.co:2086/live/Terry1/Terry1/20246.ts
+#EXTINF:-1,E4 UK
+http://mlsh.co:2086/live/Terry1/Terry1/20225.ts
+#EXTINF:-1,E4 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/25847.ts
+#EXTINF:-1,E4 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25848.ts
+#EXTINF:-1,E! UK
+http://mlsh.co:2086/live/Terry1/Terry1/20247.ts
+#EXTINF:-1,E! 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25849.ts
+#EXTINF:-1,EDEN UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26678.ts
+#EXTINF:-1,EDEN UK
+http://mlsh.co:2086/live/Terry1/Terry1/20368.ts
+#EXTINF:-1,FOUR SEVEN UK
+http://mlsh.co:2086/live/Terry1/Terry1/20249.ts
+#EXTINF:-1,FIVE STAR UK
+http://mlsh.co:2086/live/Terry1/Terry1/20232.ts
+#EXTINF:-1,FIVE USA UK
+http://mlsh.co:2086/live/Terry1/Terry1/20233.ts
+#EXTINF:-1,FIVE USA 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25822.ts
+#EXTINF:-1,FOOD NETWORK UK
+http://mlsh.co:2086/live/Terry1/Terry1/20248.ts
+#EXTINF:-1,FOX UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26677.ts
+#EXTINF:-1,FOX UK
+http://mlsh.co:2086/live/Terry1/Terry1/20250.ts
+#EXTINF:-1,GOOD FOOD UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26676.ts
+#EXTINF:-1,GOODFOOD UK
+http://mlsh.co:2086/live/Terry1/Terry1/20369.ts
+#EXTINF:-1,GOLD UK
+http://mlsh.co:2086/live/Terry1/Terry1/20235.ts
+#EXTINF:-1,HORROR CHANNEL
+http://mlsh.co:2086/live/Terry1/Terry1/20130.ts
+#EXTINF:-1,HOME
+http://mlsh.co:2086/live/Terry1/Terry1/20113.ts
+#EXTINF:-1,ITV2 UK
+http://mlsh.co:2086/live/Terry1/Terry1/20219.ts
+#EXTINF:-1,ITV2 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/22217.ts
+#EXTINF:-1,ITV2 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25843.ts
+#EXTINF:-1,ITV 3 UK
+http://mlsh.co:2086/live/Terry1/Terry1/20220.ts
+#EXTINF:-1,ITV 3 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/22216.ts
+#EXTINF:-1,ITV 3 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25842.ts
+#EXTINF:-1,ITV 4 UK
+http://mlsh.co:2086/live/Terry1/Terry1/20221.ts
+#EXTINF:-1,ITV 4 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/22215.ts
+#EXTINF:-1,ITV 4 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25841.ts
+#EXTINF:-1,ITV BE UK
+http://mlsh.co:2086/live/Terry1/Terry1/20222.ts
+#EXTINF:-1,ITV BE UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/22214.ts
+#EXTINF:-1,ITV ENCORE UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26675.ts
+#EXTINF:-1,ITV ENCORE UK
+http://mlsh.co:2086/live/Terry1/Terry1/20223.ts
+#EXTINF:-1,LIFETIME UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26674.ts
+#EXTINF:-1,LIFE TIME UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20301.ts
+#EXTINF:-1,HORSE AND COUNTRY UK
+http://mlsh.co:2086/live/Terry1/Terry1/26655.ts
+#EXTINF:-1,MTV LIVE HD
+http://mlsh.co:2086/live/Terry1/Terry1/26662.ts
+#EXTINF:-1,MORE 4 UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26673.ts
+#EXTINF:-1,MORE4 UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20224.ts
+#EXTINF:-1,MORE4 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25839.ts
+#EXTINF:-1,MY 5 UK
+http://mlsh.co:2086/live/Terry1/Terry1/22906.ts
+#EXTINF:-1,PBS USA
+http://mlsh.co:2086/live/Terry1/Terry1/20173.ts
+#EXTINF:-1,PICK UK
+http://mlsh.co:2086/live/Terry1/Terry1/20359.ts
+#EXTINF:-1,QUEST UK
+http://mlsh.co:2086/live/Terry1/Terry1/20362.ts
+#EXTINF:-1,TRUE ENT 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25828.ts
+#EXTINF:-1,Sky News SD
+http://mlsh.co:2086/live/Terry1/Terry1/20309.ts
+#EXTINF:-1,Sky News HD
+http://mlsh.co:2086/live/Terry1/Terry1/21866.ts
+#EXTINF:-1,SPIKE UK
+http://mlsh.co:2086/live/Terry1/Terry1/20360.ts
+#EXTINF:-1,SYFY UK
+http://mlsh.co:2086/live/Terry1/Terry1/20307.ts
+#EXTINF:-1,REAL LIVES UK
+http://mlsh.co:2086/live/Terry1/Terry1/21061.ts
+#EXTINF:-1,REALLY UK
+http://mlsh.co:2086/live/Terry1/Terry1/20358.ts
+#EXTINF:-1,TLC UK
+http://mlsh.co:2086/live/Terry1/Terry1/21063.ts
+#EXTINF:-1,TRU TV UK
+http://mlsh.co:2086/live/Terry1/Terry1/21060.ts
+#EXTINF:-1,TRAVEL CHANNEL UK
+http://mlsh.co:2086/live/Terry1/Terry1/20088.ts
+#EXTINF:-1,TRUE CRIME UK
+http://mlsh.co:2086/live/Terry1/Terry1/22905.ts
+#EXTINF:-1,TRUE MOVIES 2
+http://mlsh.co:2086/live/Terry1/Terry1/25829.ts
+#EXTINF:-1,TRUE ENTERTAINMENT UK
+http://mlsh.co:2086/live/Terry1/Terry1/21069.ts
+#EXTINF:-1,TRUTV 1 UK
+http://mlsh.co:2086/live/Terry1/Terry1/25827.ts
+#EXTINF:-1,TCM UK
+http://mlsh.co:2086/live/Terry1/Terry1/21073.ts
+#EXTINF:-1,WATCH UK
+http://mlsh.co:2086/live/Terry1/Terry1/20239.ts
+#EXTINF:-1,UNIVERSAL CHANNEL UK
+http://mlsh.co:2086/live/Terry1/Terry1/20237.ts
+#EXTINF:-1,YESTERDAY UK
+http://mlsh.co:2086/live/Terry1/Terry1/21068.ts
+#EXTINF:-1,3E UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26681.ts
+#EXTINF:-1,3E UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/21064.ts
+#EXTINF:-1,BBC ALBA UK
+http://mlsh.co:2086/live/Terry1/Terry1/25009.ts
+#EXTINF:-1,BBC FOUR UK
+http://mlsh.co:2086/live/Terry1/Terry1/20213.ts
+#EXTINF:-1,BBC News UK
+http://mlsh.co:2086/live/Terry1/Terry1/21867.ts
+#EXTINF:-1,BBC PARLIAMENT UK
+http://mlsh.co:2086/live/Terry1/Terry1/25010.ts
+#EXTINF:-1,BBC TWO NORTHERN IRELAND UK
+http://mlsh.co:2086/live/Terry1/Terry1/25012.ts
+#EXTINF:-1,BBC TWO SCOTLAND UK
+http://mlsh.co:2086/live/Terry1/Terry1/25011.ts
+#EXTINF:-1,BBC World News
+http://mlsh.co:2086/live/Terry1/Terry1/21868.ts
+#EXTINF:-1,BBC1 WALES UK
+http://mlsh.co:2086/live/Terry1/Terry1/20361.ts
+#EXTINF:-1,BBC ONE LONDON UK
+http://mlsh.co:2086/live/Terry1/Terry1/25016.ts
+#EXTINF:-1,BBC ONE NORTHERN IRELAND UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/25015.ts
+#EXTINF:-1,BBC ONE SCOTLAND UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/25014.ts
+#EXTINF:-1,BBC TWO WALES UK
+http://mlsh.co:2086/live/Terry1/Terry1/25013.ts
+#EXTINF:-1,AT THE RACES
+http://mlsh.co:2086/live/Terry1/Terry1/20273.ts
+#EXTINF:-1,BOXNATION UK
+http://mlsh.co:2086/live/Terry1/Terry1/20274.ts
+#EXTINF:-1,BoxNation HD
+http://mlsh.co:2086/live/Terry1/Terry1/26685.ts
+#EXTINF:-1,BT SPORT 1 1080P
+http://mlsh.co:2086/live/Terry1/Terry1/22221.ts
+#EXTINF:-1,BT Sport 1 HD
+http://mlsh.co:2086/live/Terry1/Terry1/20302.ts
+#EXTINF:-1,BT Sport 1 SD
+http://mlsh.co:2086/live/Terry1/Terry1/20384.ts
+#EXTINF:-1,BT Sport 2 HD
+http://mlsh.co:2086/live/Terry1/Terry1/20385.ts
+#EXTINF:-1,BT SPORT 2 HD BKUP
+http://mlsh.co:2086/live/Terry1/Terry1/20517.ts
+#EXTINF:-1,BT SPORT 2 SD
+http://mlsh.co:2086/live/Terry1/Terry1/20265.ts
+#EXTINF:-1,BT Sports 2 1080
+http://mlsh.co:2086/live/Terry1/Terry1/26034.ts
+#EXTINF:-1,BT SPORT 3 HD
+http://mlsh.co:2086/live/Terry1/Terry1/20266.ts
+#EXTINF:-1,BT Sport 3 SD
+http://mlsh.co:2086/live/Terry1/Terry1/20386.ts
+#EXTINF:-1,BT SPORT ESPN
+http://mlsh.co:2086/live/Terry1/Terry1/20267.ts
+#EXTINF:-1,EIR SPORTS 1
+http://mlsh.co:2086/live/Terry1/Terry1/20268.ts
+#EXTINF:-1,EIR SPORTS 2
+http://mlsh.co:2086/live/Terry1/Terry1/20269.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://mlsh.co:2086/live/Terry1/Terry1/20270.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://mlsh.co:2086/live/Terry1/Terry1/20271.ts
+#EXTINF:-1,FREESPORT
+http://mlsh.co:2086/live/Terry1/Terry1/26657.ts
+#EXTINF:-1,MOTORS TV
+http://mlsh.co:2086/live/Terry1/Terry1/20109.ts
+#EXTINF:-1,MOTOGP LIVE 1
+http://mlsh.co:2086/live/Terry1/Terry1/20798.ts
+#EXTINF:-1,MOTOGP LIVE 2
+http://mlsh.co:2086/live/Terry1/Terry1/20799.ts
+#EXTINF:-1,MOTOGP LIVE 3
+http://mlsh.co:2086/live/Terry1/Terry1/20800.ts
+#EXTINF:-1,RACING UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20277.ts
+#EXTINF:-1,RACING HD
+http://mlsh.co:2086/live/Terry1/Terry1/26684.ts
+#EXTINF:-1,PREMIER SPORTS
+http://mlsh.co:2086/live/Terry1/Terry1/20272.ts
+#EXTINF:-1,PDC DARTS (when events on)
+http://281596-lh.akamaihd.net/i/[email protected]/index_512_av-b.m3u8?sd=2&rebase=on&hdntl=exp=1519046972~acl=%2f*%2fwabpdchlsch01_0%40379055*~data=hdntl~hmac=22fa5de2feea9a65f73cf1ddf3948b44ce2c1f3463859a40e160a413c15f1d18&unique_id=42d3e4dfdb88d48343bfb922e4df73e833511008985469ed18904aa9b053be02b7ae93
+#EXTINF:-1,SKY SPORTS ACTION SD
+http://mlsh.co:2086/live/Terry1/Terry1/20261.ts
+#EXTINF:-1,SKY SPORTS ACTION HD
+http://mlsh.co:2086/live/Terry1/Terry1/20253.ts
+#EXTINF:-1,SKY SPORTS ACTION 1080P
+http://mlsh.co:2086/live/Terry1/Terry1/22204.ts
+#EXTINF:-1,SKY SPORTS ARENA SD
+http://mlsh.co:2086/live/Terry1/Terry1/24103.ts
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://mlsh.co:2086/live/Terry1/Terry1/24104.ts
+#EXTINF:-1,SKY SPORTS ARENA 1080
+http://mlsh.co:2086/live/Terry1/Terry1/23353.ts
+#EXTINF:-1,SKY SPORTS CRICKET SD
+http://mlsh.co:2086/live/Terry1/Terry1/20260.ts
+#EXTINF:-1,SKY SPORTS CRICKET HD
+http://mlsh.co:2086/live/Terry1/Terry1/20252.ts
+#EXTINF:-1,SKY SPORTS CRICKET 1080
+http://mlsh.co:2086/live/Terry1/Terry1/22205.ts
+#EXTINF:-1,SKY SPORTS F1 SD
+http://mlsh.co:2086/live/Terry1/Terry1/20264.ts
+#EXTINF:-1,SKY SPORTS F1 HD
+http://mlsh.co:2086/live/Terry1/Terry1/20256.ts
+#EXTINF:-1,SKY SPORTS F1 1080P
+http://mlsh.co:2086/live/Terry1/Terry1/22203.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL SD
+http://mlsh.co:2086/live/Terry1/Terry1/24096.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL HD
+http://mlsh.co:2086/live/Terry1/Terry1/24097.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL 1080
+http://mlsh.co:2086/live/Terry1/Terry1/23352.ts
+#EXTINF:-1,SKY SPORTS GOLF SD
+http://mlsh.co:2086/live/Terry1/Terry1/20262.ts
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://mlsh.co:2086/live/Terry1/Terry1/20254.ts
+#EXTINF:-1,SKY SPORTS GOLF 1080p
+http://mlsh.co:2086/live/Terry1/Terry1/22926.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT SD
+http://mlsh.co:2086/live/Terry1/Terry1/20259.ts
+#EXTINF:-1,SKY SPORT MAIN EVENT HD
+http://mlsh.co:2086/live/Terry1/Terry1/20304.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT 1080
+http://mlsh.co:2086/live/Terry1/Terry1/22206.ts
+#EXTINF:-1,SKY SPORTS MIX
+http://mlsh.co:2086/live/Terry1/Terry1/21072.ts
+#EXTINF:-1,SKY SPORTS MIX HD
+http://mlsh.co:2086/live/Terry1/Terry1/24683.ts
+#EXTINF:-1,SKY SPORTS MIX 1080
+http://mlsh.co:2086/live/Terry1/Terry1/26682.ts
+#EXTINF:-1,SKY SPORTS NEWS SD
+http://mlsh.co:2086/live/Terry1/Terry1/26683.ts
+#EXTINF:-1,UK : SKY SPORTS NEWS HD
+http://mlsh.co:2086/live/Terry1/Terry1/27247.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
+http://mlsh.co:2086/live/Terry1/Terry1/20263.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://mlsh.co:2086/live/Terry1/Terry1/20255.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE 1080P
+http://mlsh.co:2086/live/Terry1/Terry1/22925.ts
+#EXTINF:-1,movies24
+http://mlsh.co:2086/live/Terry1/Terry1/25838.ts
+#EXTINF:-1,FILM4
+http://mlsh.co:2086/live/Terry1/Terry1/20129.ts
+#EXTINF:-1,MOVIES 4 MEN
+http://mlsh.co:2086/live/Terry1/Terry1/20143.ts
+#EXTINF:-1,Movies4men 1
+http://mlsh.co:2086/live/Terry1/Terry1/25837.ts
+#EXTINF:-1,TRUE MOVIES 1
+http://mlsh.co:2086/live/Terry1/Terry1/20131.ts
+#EXTINF:-1,Sky Cinema Heroes
+http://mlsh.co:2086/live/Terry1/Terry1/19283.ts
+#EXTINF:-1,Sky Cinema Heroes HD
+http://mlsh.co:2086/live/Terry1/Terry1/19282.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://mlsh.co:2086/live/Terry1/Terry1/19289.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://mlsh.co:2086/live/Terry1/Terry1/19288.ts
+#EXTINF:-1,Sky Cinema Disney
+http://mlsh.co:2086/live/Terry1/Terry1/19298.ts
+#EXTINF:-1,Sky Cinema Disney HD
+http://mlsh.co:2086/live/Terry1/Terry1/19299.ts
+#EXTINF:-1,Sky Cinema Drama
+http://mlsh.co:2086/live/Terry1/Terry1/19280.ts
+#EXTINF:-1,Sky Cinema Drama HD
+http://mlsh.co:2086/live/Terry1/Terry1/19296.ts
+#EXTINF:-1,Sky Cinema Villains
+http://mlsh.co:2086/live/Terry1/Terry1/19291.ts
+#EXTINF:-1,Sky Cinema Villains HD
+http://mlsh.co:2086/live/Terry1/Terry1/19290.ts
+#EXTINF:-1,Sky Cinema Hits
+http://mlsh.co:2086/live/Terry1/Terry1/19281.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://mlsh.co:2086/live/Terry1/Terry1/21114.ts
+#EXTINF:-1,Sky Cinema Premier
+http://mlsh.co:2086/live/Terry1/Terry1/19279.ts
+#EXTINF:-1,Sky Cinema Premier HD
+http://mlsh.co:2086/live/Terry1/Terry1/19278.ts
+#EXTINF:-1,Sky Cinema Sci-Fi
+http://mlsh.co:2086/live/Terry1/Terry1/19293.ts
+#EXTINF:-1,Sky Cinema Sci-Fi HD
+http://mlsh.co:2086/live/Terry1/Terry1/19292.ts
+#EXTINF:-1,Sky Cinema Select
+http://mlsh.co:2086/live/Terry1/Terry1/19295.ts
+#EXTINF:-1,Sky Cinema Select HD
+http://mlsh.co:2086/live/Terry1/Terry1/19294.ts
+#EXTINF:-1,Sky Cinema Thriller
+http://mlsh.co:2086/live/Terry1/Terry1/21760.ts
+#EXTINF:-1,Sky Cinema Thriller HD
+http://mlsh.co:2086/live/Terry1/Terry1/21759.ts
+#EXTINF:-1,ANIMAL PLANET UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20103.ts
+#EXTINF:-1,CRIME AND INVESTIGATION SD
+http://mlsh.co:2086/live/Terry1/Terry1/20089.ts
+#EXTINF:-1,CRIME AND INVESTIGATION HD
+http://mlsh.co:2086/live/Terry1/Terry1/26667.ts
+#EXTINF:-1,DISCOVERY USA HD
+http://mlsh.co:2086/live/Terry1/Terry1/20980.ts
+#EXTINF:-1,DISCOVERY HISTORY
+http://mlsh.co:2086/live/Terry1/Terry1/20095.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://mlsh.co:2086/live/Terry1/Terry1/20096.ts
+#EXTINF:-1,DISCOVERY SCIENCE USA HD
+http://mlsh.co:2086/live/Terry1/Terry1/20978.ts
+#EXTINF:-1,DISCOVERY SCIENCE UK
+http://mlsh.co:2086/live/Terry1/Terry1/20098.ts
+#EXTINF:-1,DISCOVERY SHED
+http://mlsh.co:2086/live/Terry1/Terry1/20099.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://mlsh.co:2086/live/Terry1/Terry1/20100.ts
+#EXTINF:-1,DISCOVERY UK SD
+http://mlsh.co:2086/live/Terry1/Terry1/20094.ts
+#EXTINF:-1,DISCOVERY UK HD
+http://mlsh.co:2086/live/Terry1/Terry1/26666.ts
+#EXTINF:-1,[UK] Sports Cricket
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/937.ts
+#EXTINF:-1,[UK] Sports Action
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/938.ts
+#EXTINF:-1,[UK] Sports Golf
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/939.ts
+#EXTINF:-1,[UK] Fox News
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/920.ts
+#EXTINF:-1,[UK] True Movies 2
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1511.ts
+#EXTINF:-1,[UK] ITV 1
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1503.ts
+#EXTINF:-1,[UK] ITV 2
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1501.ts
+#EXTINF:-1,[UK] ITV 3
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1500.ts
+#EXTINF:-1,[UK] ITV 4
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1519.ts
+#EXTINF:-1,[UK] True Movies 1 HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/928.ts
+#EXTINF:-1,[UK] Movies Comedy
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/926.ts
+#EXTINF:-1,[UK] Movies Select HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/925.ts
+#EXTINF:-1,[UK] Movies Family HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/922.ts
+#EXTINF:-1,[UK] Movies Action HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/919.ts
+#EXTINF:-1,[UK] Movies Premiere HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/923.ts
+#EXTINF:-1,[UK] Boomerang
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/927.ts
+#EXTINF:-1,[UK] Movies Horror HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/924.ts
+#EXTINF:-1,[UK] CBS Reality
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/934.ts
+#EXTINF:-1,[UK] Discovery History
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/932.ts
+#EXTINF:-1,[UK] Boxnation HD
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/933.ts
+#EXTINF:-1,[UK] FOOD NETWORK
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/935.ts
+#EXTINF:-1,[UK] Pop Max TV
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/930.ts
+#EXTINF:-1,[UK] NICK JUNIOR
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/931.ts
+#EXTINF:-1,[UK] CARTOON NETWORK
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/921.ts
+#EXTINF:-1,[UK] QVC
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1290.ts
+#EXTINF:-1,[UK] BBC 1
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1506.ts
+#EXTINF:-1,[UK] BBC 2
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1505.ts
+#EXTINF:-1,[UK] BBC 3
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1504.ts
+#EXTINF:-1,[UK] BBC 4
+http://3arabiptv.ddns.net:8000/live/Noor-Ahmad-Shahid/Restream/1499.ts
+#EXTINF:-1,UK - ITV 1 HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1480.ts
+#EXTINF:-1,UK - ITV 1
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/39.ts
+#EXTINF:-1,UK - ITV 2 HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1481.ts
+#EXTINF:-1,UK - ITV 2
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/26.ts
+#EXTINF:-1,UK - ITV 3 HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1482.ts
+#EXTINF:-1,UK - ITV 3
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/22.ts
+#EXTINF:-1,UK - ITV 4 HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1483.ts
+#EXTINF:-1,UK - ITV 4
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/25.ts
+#EXTINF:-1,UK - ITV Encore
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4200.ts
+#EXTINF:-1,UK - ITV Be
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4199.ts
+#EXTINF:-1,UK - STV HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/19835.ts
+#EXTINF:-1,UK - C ITV
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5412.ts
+#EXTINF:-1,UK - BBC 1 HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1471.ts
+#EXTINF:-1,UK - BBC 1
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/40.ts
+#EXTINF:-1,UK - BBC 2 HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1472.ts
+#EXTINF:-1,UK - BBC 2
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/41.ts
+#EXTINF:-1,UK - BBC 3 HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1473.ts
+#EXTINF:-1,UK - BBC 3
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/36.ts
+#EXTINF:-1,UK - BBC 4 HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1474.ts
+#EXTINF:-1,UK - BBC 4
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/47.ts
+#EXTINF:-1,UK - BBC NI
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/314.ts
+#EXTINF:-1,UK - BBC Scotland
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1339.ts
+#EXTINF:-1,UK - BBC Entertainment
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/173.ts
+#EXTINF:-1,UK - BBC Entertainment (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/17420.ts
+#EXTINF:-1,UK - BBC One Wales
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/11256.ts
+#EXTINF:-1,UK - Cheebies HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5401.ts
+#EXTINF:-1,UK - E!
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1534.ts
+#EXTINF:-1,UK - CBS Reality
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4186.ts
+#EXTINF:-1,UK - CBS Reality (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/9070.ts
+#EXTINF:-1,UK - CBS Drama
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4187.ts
+#EXTINF:-1,UK - CBS Drama (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/9071.ts
+#EXTINF:-1,UK - CBS Action
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4188.ts
+#EXTINF:-1,UK - CBS Action (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/9072.ts
+#EXTINF:-1,UK - Watch
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/433.ts
+#EXTINF:-1,UK - Channel 4 HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5396.ts
+#EXTINF:-1,UK - Channel 4
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/35.ts
+#EXTINF:-1,UK - Channel 5 HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5397.ts
+#EXTINF:-1,UK - Channel 5
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/23.ts
+#EXTINF:-1,UK - Spike UK
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4177.ts
+#EXTINF:-1,UK - Spike UK (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7542.ts
+#EXTINF:-1,UK - Alibi
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/432.ts
+#EXTINF:-1,UK - Alibi (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7543.ts
+#EXTINF:-1,UK - Home
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/435.ts
+#EXTINF:-1,UK - Home (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7544.ts
+#EXTINF:-1,UK - Eden
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/437.ts
+#EXTINF:-1,UK - Eden (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7545.ts
+#EXTINF:-1,UK - Yesterday
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/436.ts
+#EXTINF:-1,UK - Yesterday (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7546.ts
+#EXTINF:-1,UK - GOLD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/29.ts
+#EXTINF:-1,UK - GOLD (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7547.ts
+#EXTINF:-1,UK - DMAX
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1055.ts
+#EXTINF:-1,UK - DMAX (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7548.ts
+#EXTINF:-1,UK - Pick
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4193.ts
+#EXTINF:-1,UK - Pick (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7549.ts
+#EXTINF:-1,UK - Fox
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/296.ts
+#EXTINF:-1,UK - Fox (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7550.ts
+#EXTINF:-1,UK - Fox Life
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/18664.ts
+#EXTINF:-1,UK - Fox HD (THAI)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/18665.ts
+#EXTINF:-1,UK - FX HD (THAI)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/18663.ts
+#EXTINF:-1,UK - Challenge
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/3038.ts
+#EXTINF:-1,UK - Challenge (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7551.ts
+#EXTINF:-1,UK - Quest
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1563.ts
+#EXTINF:-1,UK - Quest (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7552.ts
+#EXTINF:-1,UK - Arts 1
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/199.ts
+#EXTINF:-1,UK - Arts 1 (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7553.ts
+#EXTINF:-1,UK - One
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/201.ts
+#EXTINF:-1,UK - One (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7554.ts
+#EXTINF:-1,UK - Two
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/202.ts
+#EXTINF:-1,UK - Two (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7555.ts
+#EXTINF:-1,UK - TLC
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/196.ts
+#EXTINF:-1,UK - TLC (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7556.ts
+#EXTINF:-1,UK - Dave Uk
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/27.ts
+#EXTINF:-1,UK - Dave Uk (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7557.ts
+#EXTINF:-1,UK - Dave Ja Vu
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5418.ts
+#EXTINF:-1,UK - Dave Ja Vu (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7558.ts
+#EXTINF:-1,UK - Atlantic
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/175.ts
+#EXTINF:-1,UK - Atlantic (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7559.ts
+#EXTINF:-1,UK - Living
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/174.ts
+#EXTINF:-1,UK - Living (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7560.ts
+#EXTINF:-1,UK - True Entertainment
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4196.ts
+#EXTINF:-1,UK - True Entertainment (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7561.ts
+#EXTINF:-1,UK - Lifetime HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/11288.ts
+#EXTINF:-1,UK - Travel Channel
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4059.ts
+#EXTINF:-1,UK - Travel Channel (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7562.ts
+#EXTINF:-1,UK - RTE One
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/48.ts
+#EXTINF:-1,UK - RTE One (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7563.ts
+#EXTINF:-1,UK - RTE Two
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/49.ts
+#EXTINF:-1,UK - RTE Two (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7564.ts
+#EXTINF:-1,UK - 5 Star
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/320.ts
+#EXTINF:-1,UK - 5 Star (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7565.ts
+#EXTINF:-1,UK - Food Network
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/740.ts
+#EXTINF:-1,UK - Food Network (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7566.ts
+#EXTINF:-1,UK - Food
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/301.ts
+#EXTINF:-1,UK - Food (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7567.ts
+#EXTINF:-1,UK - E4
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/31.ts
+#EXTINF:-1,UK - E4 (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7568.ts
+#EXTINF:-1,UK - More 4
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5422.ts
+#EXTINF:-1,UK - More 4 (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/7569.ts
+#EXTINF:-1,UK - Fine Living Network
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4191.ts
+#EXTINF:-1,UK - 5 USA
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/321.ts
+#EXTINF:-1,UK - 3E
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/59.ts
+#EXTINF:-1,UK - AMC UK
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/1552.ts
+#EXTINF:-1,UK - UTV IE
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4207.ts
+#EXTINF:-1,UK - TV3 IE
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4208.ts
+#EXTINF:-1,UK - TG4
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4209.ts
+#EXTINF:-1,UK - Real Lives
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/4190.ts
+#EXTINF:-1,UK - Your TV
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5411.ts
+#EXTINF:-1,UK - Tru TV
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5406.ts
+#EXTINF:-1,UK - Rishtey Europe
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5403.ts
+#EXTINF:-1,UK - Really
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5407.ts
+#EXTINF:-1,UK - Ideal World
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5419.ts
+#EXTINF:-1,UK - Drama
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5413.ts
+#EXTINF:-1,UK - Drama (B)
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/10745.ts
+#EXTINF:-1,UK - 4 Seven HD
+http://cdnfeed.ddns.net:80/live/philmalqrm/jM7kdb5fgD/5399.ts
+#EXTINF:-1,BBC ONE UK SD
+http://mlsh.co:2086/live/lauren/lauren/20206.ts
+#EXTINF:-1,BBC ONE UK HD
+http://mlsh.co:2086/live/lauren/lauren/20784.ts
+#EXTINF:-1,BBC TWO UK
+http://mlsh.co:2086/live/lauren/lauren/20207.ts
+#EXTINF:-1,BBC TWO UK HD
+http://mlsh.co:2086/live/lauren/lauren/20785.ts
+#EXTINF:-1,ITV 1 UK SD
+http://mlsh.co:2086/live/lauren/lauren/20208.ts
+#EXTINF:-1,ITV1 UK HD
+http://mlsh.co:2086/live/lauren/lauren/20788.ts
+#EXTINF:-1,ITV PLUS 1 UK
+http://mlsh.co:2086/live/lauren/lauren/26017.ts
+#EXTINF:-1,CHANNEL 4 UK SD
+http://mlsh.co:2086/live/lauren/lauren/20209.ts
+#EXTINF:-1,Channel 4 UK HD
+http://mlsh.co:2086/live/lauren/lauren/20787.ts
+#EXTINF:-1,CHANNEL 4 1 UK
+http://mlsh.co:2086/live/lauren/lauren/25854.ts
+#EXTINF:-1,CHANNEL 5 UK SD
+http://mlsh.co:2086/live/lauren/lauren/20210.ts
+#EXTINF:-1,CHANNEL 5 UK HD
+http://mlsh.co:2086/live/lauren/lauren/20786.ts
+#EXTINF:-1,CHANNEL 5 1 UK
+http://mlsh.co:2086/live/lauren/lauren/25855.ts
+#EXTINF:-1,SKY ONE UK SD
+http://mlsh.co:2086/live/lauren/lauren/20211.ts
+#EXTINF:-1,SKY ONE UK HD
+http://mlsh.co:2086/live/lauren/lauren/26671.ts
+#EXTINF:-1,SKY LIVING UK SD
+http://mlsh.co:2086/live/lauren/lauren/20214.ts
+#EXTINF:-1,SKY LIVING UK HD
+http://mlsh.co:2086/live/lauren/lauren/26672.ts
+#EXTINF:-1,SKY ATLANTIC UK
+http://mlsh.co:2086/live/lauren/lauren/20216.ts
+#EXTINF:-1,SKY TWO UK
+http://mlsh.co:2086/live/lauren/lauren/20212.ts
+#EXTINF:-1,SKY ARTS UK HD
+http://mlsh.co:2086/live/lauren/lauren/26670.ts
+#EXTINF:-1,SKY ARTS UK SD
+http://mlsh.co:2086/live/lauren/lauren/20218.ts
+#EXTINF:-1,SYFY UK HD
+http://mlsh.co:2086/live/lauren/lauren/26669.ts
+#EXTINF:-1,TLC UK HD
+http://mlsh.co:2086/live/lauren/lauren/26668.ts
+#EXTINF:-1,ALIBI UK HD
+http://mlsh.co:2086/live/lauren/lauren/26680.ts
+#EXTINF:-1,ALIBI UK SD
+http://mlsh.co:2086/live/lauren/lauren/20241.ts
+#EXTINF:-1,AMC UK
+http://mlsh.co:2086/live/lauren/lauren/21062.ts
+#EXTINF:-1,CBS REALITY UK
+http://mlsh.co:2086/live/lauren/lauren/20245.ts
+#EXTINF:-1,CBS ACTION UK
+http://mlsh.co:2086/live/lauren/lauren/20243.ts
+#EXTINF:-1,CBS DRAMA UK
+http://mlsh.co:2086/live/lauren/lauren/20244.ts
+#EXTINF:-1,CHALLENGE UK
+http://mlsh.co:2086/live/lauren/lauren/20227.ts
+#EXTINF:-1,COMEDY CENTRAL UK
+http://mlsh.co:2086/live/lauren/lauren/20228.ts
+#EXTINF:-1,COMEDY CENTRAL EXTRA UK
+http://mlsh.co:2086/live/lauren/lauren/21074.ts
+#EXTINF:-1,DAVE UK HD
+http://mlsh.co:2086/live/lauren/lauren/20234.ts
+#EXTINF:-1,DAVE UK SD
+http://mlsh.co:2086/live/lauren/lauren/26679.ts
+#EXTINF:-1,DAVE JA VU UK
+http://mlsh.co:2086/live/lauren/lauren/25850.ts
+#EXTINF:-1,DMAX UK
+http://mlsh.co:2086/live/lauren/lauren/20230.ts
+#EXTINF:-1,DRAMA UK
+http://mlsh.co:2086/live/lauren/lauren/20246.ts
+#EXTINF:-1,E4 UK
+http://mlsh.co:2086/live/lauren/lauren/20225.ts
+#EXTINF:-1,E4 UK HD
+http://mlsh.co:2086/live/lauren/lauren/25847.ts
+#EXTINF:-1,E4 1 UK
+http://mlsh.co:2086/live/lauren/lauren/25848.ts
+#EXTINF:-1,E! UK
+http://mlsh.co:2086/live/lauren/lauren/20247.ts
+#EXTINF:-1,E! 1 UK
+http://mlsh.co:2086/live/lauren/lauren/25849.ts
+#EXTINF:-1,EDEN UK HD
+http://mlsh.co:2086/live/lauren/lauren/26678.ts
+#EXTINF:-1,EDEN UK
+http://mlsh.co:2086/live/lauren/lauren/20368.ts
+#EXTINF:-1,FOUR SEVEN UK
+http://mlsh.co:2086/live/lauren/lauren/20249.ts
+#EXTINF:-1,FIVE STAR UK
+http://mlsh.co:2086/live/lauren/lauren/20232.ts
+#EXTINF:-1,FIVE USA UK
+http://mlsh.co:2086/live/lauren/lauren/20233.ts
+#EXTINF:-1,FIVE USA 1 UK
+http://mlsh.co:2086/live/lauren/lauren/25822.ts
+#EXTINF:-1,FOOD NETWORK UK
+http://mlsh.co:2086/live/lauren/lauren/20248.ts
+#EXTINF:-1,FOX UK HD
+http://mlsh.co:2086/live/lauren/lauren/26677.ts
+#EXTINF:-1,FOX UK
+http://mlsh.co:2086/live/lauren/lauren/20250.ts
+#EXTINF:-1,GOOD FOOD UK HD
+http://mlsh.co:2086/live/lauren/lauren/26676.ts
+#EXTINF:-1,GOODFOOD UK
+http://mlsh.co:2086/live/lauren/lauren/20369.ts
+#EXTINF:-1,GOLD UK
+http://mlsh.co:2086/live/lauren/lauren/20235.ts
+#EXTINF:-1,HORROR CHANNEL
+http://mlsh.co:2086/live/lauren/lauren/20130.ts
+#EXTINF:-1,HOME
+http://mlsh.co:2086/live/lauren/lauren/20113.ts
+#EXTINF:-1,ITV2 UK
+http://mlsh.co:2086/live/lauren/lauren/20219.ts
+#EXTINF:-1,ITV2 UK HD
+http://mlsh.co:2086/live/lauren/lauren/22217.ts
+#EXTINF:-1,ITV2 1 UK
+http://mlsh.co:2086/live/lauren/lauren/25843.ts
+#EXTINF:-1,ITV 3 UK
+http://mlsh.co:2086/live/lauren/lauren/20220.ts
+#EXTINF:-1,ITV 3 UK HD
+http://mlsh.co:2086/live/lauren/lauren/22216.ts
+#EXTINF:-1,ITV 3 1 UK
+http://mlsh.co:2086/live/lauren/lauren/25842.ts
+#EXTINF:-1,ITV 4 UK
+http://mlsh.co:2086/live/lauren/lauren/20221.ts
+#EXTINF:-1,ITV 4 UK HD
+http://mlsh.co:2086/live/lauren/lauren/22215.ts
+#EXTINF:-1,ITV 4 1 UK
+http://mlsh.co:2086/live/lauren/lauren/25841.ts
+#EXTINF:-1,ITV BE UK
+http://mlsh.co:2086/live/lauren/lauren/20222.ts
+#EXTINF:-1,ITV BE UK HD
+http://mlsh.co:2086/live/lauren/lauren/22214.ts
+#EXTINF:-1,ITV ENCORE UK HD
+http://mlsh.co:2086/live/lauren/lauren/26675.ts
+#EXTINF:-1,ITV ENCORE UK
+http://mlsh.co:2086/live/lauren/lauren/20223.ts
+#EXTINF:-1,LIFETIME UK HD
+http://mlsh.co:2086/live/lauren/lauren/26674.ts
+#EXTINF:-1,LIFE TIME UK SD
+http://mlsh.co:2086/live/lauren/lauren/20301.ts
+#EXTINF:-1,HORSE AND COUNTRY UK
+http://mlsh.co:2086/live/lauren/lauren/26655.ts
+#EXTINF:-1,MTV LIVE HD
+http://mlsh.co:2086/live/lauren/lauren/26662.ts
+#EXTINF:-1,MORE 4 UK HD
+http://mlsh.co:2086/live/lauren/lauren/26673.ts
+#EXTINF:-1,MORE4 UK SD
+http://mlsh.co:2086/live/lauren/lauren/20224.ts
+#EXTINF:-1,MORE4 1 UK
+http://mlsh.co:2086/live/lauren/lauren/25839.ts
+#EXTINF:-1,MY 5 UK
+http://mlsh.co:2086/live/lauren/lauren/22906.ts
+#EXTINF:-1,PBS USA
+http://mlsh.co:2086/live/lauren/lauren/20173.ts
+#EXTINF:-1,PICK UK
+http://mlsh.co:2086/live/lauren/lauren/20359.ts
+#EXTINF:-1,QUEST UK
+http://mlsh.co:2086/live/lauren/lauren/20362.ts
+#EXTINF:-1,TRUE ENT 1 UK
+http://mlsh.co:2086/live/lauren/lauren/25828.ts
+#EXTINF:-1,Sky News SD
+http://mlsh.co:2086/live/lauren/lauren/20309.ts
+#EXTINF:-1,Sky News HD
+http://mlsh.co:2086/live/lauren/lauren/21866.ts
+#EXTINF:-1,SPIKE UK
+http://mlsh.co:2086/live/lauren/lauren/20360.ts
+#EXTINF:-1,SYFY UK
+http://mlsh.co:2086/live/lauren/lauren/20307.ts
+#EXTINF:-1,REAL LIVES UK
+http://mlsh.co:2086/live/lauren/lauren/21061.ts
+#EXTINF:-1,REALLY UK
+http://mlsh.co:2086/live/lauren/lauren/20358.ts
+#EXTINF:-1,TLC UK
+http://mlsh.co:2086/live/lauren/lauren/21063.ts
+#EXTINF:-1,TRU TV UK
+http://mlsh.co:2086/live/lauren/lauren/21060.ts
+#EXTINF:-1,TRAVEL CHANNEL UK
+http://mlsh.co:2086/live/lauren/lauren/20088.ts
+#EXTINF:-1,TRUE CRIME UK
+http://mlsh.co:2086/live/lauren/lauren/22905.ts
+#EXTINF:-1,TRUE MOVIES 2
+http://mlsh.co:2086/live/lauren/lauren/25829.ts
+#EXTINF:-1,TRUE ENTERTAINMENT UK
+http://mlsh.co:2086/live/lauren/lauren/21069.ts
+#EXTINF:-1,TRUTV 1 UK
+http://mlsh.co:2086/live/lauren/lauren/25827.ts
+#EXTINF:-1,TCM UK
+http://mlsh.co:2086/live/lauren/lauren/21073.ts
+#EXTINF:-1,WATCH UK
+http://mlsh.co:2086/live/lauren/lauren/20239.ts
+#EXTINF:-1,UNIVERSAL CHANNEL UK
+http://mlsh.co:2086/live/lauren/lauren/20237.ts
+#EXTINF:-1,YESTERDAY UK
+http://mlsh.co:2086/live/lauren/lauren/21068.ts
+#EXTINF:-1,3E UK HD
+http://mlsh.co:2086/live/lauren/lauren/26681.ts
+#EXTINF:-1,3E UK SD
+http://mlsh.co:2086/live/lauren/lauren/21064.ts
+#EXTINF:-1,BBC ALBA UK
+http://mlsh.co:2086/live/lauren/lauren/25009.ts
+#EXTINF:-1,BBC FOUR UK
+http://mlsh.co:2086/live/lauren/lauren/20213.ts
+#EXTINF:-1,BBC News UK
+http://mlsh.co:2086/live/lauren/lauren/21867.ts
+#EXTINF:-1,BBC PARLIAMENT UK
+http://mlsh.co:2086/live/lauren/lauren/25010.ts
+#EXTINF:-1,BBC TWO NORTHERN IRELAND UK
+http://mlsh.co:2086/live/lauren/lauren/25012.ts
+#EXTINF:-1,BBC TWO SCOTLAND UK
+http://mlsh.co:2086/live/lauren/lauren/25011.ts
+#EXTINF:-1,BBC World News
+http://mlsh.co:2086/live/lauren/lauren/21868.ts
+#EXTINF:-1,BBC1 WALES UK
+http://mlsh.co:2086/live/lauren/lauren/20361.ts
+#EXTINF:-1,BBC ONE LONDON UK
+http://mlsh.co:2086/live/lauren/lauren/25016.ts
+#EXTINF:-1,BBC ONE NORTHERN IRELAND UK HD
+http://mlsh.co:2086/live/lauren/lauren/25015.ts
+#EXTINF:-1,BBC ONE SCOTLAND UK HD
+http://mlsh.co:2086/live/lauren/lauren/25014.ts
+#EXTINF:-1,BBC TWO WALES UK
+http://mlsh.co:2086/live/lauren/lauren/25013.ts
+#EXTINF:-1,AT THE RACES
+http://mlsh.co:2086/live/lauren/lauren/20273.ts
+#EXTINF:-1,BOXNATION UK
+http://mlsh.co:2086/live/lauren/lauren/20274.ts
+#EXTINF:-1,BoxNation HD
+http://mlsh.co:2086/live/lauren/lauren/26685.ts
+#EXTINF:-1,UK: &tv HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24946.ts
+#EXTINF:-1,UK: 4Seven HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24936.ts
+#EXTINF:-1,UK: 5 Star
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24918.ts
+#EXTINF:-1,UK: 5Star
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24947.ts
+#EXTINF:-1,UK: AAJ TAK
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24945.ts
+#EXTINF:-1,UK: amc
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24917.ts
+#EXTINF:-1,UK: Animal Planet
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24923.ts
+#EXTINF:-1,UK: Animal Planet 1
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24922.ts
+#EXTINF:-1,UK: At The Races
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24912.ts
+#EXTINF:-1,UK: Baby TV
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24902.ts
+#EXTINF:-1,UK: BBC Four HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24964.ts
+#EXTINF:-1,UK: BBC News HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24962.ts
+#EXTINF:-1,UK: BBC One HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24966.ts
+#EXTINF:-1,UK: BBC Two HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24965.ts
+#EXTINF:-1,UK: Boomerang
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24901.ts
+#EXTINF:-1,UK: BOX Upfront
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24900.ts
+#EXTINF:-1,UK: Boxnation
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24899.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24963.ts
+#EXTINF:-1,UK: Colors HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24888.ts
+#EXTINF:-1,UK: Comedy Central HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24935.ts
+#EXTINF:-1,UK: Comedy Xtra 1
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24934.ts
+#EXTINF:-1,UK: Crime & Investigation
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24933.ts
+#EXTINF:-1,UK: Dave HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24932.ts
+#EXTINF:-1,UK: Discovery HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24930.ts
+#EXTINF:-1,UK: Discovery History
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24931.ts
+#EXTINF:-1,UK: Discovery Ireland
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24929.ts
+#EXTINF:-1,UK: Discovery Science
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24928.ts
+#EXTINF:-1,UK: Discovery Shed
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24927.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24926.ts
+#EXTINF:-1,UK: Fox HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24939.ts
+#EXTINF:-1,UK: MTV
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24916.ts
+#EXTINF:-1,UK: MTV Base
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24915.ts
+#EXTINF:-1,UK: MTV Classic
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24914.ts
+#EXTINF:-1,UK: MTV Rocks
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24913.ts
+#EXTINF:-1,UK: MUTV
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24961.ts
+#EXTINF:-1,UK: Nat Geo HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24925.ts
+#EXTINF:-1,UK: Nat Geo Wild HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24924.ts
+#EXTINF:-1,UK: Premier Sports
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24885.ts
+#EXTINF:-1,UK: Quest
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24921.ts
+#EXTINF:-1,UK: Racing UK
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24884.ts
+#EXTINF:-1,UK: Sky 1 HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24920.ts
+#EXTINF:-1,UK: Star Gold
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24944.ts
+#EXTINF:-1,UK: Star Life OK
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24943.ts
+#EXTINF:-1,UK: Star Plus
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24942.ts
+#EXTINF:-1,UK: Syfy
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24948.ts
+#EXTINF:-1,UK: TCM HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24938.ts
+#EXTINF:-1,UK: True Movies
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24960.ts
+#EXTINF:-1,UK: Universal HD
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24937.ts
+#EXTINF:-1,UK: Zee Cinema
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24941.ts
+#EXTINF:-1,UK: Zee TV
+http://teamvip.is-not-certified.com:8000/live/paoloR/IblbsYaEt8/24940.ts
 #EXTINF:-1,UK | BBC One HD
 http://ezhosting.xyz:80/live/carl/carl1234/14334.ts
 #EXTINF:-1,UK | BBC One Scotland HD
@@ -231,222 +1188,4 @@ http://ezhosting.xyz:80/live/carl/carl1234/14261.ts
 http://ezhosting.xyz:80/live/carl/carl1234/14238.ts
 #EXTINF:-1,UK | LIFETIME HD
 http://ezhosting.xyz:80/live/carl/carl1234/31559.ts
-#EXTINF:-1,UK | 4 SEVEN
-http://p5.giffy.be:8080/live/Abdi/1234/30513.ts
-#EXTINF:-1,UK | 5 STAR
-http://p5.giffy.be:8080/live/Abdi/1234/30512.ts
-#EXTINF:-1,UK | 5 USA
-http://p5.giffy.be:8080/live/Abdi/1234/30514.ts
-#EXTINF:-1,UK | ANIMAL PLANET
-http://p5.giffy.be:8080/live/Abdi/1234/30530.ts
-#EXTINF:-1,UK | BBC ALBA
-http://p5.giffy.be:8080/live/Abdi/1234/30543.ts
-#EXTINF:-1,UK | BBC ONE SCOTLAND
-http://p5.giffy.be:8080/live/Abdi/1234/30547.ts
-#EXTINF:-1,UK | BBC ONE WALES
-http://p5.giffy.be:8080/live/Abdi/1234/30548.ts
-#EXTINF:-1,UK | BBC PARLIEMNT
-http://p5.giffy.be:8080/live/Abdi/1234/30542.ts
-#EXTINF:-1,UK | BBC TWO NORTHERN IRELAND
-http://p5.giffy.be:8080/live/Abdi/1234/30544.ts
-#EXTINF:-1,UK | BBC TWO SCOTLAND
-http://p5.giffy.be:8080/live/Abdi/1234/30545.ts
-#EXTINF:-1,UK | BBC TWO WALES
-http://p5.giffy.be:8080/live/Abdi/1234/30546.ts
-#EXTINF:-1,UK | BBC1
-http://p5.giffy.be:8080/live/Abdi/1234/30549.ts
-#EXTINF:-1,UK | BBC2
-http://p5.giffy.be:8080/live/Abdi/1234/30550.ts
-#EXTINF:-1,UK | BBC3
-http://p5.giffy.be:8080/live/Abdi/1234/30551.ts
-#EXTINF:-1,UK | BBC4
-http://p5.giffy.be:8080/live/Abdi/1234/30552.ts
-#EXTINF:-1,UK | CBS ACTION
-http://p5.giffy.be:8080/live/Abdi/1234/30526.ts
-#EXTINF:-1,UK | CBS DRAMA
-http://p5.giffy.be:8080/live/Abdi/1234/30525.ts
-#EXTINF:-1,UK | CBS REALITY
-http://p5.giffy.be:8080/live/Abdi/1234/30524.ts
-#EXTINF:-1,UK | CHANNEL 14
-http://p5.giffy.be:8080/live/Abdi/1234/30554.ts
-#EXTINF:-1,UK | CRIME INVESTIGATION
-http://p5.giffy.be:8080/live/Abdi/1234/30504.ts
-#EXTINF:-1,UK | DAVE
-http://p5.giffy.be:8080/live/Abdi/1234/30511.ts
-#EXTINF:-1,UK | DAVE HD
-http://p5.giffy.be:8080/live/Abdi/1234/30560.ts
-#EXTINF:-1,UK | DISCOVERY CH
-http://p5.giffy.be:8080/live/Abdi/1234/30539.ts
-#EXTINF:-1,UK | DISCOVERY HISTORY
-http://p5.giffy.be:8080/live/Abdi/1234/30538.ts
-#EXTINF:-1,UK | DISCOVERY HOME & HEALTH
-http://p5.giffy.be:8080/live/Abdi/1234/30537.ts
-#EXTINF:-1,UK | DISCOVERY SCIENCE
-http://p5.giffy.be:8080/live/Abdi/1234/30536.ts
-#EXTINF:-1,UK | DISCOVERY SHED
-http://p5.giffy.be:8080/live/Abdi/1234/30535.ts
-#EXTINF:-1,UK | DISCOVERY TURBO
-http://p5.giffy.be:8080/live/Abdi/1234/30534.ts
-#EXTINF:-1,UK | E4
-http://p5.giffy.be:8080/live/Abdi/1234/30522.ts
-#EXTINF:-1,UK | FOOD NETWORK
-http://p5.giffy.be:8080/live/Abdi/1234/30521.ts
-#EXTINF:-1,UK | FOX VOD
-http://p5.giffy.be:8080/live/Abdi/1234/30520.ts
-#EXTINF:-1,UK | HISTORY
-http://p5.giffy.be:8080/live/Abdi/1234/30528.ts
-#EXTINF:-1,UK | HISTORY 1
-http://p5.giffy.be:8080/live/Abdi/1234/30523.ts
-#EXTINF:-1,UK | HOME
-http://p5.giffy.be:8080/live/Abdi/1234/30527.ts
-#EXTINF:-1,UK | INVESTIGATION DISCOVERY
-http://p5.giffy.be:8080/live/Abdi/1234/30533.ts
-#EXTINF:-1,UK | ITV BE
-http://p5.giffy.be:8080/live/Abdi/1234/30519.ts
-#EXTINF:-1,UK | ITV ENCORE
-http://p5.giffy.be:8080/live/Abdi/1234/30555.ts
-#EXTINF:-1,UK | ITV LONDON
-http://p5.giffy.be:8080/live/Abdi/1234/30518.ts
-#EXTINF:-1,UK | ITV1
-http://p5.giffy.be:8080/live/Abdi/1234/30556.ts
-#EXTINF:-1,UK | ITV2
-http://p5.giffy.be:8080/live/Abdi/1234/30557.ts
-#EXTINF:-1,UK | ITV3
-http://p5.giffy.be:8080/live/Abdi/1234/30558.ts
-#EXTINF:-1,UK | ITV4
-http://p5.giffy.be:8080/live/Abdi/1234/30559.ts
-#EXTINF:-1,UK | KIX ENG
-http://p5.giffy.be:8080/live/Abdi/1234/30505.ts
-#EXTINF:-1,UK | LIFETIME
-http://p5.giffy.be:8080/live/Abdi/1234/30506.ts
-#EXTINF:-1,UK | MTV DANCE
-http://p5.giffy.be:8080/live/Abdi/1234/30563.ts
-#EXTINF:-1,UK | MTV HITS
-http://p5.giffy.be:8080/live/Abdi/1234/30562.ts
-#EXTINF:-1,UK | MTV MUSIC
-http://p5.giffy.be:8080/live/Abdi/1234/30561.ts
-#EXTINF:-1,UK | NAT GEO
-http://p5.giffy.be:8080/live/Abdi/1234/30531.ts
-#EXTINF:-1,UK | NAT GEO WILD
-http://p5.giffy.be:8080/live/Abdi/1234/30532.ts
-#EXTINF:-1,UK | NATGEO
-http://p5.giffy.be:8080/live/Abdi/1234/30540.ts
-#EXTINF:-1,UK | PICK
-http://p5.giffy.be:8080/live/Abdi/1234/30517.ts
-#EXTINF:-1,UK | QUEST
-http://p5.giffy.be:8080/live/Abdi/1234/30507.ts
-#EXTINF:-1,UK | RTE
-http://p5.giffy.be:8080/live/Abdi/1234/30516.ts
-#EXTINF:-1,UK | S4C
-http://p5.giffy.be:8080/live/Abdi/1234/30541.ts
-#EXTINF:-1,UK | TLC
-http://p5.giffy.be:8080/live/Abdi/1234/30510.ts
-#EXTINF:-1,UK | TRAVEL
-http://p5.giffy.be:8080/live/Abdi/1234/30529.ts
-#EXTINF:-1,UK | TRAVEL CH HD
-http://p5.giffy.be:8080/live/Abdi/1234/30553.ts
-#EXTINF:-1,UK | TV5
-http://p5.giffy.be:8080/live/Abdi/1234/30508.ts
-#EXTINF:-1,UK | UNIVERSAL
-http://p5.giffy.be:8080/live/Abdi/1234/30564.ts
-#EXTINF:-1,UK | VIVA
-http://p5.giffy.be:8080/live/Abdi/1234/30509.ts
-#EXTINF:-1,UK | AMC
-http://veoplay.online:8000/live/manuel817171/67781/3879.ts
-#EXTINF:-1,UK | Animal Planet
-http://veoplay.online:8000/live/manuel817171/67781/3878.ts
-#EXTINF:-1,UK | B0xn4t1on
-http://veoplay.online:8000/live/manuel817171/67781/3874.ts
-#EXTINF:-1,UK | Baby TV
-http://veoplay.online:8000/live/manuel817171/67781/3877.ts
-#EXTINF:-1,UK | BBC 1
-http://veoplay.online:8000/live/manuel817171/67781/3876.ts
-#EXTINF:-1,UK | BBC 2
-http://veoplay.online:8000/live/manuel817171/67781/3875.ts
-#EXTINF:-1,UK | Cartoon Network
-http://veoplay.online:8000/live/manuel817171/67781/3863.ts
-#EXTINF:-1,UK | Cbeebies
-http://veoplay.online:8000/live/manuel817171/67781/3862.ts
-#EXTINF:-1,UK | CBS Action
-http://veoplay.online:8000/live/manuel817171/67781/3861.ts
-#EXTINF:-1,UK | Chelsea FC
-http://veoplay.online:8000/live/manuel817171/67781/3860.ts
-#EXTINF:-1,UK | Comedy Central
-http://veoplay.online:8000/live/manuel817171/67781/3859.ts
-#EXTINF:-1,UK | Discovery Channel
-http://veoplay.online:8000/live/manuel817171/67781/3858.ts
-#EXTINF:-1,UK | Discovery History
-http://veoplay.online:8000/live/manuel817171/67781/3857.ts
-#EXTINF:-1,UK | Discovery Science
-http://veoplay.online:8000/live/manuel817171/67781/3856.ts
-#EXTINF:-1,UK | Discovery Turbo
-http://veoplay.online:8000/live/manuel817171/67781/3855.ts
-#EXTINF:-1,UK | Disney Channel
-http://veoplay.online:8000/live/manuel817171/67781/3854.ts
-#EXTINF:-1,UK | Disney Junior
-http://veoplay.online:8000/live/manuel817171/67781/3853.ts
-#EXTINF:-1,UK | Disney Movies
-http://veoplay.online:8000/live/manuel817171/67781/3851.ts
-#EXTINF:-1,UK | Disney XD
-http://veoplay.online:8000/live/manuel817171/67781/3852.ts
-#EXTINF:-1,UK | Eir Sport 1
-http://veoplay.online:8000/live/manuel817171/67781/3850.ts
-#EXTINF:-1,UK | Eir Sport 2
-http://veoplay.online:8000/live/manuel817171/67781/3849.ts
-#EXTINF:-1,UK | ESPN
-http://veoplay.online:8000/live/manuel817171/67781/3848.ts
-#EXTINF:-1,UK | Eur0zport 1
-http://veoplay.online:8000/live/manuel817171/67781/3847.ts
-#EXTINF:-1,UK | Eurosport 2
-http://veoplay.online:8000/live/manuel817171/67781/3846.ts
-#EXTINF:-1,UK | Food Network
-http://veoplay.online:8000/live/manuel817171/67781/3842.ts
-#EXTINF:-1,UK | FOX
-http://veoplay.online:8000/live/manuel817171/67781/3845.ts
-#EXTINF:-1,UK | FOX News
-http://veoplay.online:8000/live/manuel817171/67781/3843.ts
-#EXTINF:-1,UK | H2
-http://veoplay.online:8000/live/manuel817171/67781/3840.ts
-#EXTINF:-1,UK | History Channel
-http://veoplay.online:8000/live/manuel817171/67781/3841.ts
-#EXTINF:-1,UK | Home
-http://veoplay.online:8000/live/manuel817171/67781/3839.ts
-#EXTINF:-1,UK | Home and Health
-http://veoplay.online:8000/live/manuel817171/67781/3838.ts
-#EXTINF:-1,UK | ITV 1
-http://veoplay.online:8000/live/manuel817171/67781/3837.ts
-#EXTINF:-1,UK | ITV 2
-http://veoplay.online:8000/live/manuel817171/67781/3836.ts
-#EXTINF:-1,UK | ITV 3
-http://veoplay.online:8000/live/manuel817171/67781/3835.ts
-#EXTINF:-1,UK | ITV 4
-http://veoplay.online:8000/live/manuel817171/67781/3834.ts
-#EXTINF:-1,UK | ITV Encore
-http://veoplay.online:8000/live/manuel817171/67781/3833.ts
-#EXTINF:-1,UK | Liverpool FC
-http://veoplay.online:8000/live/manuel817171/67781/3832.ts
-#EXTINF:-1,UK | Manchester United FC
-http://veoplay.online:8000/live/manuel817171/67781/3831.ts
-#EXTINF:-1,UK | Motors TV
-http://veoplay.online:8000/live/manuel817171/67781/3830.ts
-#EXTINF:-1,UK | MTV
-http://veoplay.online:8000/live/manuel817171/67781/3829.ts
-#EXTINF:-1,UK | National Geographic
-http://veoplay.online:8000/live/manuel817171/67781/3828.ts
-#EXTINF:-1,UK | Nick Junior
-http://veoplay.online:8000/live/manuel817171/67781/3826.ts
-#EXTINF:-1,UK | Nickelodeon
-http://veoplay.online:8000/live/manuel817171/67781/3827.ts
-#EXTINF:-1,UK | Nicktoons
-http://veoplay.online:8000/live/manuel817171/67781/3825.ts
-#EXTINF:-1,UK | Premier League
-http://veoplay.online:8000/live/manuel817171/67781/3788.ts
-#EXTINF:-1,UK | Premier Sports
-http://veoplay.online:8000/live/manuel817171/67781/3824.ts
-#EXTINF:-1,UK | Racing UK
-http://veoplay.online:8000/live/manuel817171/67781/3823.ts
-#EXTINF:-1,UK | Sony Movies
-http://veoplay.online:8000/live/manuel817171/67781/3787.ts
-#EXTINF:-1,UK | SyFy
-http://veoplay.online:8000/live/manuel817171/67781/3786.ts
 
